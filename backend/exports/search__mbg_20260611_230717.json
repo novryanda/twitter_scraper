@@ -1,0 +1,3840 @@
+{
+  "success": true,
+  "mode": "search",
+  "query": "#mbg",
+  "search_type": "Latest",
+  "scraped_at": "2026-06-11T23:06:08.642318",
+  "method": "browser_capture",
+  "tweets": [
+    {
+      "tweet_id": "2065094287885574655",
+      "url": "https://x.com/bergeloralah/status/2065094287885574655",
+      "text": "BURU NAMA BESAR..! Kejagung Fokus Bedah ‘Nyanyian’ #SonySanjaya,  Ini Tersangka Baru Pengatur Mitra dan Titik #Dapur #MBG https://t.co/244EbzoZHz lewat @BERGELORA.COM",
+      "created_at": "Thu Jun 11 15:30:20 +0000 2026",
+      "created_at_epoch": 1781191820,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 10,
+      "user": {
+        "username": "bergeloralah",
+        "name": "Bergelora.com",
+        "verified": false,
+        "followers_count": 1436,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "SonySanjaya",
+        "Dapur",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://bergelora.com/buru-nama-besar-kejagung-fokus-bedah-nyanyian-sony-sanjaya-ini-tersangka-baru-pengatur-mitra-dan-titik-dapur-mbg/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065094123921743927",
+      "url": "https://x.com/bergeloralah/status/2065094123921743927",
+      "text": "DIPERIKSA DULU DONG..! Ramai-ramai Bantah Terlibat #Korupsi #MBG Usai ‘Nyanyian’ #prabowobersamaburuh #SonySonjaya https://t.co/6Oqmadc2Mz lewat @BERGELORA.COM",
+      "created_at": "Thu Jun 11 15:29:41 +0000 2026",
+      "created_at_epoch": 1781191781,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 4,
+      "user": {
+        "username": "bergeloralah",
+        "name": "Bergelora.com",
+        "verified": false,
+        "followers_count": 1436,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "Korupsi",
+        "MBG",
+        "prabowobersamaburuh",
+        "SonySonjaya"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://bergelora.com/mayoritas-masih-mingkem-ramai-ramai-bantah-terlibat-korupsi-mbg-usai-nyanyian-sony-sonjaya/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065093403319386418",
+      "url": "https://x.com/bergeloralah/status/2065093403319386418",
+      "text": "ENG ING EEENG..! 8.617 Titik Dapur #MBG Bakal Ditata Ulang karena di Luar Skema 3T, Anggaran Kemungkinan Bakal Dipangkas #mbg  #bgn\nhttps://t.co/3XIRdgRtaB lewat @BERGELORA.COM",
+      "created_at": "Thu Jun 11 15:26:49 +0000 2026",
+      "created_at_epoch": 1781191609,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 7,
+      "user": {
+        "username": "bergeloralah",
+        "name": "Bergelora.com",
+        "verified": false,
+        "followers_count": 1436,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG",
+        "mbg",
+        "bgn"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://bergelora.com/eng-ing-eeeng-8-617-titik-dapur-mbg-bakal-ditata-ulang-karena-di-luar-skema-3t-anggaran-kemungkinan-bakal-dipangkas/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065093168832659964",
+      "url": "https://x.com/bergeloralah/status/2065093168832659964",
+      "text": "KOQ DIBIARIN SELAMA INI..? #Zulhas Ungkap Pembengkakan 13 Ribu Titik #SPPG Bikin Boros Rp 1 Triliun Per Bulan\n#mbg #bgn #korupsi\nhttps://t.co/llNZJOCVv0 lewat @BERGELORA.COM https://t.co/lqbMnTMv12",
+      "created_at": "Thu Jun 11 15:25:53 +0000 2026",
+      "created_at_epoch": 1781191553,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 10,
+      "user": {
+        "username": "bergeloralah",
+        "name": "Bergelora.com",
+        "verified": false,
+        "followers_count": 1436,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKivSwEbkAACTtX.jpg"
+        }
+      ],
+      "hashtags": [
+        "Zulhas",
+        "SPPG",
+        "mbg",
+        "bgn",
+        "korupsi"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://bergelora.com/koq-dibiarin-selama-ini-zulhas-ungkap-pembengkakan-13-ribu-titik-sppg-bikin-boros-rp-1-triliun-per-bulan/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065091809018097717",
+      "url": "https://x.com/sweetsugardavid/status/2065091809018097717",
+      "text": "Fery latuhihin dulu dewan penasehat tim TKN prabowo gribran... #plottwist #mbg #kdmp #mahasiswa #pelajar #rakyat #konoha #demo",
+      "created_at": "Thu Jun 11 15:20:29 +0000 2026",
+      "created_at_epoch": 1781191229,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 27,
+      "user": {
+        "username": "sweetsugardavid",
+        "name": "david",
+        "verified": false,
+        "followers_count": 10,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "plottwist",
+        "mbg",
+        "kdmp",
+        "mahasiswa",
+        "pelajar",
+        "rakyat",
+        "konoha",
+        "demo"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065091656953860450",
+      "url": "https://x.com/bergeloralah/status/2065091656953860450",
+      "text": "BANYAK KONFLIK KEPENTINGAN NIH..! Massa Bawa Panci dan Centong Segel Kantor #BGN, Tuntut Progam #MBG Dihentikan Sementara #prabowo\n#pialadunia2026 https://t.co/nfKHURLXra lewat @BERGELORA.COM",
+      "created_at": "Thu Jun 11 15:19:53 +0000 2026",
+      "created_at_epoch": 1781191193,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 10,
+      "user": {
+        "username": "bergeloralah",
+        "name": "Bergelora.com",
+        "verified": false,
+        "followers_count": 1436,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "BGN",
+        "MBG",
+        "prabowo",
+        "pialadunia2026"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://bergelora.com/banyak-konflik-kepentingan-nih-massa-bawa-panci-dan-centong-segel-kantor-bgn-tuntut-progam-mbg-dihentikan-sementara/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065090786572877850",
+      "url": "https://x.com/BulukumbaWarta/status/2065090786572877850",
+      "text": "Kejagung Tetapkan Tersangka Baru Kasus #MBG, Terungkap Peran Asep Yusuf dalam Dugaan Pengaturan Dapur dan Mitra https://t.co/Nkjo0fABdC",
+      "created_at": "Thu Jun 11 15:16:25 +0000 2026",
+      "created_at_epoch": 1781190985,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 7,
+      "user": {
+        "username": "BulukumbaWarta",
+        "name": "WartaBulukumba.Com",
+        "verified": false,
+        "followers_count": 79,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://wartabulukumba.pikiran-rakyat.com/hukrim/pr-8710265590/kejagung-tetapkan-tersangka-baru-kasus-mbg-terungkap-peran-asep-yusuf-dalam-dugaan-pengaturan-dapur-dan-mitra"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065082931836801535",
+      "url": "https://x.com/sweetsugardavid/status/2065082931836801535",
+      "text": "beginikah hasil kabinet mentri yang gemuk itu.... #mbg #rakyat #mahasiswa #pelajar #genz #genmilenial #konoha",
+      "created_at": "Thu Jun 11 14:45:12 +0000 2026",
+      "created_at_epoch": 1781189112,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 3,
+      "user": {
+        "username": "sweetsugardavid",
+        "name": "david",
+        "verified": false,
+        "followers_count": 10,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "mbg",
+        "rakyat",
+        "mahasiswa",
+        "pelajar",
+        "genz",
+        "genmilenial",
+        "konoha"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065069285576425587",
+      "url": "https://x.com/tyo_adprasetyo/status/2065069285576425587",
+      "text": "Kawan-kawan Bengkel, dugaan korupsi berjamaah program makan bergizi gratis satu per satu mulai terungkap. Kira-kira, Kejaksaan Agung akan mengusut keterlibatan aktor-aktor itu sampai tuntas nggak ya? \n\n#mbg\n#makanbergizigratis \n#BGN\n#kejaksaanagungri \n#reparasitanpabasabasi https://t.co/ip31z6Kpnn",
+      "created_at": "Thu Jun 11 13:50:59 +0000 2026",
+      "created_at_epoch": 1781185859,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 35,
+      "user": {
+        "username": "tyo_adprasetyo",
+        "name": "ad.prasetyo (tyo)",
+        "verified": false,
+        "followers_count": 377,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2065069165694816256/img/45kohLcSX19f_7gF.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2065069165694816256/vid/avc1/720x1280/PwWS2EkBf8f5KRQW.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "mbg",
+        "makanbergizigratis",
+        "BGN",
+        "kejaksaanagungri",
+        "reparasitanpabasabasi"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065067247241150918",
+      "url": "https://x.com/kompascom/status/2065067247241150918",
+      "text": "Baca selengkapnya: https://t.co/QHVSqcFThl\n\nMenteri Pendidikan Dasar dan Menengah Abdul Mu'ti menyatakan 43 juta murid penerima manfaat menginginkan Program Makan Bergizi Gratis (MBG) dilanjutkan karena dinilai berdampak positif.\n\n~RK #MBG #murid https://t.co/RKaucZUNdk",
+      "created_at": "Thu Jun 11 13:42:53 +0000 2026",
+      "created_at_epoch": 1781185373,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 4,
+      "bookmark_count": 0,
+      "view_count": 1266,
+      "user": {
+        "username": "kompascom",
+        "name": "Kompas.com",
+        "verified": true,
+        "followers_count": 7914056,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiXtbfbIAEGPOO.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "murid"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://nasional.kompas.com/read/2026/06/11/19273051/mendikdasmen-klaim-43-juta-murid-ingin-mbg-dilanjutkan?utm_source=twitter&utm_medium=social"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065062763391852993",
+      "url": "https://x.com/kompascom/status/2065062763391852993",
+      "text": "Baca selengkapnya: https://t.co/4Y97Co7vW7\n\nMenteri Sekretaris Negara Prasetyo Hadi menyatakan pemerintah berpotensi menutup SPPG atau dapur MBG yang membengkak hingga 6.887 titik.\n\n~RK #SPPG #MBG https://t.co/oZ7nguDcjp",
+      "created_at": "Thu Jun 11 13:25:04 +0000 2026",
+      "created_at_epoch": 1781184304,
+      "lang": "in",
+      "like_count": 19,
+      "retweet_count": 4,
+      "reply_count": 12,
+      "quote_count": 2,
+      "bookmark_count": 2,
+      "view_count": 2302,
+      "user": {
+        "username": "kompascom",
+        "name": "Kompas.com",
+        "verified": true,
+        "followers_count": 7914056,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiTc42akAAQmKK.jpg"
+        }
+      ],
+      "hashtags": [
+        "SPPG",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://nasional.kompas.com/read/2026/06/11/20040811/6877-sppg-bengkak-akan-ditutup-mensesneg-pasti-arahnya-ke-sana-tapi?utm_source=twitter&utm_medium=social"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065062243990184162",
+      "url": "https://x.com/deliknewscom/status/2065062243990184162",
+      "text": "Massa aksi mengajak pengguna jalan membunyikan klakson sebagai bentuk dukungan dan penyampaian aspirasi terkait evaluasi Program Makan Bergizi Gratis (MBG). Mereka menilai implementasi program masih menyisakan sejumlah persoalan yang perlu mendapat perhatian pemerintah.\n #mbg https://t.co/7fadlkg94W",
+      "created_at": "Thu Jun 11 13:23:00 +0000 2026",
+      "created_at_epoch": 1781184180,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 22,
+      "user": {
+        "username": "deliknewscom",
+        "name": "deliknews.com",
+        "verified": false,
+        "followers_count": 1370,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2065062185882288128/img/WFz6gcmtdT-EKflx.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2065062185882288128/vid/avc1/720x1280/pXpGnqO11H9xK7IA.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "mbg"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065058588020863395",
+      "url": "https://x.com/TajukNasional/status/2065058588020863395",
+      "text": "MBG watch minta Program MBG dihentikan sementara.\n\nFollow here:\nhttps://t.co/uQW8jjbf8f\n\nJoin Channel WhatsApp kami:\nhttps://t.co/IOOnzKEygQ\n\n#makanbergizigratis #mbg https://t.co/T1JT3kOTLN",
+      "created_at": "Thu Jun 11 13:08:28 +0000 2026",
+      "created_at_epoch": 1781183308,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 27,
+      "user": {
+        "username": "TajukNasional",
+        "name": "Tajuk Nasional",
+        "verified": false,
+        "followers_count": 30078,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2065058523327991808/img/6zqd4nbfFXPlkyXm.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2065058523327991808/vid/avc1/478x850/oSefFtUY06yF0pkl.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "makanbergizigratis",
+        "mbg"
+      ],
+      "mentions": [],
+      "urls": [
+        "http://Linktr.ee/tajuknasional",
+        "https://bit.ly/TajukNasional"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065055416317575349",
+      "url": "https://x.com/Bacotan_HariIni/status/2065055416317575349",
+      "text": "Emang kalau bahas \"MBG\" Mas Bahlil Ganteng cair guys???? 🤣🤣🤣\n\nSaksikan selengkapnya di Bacotan Hari Ini Podcast!\n\nJangan lupa like, comment, share, dan subscribe!!\n\nNgomong Apa Aja, Suka-suka..\n\n#MasBahlilGanteng #BahlilLahadalia #MBG #Bahlil #BacotanHariIni https://t.co/VbcXCi2X5R",
+      "created_at": "Thu Jun 11 12:55:52 +0000 2026",
+      "created_at_epoch": 1781182552,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 18,
+      "user": {
+        "username": "Bacotan_HariIni",
+        "name": "Bacotan Hari Ini Podcast",
+        "verified": false,
+        "followers_count": 4,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2065055372982046720/pu/img/T3d2eXMIajy7kQoX.jpg",
+          "video_url": "https://video.twimg.com/ext_tw_video/2065055372982046720/pu/vid/avc1/720x1280/pl-6DpGl--xUqSZL.mp4?tag=12"
+        }
+      ],
+      "hashtags": [
+        "MasBahlilGanteng",
+        "BahlilLahadalia",
+        "MBG",
+        "Bahlil",
+        "BacotanHariIni"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065054199537414303",
+      "url": "https://x.com/LB21baseball/status/2065054199537414303",
+      "text": "@CPOMPA30 is one of the Hottest 2029 Bats in Texas. 4-4 2 2B during @_LondonBaseball Run to the 3A State Championship Game. #MBG",
+      "created_at": "Thu Jun 11 12:51:02 +0000 2026",
+      "created_at_epoch": 1781182262,
+      "lang": "en",
+      "like_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 240,
+      "user": {
+        "username": "LB21baseball",
+        "name": "LB21 Baseball",
+        "verified": true,
+        "followers_count": 2284,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [
+        "CPOMPA30",
+        "_LondonBaseball"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065049479892582796",
+      "url": "https://x.com/amelamalia2088/status/2065049479892582796",
+      "text": "Anggaran MBG Tak Dipangkas, Tapi Bisa Menyusut, Istana Bongkar Pembengkakan Hampir 7 Ribu Dapur https://t.co/GSIsMAsyEN lewat @KanalnewsC #MBG",
+      "created_at": "Thu Jun 11 12:32:17 +0000 2026",
+      "created_at_epoch": 1781181137,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 11,
+      "user": {
+        "username": "amelamalia2088",
+        "name": "Ads",
+        "verified": false,
+        "followers_count": 126,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [
+        "KanalnewsC"
+      ],
+      "urls": [
+        "https://kanalnews.co/headline/anggaran-mbg-tak-dipangkas-tapi-bisa-menyusut-istana-bongkar-pembengkakan-hampir-7-ribu-dapur/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065041356918288822",
+      "url": "https://x.com/pantaucom_/status/2065041356918288822",
+      "text": "Paten nihhh kanda bahlil..\n#PantauTalks #Bahlil #MBG #HIPMI https://t.co/cMdcjBCRV0",
+      "created_at": "Thu Jun 11 12:00:00 +0000 2026",
+      "created_at_epoch": 1781179200,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 19,
+      "user": {
+        "username": "pantaucom_",
+        "name": "Pantau.com",
+        "verified": true,
+        "followers_count": 14498,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064982574322376704/img/bqYWRt1o0Zntlxrb.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064982574322376704/vid/avc1/1080x1920/3r2JawdHsWX5rTBs.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "PantauTalks",
+        "Bahlil",
+        "MBG",
+        "HIPMI"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065039608329773334",
+      "url": "https://x.com/kompascom/status/2065039608329773334",
+      "text": "Baca selengkapnya: https://t.co/e9YDWoAPSO\n\nDirektur Penyidikan Jaksa Agung Muda Bidang Pidana Khusus Kejaksaan Agung Syarief Sulaeman Nahdi menyebut AYS diduga menjadi perpanjangan tangan mantan Wakil Kepala Badan Gizi Nasional Sony Sonjaya.\n\n~RK #SPPG #MBG https://t.co/Yh0t5eB5oC",
+      "created_at": "Thu Jun 11 11:53:03 +0000 2026",
+      "created_at_epoch": 1781178783,
+      "lang": "in",
+      "like_count": 6,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "view_count": 2266,
+      "user": {
+        "username": "kompascom",
+        "name": "Kompas.com",
+        "verified": true,
+        "followers_count": 7914056,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKh-kpEbsAA55VX.jpg"
+        }
+      ],
+      "hashtags": [
+        "SPPG",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://nasional.kompas.com/read/2026/06/11/18382521/peran-ays-tersangka-baru-mbg-perpanjangan-tangan-sony-sonjaya-atur-sppg?utm_source=twitter&utm_medium=social"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065034294981247417",
+      "url": "https://x.com/suaradotcom/status/2065034294981247417",
+      "text": "Bikin geram! Program makan gratis buat rakyat pun masih dikorupsi, tangan kanan Sony Sanjaya ini akhirnya diciduk!\n\nBaca selengkapnya: https://t.co/RQjcDv2Mut\n\n#MBG #dapursppg #sonysanjaya #asepyusuf #BGN #korupsi BM https://t.co/Kg2sjJZp2v",
+      "created_at": "Thu Jun 11 11:31:57 +0000 2026",
+      "created_at_epoch": 1781177517,
+      "lang": "in",
+      "like_count": 2,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 87,
+      "user": {
+        "username": "suaradotcom",
+        "name": "suaradotcom",
+        "verified": true,
+        "followers_count": 30282,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKh5fcHbIAArquP.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "dapursppg",
+        "sonysanjaya",
+        "asepyusuf",
+        "BGN",
+        "korupsi"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://www.suara.com/news/2026/06/11/165402/sikat-tangan-kanan-sony-sanjaya-asep-yusuf-ditetapkan-tersangka-usai-akali-jatah-dapur-mbg"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065026979435589841",
+      "url": "https://x.com/TERBITharian/status/2065026979435589841",
+      "text": "Pengajuan JC Sony Sonjaya  Kejagung: Sedang Dipelajari \n.\n.\n #kejagung #sonysonjaya #mbg #bgn #jc #dadanhindayana #korupsi \nSaksikan selengkapnya di yotube TvTerbit\nhttps://t.co/ivwU3G9vqf",
+      "created_at": "Thu Jun 11 11:02:52 +0000 2026",
+      "created_at_epoch": 1781175772,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 37,
+      "user": {
+        "username": "TERBITharian",
+        "name": "Harian Terbit",
+        "verified": false,
+        "followers_count": 54,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "kejagung",
+        "sonysonjaya",
+        "mbg",
+        "bgn",
+        "jc",
+        "dadanhindayana",
+        "korupsi"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://youtube.com/shorts/cjzGt6q1L4U?feature=share"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065025333506834888",
+      "url": "https://x.com/DiskursusNet/status/2065025333506834888",
+      "text": "Akibatnya, distribusi makanan bagi ribuan penerima manfaat terganggu. Sementara itu, relawan dapur dan UMKM pemasok bahan pangan ikut terdampak.\n\n #MBG #SPPG #BGN https://t.co/0s9Zx6JT9Q",
+      "created_at": "Thu Jun 11 10:56:20 +0000 2026",
+      "created_at_epoch": 1781175380,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 25,
+      "user": {
+        "username": "DiskursusNet",
+        "name": "Diskursus Network",
+        "verified": false,
+        "followers_count": 295,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhxjTKaUAA06EF.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhxj9EbcAEtMVz.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "SPPG",
+        "BGN"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065020252392690118",
+      "url": "https://x.com/mustthumb/status/2065020252392690118",
+      "text": "Lakukan ini atau negara ini BUBAR!!\n#mbg #bbm #bgn https://t.co/YxTuRk2D2X",
+      "created_at": "Thu Jun 11 10:36:09 +0000 2026",
+      "created_at_epoch": 1781174169,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 35,
+      "user": {
+        "username": "mustthumb",
+        "name": "cummy Timmy",
+        "verified": false,
+        "followers_count": 46,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhs-MkbUAAOBrF.jpg"
+        }
+      ],
+      "hashtags": [
+        "mbg",
+        "bbm",
+        "bgn"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065018647236739079",
+      "url": "https://x.com/kompascom/status/2065018647236739079",
+      "text": "Baca selengkapnya: https://t.co/Sz8Om2MROh\n\nKejaksaan Agung RI menetapkan AYS selaku pihak swasta sebagai tersangka baru dalam dugaan korupsi tata kelola Program Makan Bergizi Gratis.\n\n~RK #MBG #tersangka https://t.co/ZF8YurmvlW",
+      "created_at": "Thu Jun 11 10:29:46 +0000 2026",
+      "created_at_epoch": 1781173786,
+      "lang": "in",
+      "like_count": 75,
+      "retweet_count": 18,
+      "reply_count": 5,
+      "quote_count": 4,
+      "bookmark_count": 5,
+      "view_count": 13861,
+      "user": {
+        "username": "kompascom",
+        "name": "Kompas.com",
+        "verified": true,
+        "followers_count": 7914057,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhrUqAaMAIqJxB.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "tersangka"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://nasional.kompas.com/read/2026/06/11/17200861/kejagung-tetapkan-1-tersangka-baru-korupsi-mbg?utm_source=twitter&utm_medium=social"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065011369913794647",
+      "url": "https://x.com/thejakartaglobe/status/2065011369913794647",
+      "text": "Indonesia's flagship Free Nutritious Meal program faces severe disruptions as hundreds of kitchens suspend operations due to budget delays and an ongoing graft probe into former agency officials. \n\n#MBG #BGN #DadanHindayana #JakartaGlobe https://t.co/mCmx9GRzEu",
+      "created_at": "Thu Jun 11 10:00:51 +0000 2026",
+      "created_at_epoch": 1781172051,
+      "lang": "en",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 124,
+      "user": {
+        "username": "thejakartaglobe",
+        "name": "The Jakarta Globe",
+        "verified": false,
+        "followers_count": 458393,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhkuVUaAAAb1JO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhkuVMbsAANGre.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhkuVHbwAAKPYr.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "BGN",
+        "DadanHindayana",
+        "JakartaGlobe"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065007197231464739",
+      "url": "https://x.com/kompascom/status/2065007197231464739",
+      "text": "Baca selengkapnya: https://t.co/tdqUJnbeQJ\n\nKepala Badan Gizi Nasional Nanik S Deyang melaporkan kepada Presiden Prabowo Subianto bahwa anak dari keluarga mampu tidak lagi menjadi penerima program Makan Bergizi Gratis.\n\n~RK #BGN #MBG https://t.co/4eW8OKzMas",
+      "created_at": "Thu Jun 11 09:44:16 +0000 2026",
+      "created_at_epoch": 1781171056,
+      "lang": "in",
+      "like_count": 78,
+      "retweet_count": 13,
+      "reply_count": 78,
+      "quote_count": 12,
+      "bookmark_count": 3,
+      "view_count": 11019,
+      "user": {
+        "username": "kompascom",
+        "name": "Kompas.com",
+        "verified": true,
+        "followers_count": 7914057,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhg009bwAAnHr-.jpg"
+        }
+      ],
+      "hashtags": [
+        "BGN",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://nasional.kompas.com/read/2026/06/11/16381831/kepala-bgn-lapor-ke-prabowo-anak-orang-kaya-tak-dapat-mbg-lagi?utm_source=twitter&utm_medium=social"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065004837046022577",
+      "url": "https://x.com/NenengAnj4r/status/2065004837046022577",
+      "text": "Jangan gitu apa mas ,.. 😩\n#MBG\n@noopiieeeeee \n@MyPaijoKun \n@NotFound_1945 \n@bagindo_kopi \n@toe_giman \n@Nurulkjo1 \n@abahnanisa \n@denni_sauya \n@KangManto123 \n@blackrenge85717 https://t.co/2P6s8L8D4l",
+      "created_at": "Thu Jun 11 09:34:53 +0000 2026",
+      "created_at_epoch": 1781170493,
+      "lang": "in",
+      "like_count": 7,
+      "retweet_count": 4,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 170,
+      "user": {
+        "username": "NenengAnj4r",
+        "name": "Neneng Anjarwati",
+        "verified": false,
+        "followers_count": 2444,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2065004823255146496/pu/img/p33hSmdXH2PIR--M.jpg",
+          "video_url": "https://video.twimg.com/ext_tw_video/2065004823255146496/pu/vid/avc1/360x640/4W-jIX0HE_pQzDO8.mp4?tag=12"
+        }
+      ],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [
+        "noopiieeeeee",
+        "MyPaijoKun",
+        "NotFound_1945",
+        "bagindo_kopi",
+        "toe_giman",
+        "Nurulkjo1",
+        "abahnanisa",
+        "denni_sauya",
+        "KangManto123",
+        "blackrenge85717"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064999852241731665",
+      "url": "https://x.com/aquaputeh/status/2064999852241731665",
+      "text": "Program Makan Bergizi Gratis (MBG) tidak hanya meningkatkan kualitas gizi masyarakat, tetapi juga menjadi penggerak ekonomi di daerah.\n\n#MBG #MakanBergiziGratis #EkonomiKerakyatan https://t.co/Ou0q971u9h",
+      "created_at": "Thu Jun 11 09:15:05 +0000 2026",
+      "created_at_epoch": 1781169305,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 18,
+      "user": {
+        "username": "aquaputeh",
+        "name": "aquaputeh",
+        "verified": false,
+        "followers_count": 8,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064999789478166528/img/kEKLnfBYDALre1Nk.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064999789478166528/vid/avc1/576x1024/8is0DRH0xG5v7K3a.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "EkonomiKerakyatan"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064998995630633097",
+      "url": "https://x.com/DiskursusNet/status/2064998995630633097",
+      "text": "Koalisi masyarakat sipil yang tergabung dalam MBG Watch menggelar aksi di depan kantor Badan Gizi Nasional, Jakarta Pusat.\n\n#MBG #BadanGiziNasional #MakanBergiziGratis https://t.co/FkxxuL7NUz",
+      "created_at": "Thu Jun 11 09:11:41 +0000 2026",
+      "created_at_epoch": 1781169101,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 19,
+      "user": {
+        "username": "DiskursusNet",
+        "name": "Diskursus Network",
+        "verified": false,
+        "followers_count": 295,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064998904819859456/img/gIotzHFQQJMlW5p0.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064998904819859456/vid/avc1/720x1280/W0_I7TfE_q3CKq_8.mp4?tag=14"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "BadanGiziNasional",
+        "MakanBergiziGratis"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064997255069991301",
+      "url": "https://x.com/kompascom/status/2064997255069991301",
+      "text": "Baca selengkapnya: https://t.co/1nFfN5UQdb\n\nSaat desakan evaluasi hingga penghentian sementara MBG terus bermunculan, Mensesneg Prasetyo Hadi menyebut BGN tengah memperbaiki tata kelola penyaluran program tersebut. \n\nLangkah apa yang sedang disiapkan?\n\n~MS #BGN #MBG https://t.co/fdgEQvKpkB",
+      "created_at": "Thu Jun 11 09:04:46 +0000 2026",
+      "created_at_epoch": 1781168686,
+      "lang": "in",
+      "like_count": 4,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "view_count": 1980,
+      "user": {
+        "username": "kompascom",
+        "name": "Kompas.com",
+        "verified": true,
+        "followers_count": 7914057,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064996916551995393/img/1Xtqy5Ht3OcUvF84.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064996916551995393/vid/avc1/1080x1920/tiUdqQRDOxTqUXDH.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "BGN",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://nasional.kompas.com/read/2026/06/11/13501841/ramai-desakan-evaluasi-bgn-mensesneg-janji-tata-kelola-mbg-diperbaiki?utm_campaign=twitter_newsplay"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064995570251338176",
+      "url": "https://x.com/theb_id/status/2064995570251338176",
+      "text": "Kemana Uang Hasil Mark up Mengalir? Siapa Aktor Intelektual dibalik Pengadaan Tersebut? Kejagung berani mengungkap secara transparan sesuai kenyataan? Jangan ada yang ditutup tutupi demi Indonesia Maju!\n\n#bgn #korupsi #mbg #kejagung #viral https://t.co/cLbxIgxrDB",
+      "created_at": "Thu Jun 11 08:58:04 +0000 2026",
+      "created_at_epoch": 1781168284,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 23,
+      "user": {
+        "username": "theb_id",
+        "name": "TheB",
+        "verified": false,
+        "followers_count": 28,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhWhpPaEAA2pgs.jpg"
+        }
+      ],
+      "hashtags": [
+        "bgn",
+        "korupsi",
+        "mbg",
+        "kejagung",
+        "viral"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064995505499963596",
+      "url": "https://x.com/Roy_karbonas/status/2064995505499963596",
+      "text": "#MBG\nMALING BERKEDOK GIZI",
+      "created_at": "Thu Jun 11 08:57:48 +0000 2026",
+      "created_at_epoch": 1781168268,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 16,
+      "user": {
+        "username": "Roy_karbonas",
+        "name": "Pak Paul Marpaung",
+        "verified": false,
+        "followers_count": 6710,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064993276135178516",
+      "url": "https://x.com/nlsfnlsf/status/2064993276135178516",
+      "text": "what do you guys thing about kopdes? #prabowo #koperasi #mbg https://t.co/B01WTLTZzQ",
+      "created_at": "Thu Jun 11 08:48:57 +0000 2026",
+      "created_at_epoch": 1781167737,
+      "lang": "en",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 30,
+      "user": {
+        "username": "nlsfnlsf",
+        "name": "NLSF",
+        "verified": true,
+        "followers_count": 668,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhUb_2akAA7-WT.jpg"
+        }
+      ],
+      "hashtags": [
+        "prabowo",
+        "koperasi",
+        "mbg"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064991530163794214",
+      "url": "https://x.com/serambinews/status/2064991530163794214",
+      "text": "Nazaruddin Dek Gam membantah keterlibatan dalam kasus korupsi Program Makan Bergizi Gratis.\nNazaruddin Dek Gam meminta publik menyerahkan proses hukum sepenuhnya kepada Kejaksaan Agung\n#MBG\nhttps://t.co/cKzAOWRHVk",
+      "created_at": "Thu Jun 11 08:42:01 +0000 2026",
+      "created_at_epoch": 1781167321,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 37,
+      "user": {
+        "username": "serambinews",
+        "name": "Serambi Indonesia",
+        "verified": false,
+        "followers_count": 109966,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://aceh.tribunnews.com/nanggroe/1029439/dek-gam-bantah-terlibat-dalam-kasus-dugaan-korupsi-program-mbg"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064988506213224604",
+      "url": "https://x.com/kabarterdepanID/status/2064988506213224604",
+      "text": "Dana Operasional Tersendat, 45 Dapur MBG di Jombang Berhenti Beroperasi\n\nhttps://t.co/e1n1taakOc\n\n#SPPG #MBG #Jombang #KabarTerdepan https://t.co/ufZAakNzu1",
+      "created_at": "Thu Jun 11 08:30:00 +0000 2026",
+      "created_at_epoch": 1781166600,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 16,
+      "user": {
+        "username": "kabarterdepanID",
+        "name": "Kabar Terdepan",
+        "verified": false,
+        "followers_count": 10487,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKg0wUVbgAA_iOZ.jpg"
+        }
+      ],
+      "hashtags": [
+        "SPPG",
+        "MBG",
+        "Jombang",
+        "KabarTerdepan"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://kabarterdepan.com/45-dapur-mbg-di-jombang-berhenti-beroperasi/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064987566643052820",
+      "url": "https://x.com/lmillerthriller/status/2064987566643052820",
+      "text": "Program MBG tidak hanya mencetak generasi sehat dan cerdas, tetapi juga menggerakkan ekonomi lokal melalui kolaborasi petani, UMKM, sekolah, dan masyarakat. 🇮🇩🍽️\n\n#MakanBergiziGratis #MBG #GenerasiSehat #IndonesiaMaju #SDMUnggul #EkonomiLokal #KetahananPangan #AnakIndonesiaHebat https://t.co/JPMtzKkpfh",
+      "created_at": "Thu Jun 11 08:26:16 +0000 2026",
+      "created_at_epoch": 1781166376,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 21,
+      "user": {
+        "username": "lmillerthriller",
+        "name": "luke miller",
+        "verified": false,
+        "followers_count": 4,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhPPT1aAAAPA6a.jpg"
+        }
+      ],
+      "hashtags": [
+        "MakanBergiziGratis",
+        "MBG",
+        "GenerasiSehat",
+        "IndonesiaMaju",
+        "SDMUnggul",
+        "EkonomiLokal",
+        "KetahananPangan",
+        "AnakIndonesiaHebat"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064987563312767141",
+      "url": "https://x.com/lmillerthriller/status/2064987563312767141",
+      "text": "Makan bergizi hari ini adalah investasi untuk masa depan bangsa. Melalui Program Makan Bergizi Gratis, kita menyiapkan generasi yang sehat, cerdas, dan siap membawa Indonesia menuju kemajuan. 🍎🇮🇩\n\n#MakanBergiziGratis #MBG #GenerasiSehat #IndonesiaMaju #IndonesiaEmas2045 https://t.co/VONStTfdvZ",
+      "created_at": "Thu Jun 11 08:26:15 +0000 2026",
+      "created_at_epoch": 1781166375,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 25,
+      "user": {
+        "username": "lmillerthriller",
+        "name": "luke miller",
+        "verified": false,
+        "followers_count": 4,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhOeDFboAAVQSw.jpg"
+        }
+      ],
+      "hashtags": [
+        "MakanBergiziGratis",
+        "MBG",
+        "GenerasiSehat",
+        "IndonesiaMaju",
+        "IndonesiaEmas2045"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064987397440577712",
+      "url": "https://x.com/portalberitaco/status/2064987397440577712",
+      "text": "Program Makan Bergizi Gratis (MBG) tidak hanya meningkatkan kualitas gizi masyarakat, tetapi juga menjadi penggerak ekonomi di daerah.\n\n#MBG #MakanBergiziGratis #EkonomiKerakyatan https://t.co/YCqqX07GLL",
+      "created_at": "Thu Jun 11 08:25:35 +0000 2026",
+      "created_at_epoch": 1781166335,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 22,
+      "user": {
+        "username": "portalberitaco",
+        "name": "Beritaterkini",
+        "verified": false,
+        "followers_count": 142,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2064987310345863168/pu/img/2iRu7gIT166uplxH.jpg",
+          "video_url": "https://video.twimg.com/ext_tw_video/2064987310345863168/pu/vid/avc1/576x1024/ogLlKBNudZmVKiPZ.mp4?tag=12"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "EkonomiKerakyatan"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064984025828298960",
+      "url": "https://x.com/IdChannel9/status/2064984025828298960",
+      "text": "Presiden Prabowo menegaskan program MBG, layanan kesehatan, dan Sekolah Rakyat hadir untuk menjawab kebutuhan masyarakat secara nyata.\n#PrabowoSubianto \n#MBG \n#SekolahRakyat \n#LayananKesehatan\n\nhttps://t.co/RFYTmZKQkP",
+      "created_at": "Thu Jun 11 08:12:11 +0000 2026",
+      "created_at_epoch": 1781165531,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 22,
+      "user": {
+        "username": "IdChannel9",
+        "name": "channel9.id",
+        "verified": false,
+        "followers_count": 1015,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "PrabowoSubianto",
+        "MBG",
+        "SekolahRakyat",
+        "LayananKesehatan"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://channel9.id/prabowo-sebut-mbg-cek-kesehatan-gratis-dan-sekolah-rakyat-sebagai-investasi-masa-depan/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064983401653018842",
+      "url": "https://x.com/Beli_mobil_baru/status/2064983401653018842",
+      "text": "https://t.co/7LwmRDk4WD\n\nTongkat tol #dadanhindayana #mbg #bgn https://t.co/r7hrUUhMOo",
+      "created_at": "Thu Jun 11 08:09:43 +0000 2026",
+      "created_at_epoch": 1781165383,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 6,
+      "user": {
+        "username": "Beli_mobil_baru",
+        "name": "HENDRI OLSHOP",
+        "verified": false,
+        "followers_count": 20,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhLdYabQAAyZ3B.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhLda0a0AAftU4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhLdcabIAAxCxV.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhLddkacAAEjhs.jpg"
+        }
+      ],
+      "hashtags": [
+        "dadanhindayana",
+        "mbg",
+        "bgn"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://s.shopee.co.id/7Ab6JP5Ndq"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064981152180637879",
+      "url": "https://x.com/mikirdoeloe/status/2064981152180637879",
+      "text": "MBG bukan cuma soal makan bergizi, tapi juga soal menggerakkan ekonomi desa. Ketika bahan baku dibeli dari petani, pedagang, dan UMKM lokal, manfaat program ikut berputar di masyarakat.\n#MBG #MakanBergiziGratis #MBGPerkuatEkonomiDesa #BeliDariDesa https://t.co/2PdqjyFABK",
+      "created_at": "Thu Jun 11 08:00:46 +0000 2026",
+      "created_at_epoch": 1781164846,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 12,
+      "user": {
+        "username": "mikirdoeloe",
+        "name": "mikirdoeloe",
+        "verified": false,
+        "followers_count": 39,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhJaQRbcAAP27c.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "MBGPerkuatEkonomiDesa",
+        "BeliDariDesa"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064981127031615527",
+      "url": "https://x.com/mikirdoeloe/status/2064981127031615527",
+      "text": "MBG bukan cuma soal makan bergizi, tapi juga soal menggerakkan ekonomi desa. Ketika bahan baku dibeli dari petani, pedagang, dan UMKM lokal, manfaat program ikut berputar di masyarakat.\n#MBG #MakanBergiziGratis #MBGPerkuatEkonomiDesa #BeliDariDesa https://t.co/nRPVVljXxA",
+      "created_at": "Thu Jun 11 08:00:40 +0000 2026",
+      "created_at_epoch": 1781164840,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 11,
+      "user": {
+        "username": "mikirdoeloe",
+        "name": "mikirdoeloe",
+        "verified": false,
+        "followers_count": 39,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhJYz8bIAAELRI.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "MBGPerkuatEkonomiDesa",
+        "BeliDariDesa"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064981102322933987",
+      "url": "https://x.com/mikirdoeloe/status/2064981102322933987",
+      "text": "MBG bukan cuma soal makan bergizi, tapi juga soal menggerakkan ekonomi desa. Ketika bahan baku dibeli dari petani, pedagang, dan UMKM lokal, manfaat program ikut berputar di masyarakat.\n#MBG #MakanBergiziGratis #MBGPerkuatEkonomiDesa #BeliDariDesa https://t.co/Szz6tNyrsE",
+      "created_at": "Thu Jun 11 08:00:34 +0000 2026",
+      "created_at_epoch": 1781164834,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 13,
+      "user": {
+        "username": "mikirdoeloe",
+        "name": "mikirdoeloe",
+        "verified": false,
+        "followers_count": 39,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhJXVja8AA0-8Z.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "MBGPerkuatEkonomiDesa",
+        "BeliDariDesa"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064980963210506681",
+      "url": "https://x.com/detikoto/status/2064980963210506681",
+      "text": "Nilai pengadaan motor listrik buat MBG tembus Rp 1 triliun. Pembayaran sudah dilakukan kepada vendor, namun motor listrik itu rupanya belum selesai dirakit semua! 😳🏍️\n\nPendapat kalian, detikers? 👀\n\n#detikOto #MBG https://t.co/eh9fTjN7Ok",
+      "created_at": "Thu Jun 11 08:00:01 +0000 2026",
+      "created_at_epoch": 1781164801,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 78,
+      "user": {
+        "username": "detikoto",
+        "name": "detikoto",
+        "verified": false,
+        "followers_count": 137406,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgxVgbaEAAOSij.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgxowXa4AA3Yim.jpg"
+        }
+      ],
+      "hashtags": [
+        "detikOto",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064979634106896626",
+      "url": "https://x.com/ciput_cinta/status/2064979634106896626",
+      "text": "Ala² Bahlil \n#MBG \n#bahlil \n#MertYazıcıoğlu \n#Irán https://t.co/8iVLeJLR8I",
+      "created_at": "Thu Jun 11 07:54:44 +0000 2026",
+      "created_at_epoch": 1781164484,
+      "lang": "tr",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 74,
+      "user": {
+        "username": "ciput_cinta",
+        "name": "Aufklarung",
+        "verified": false,
+        "followers_count": 1129,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2064979559913803776/pu/img/YKWUngDK0Tmp4Ssk.jpg",
+          "video_url": "https://video.twimg.com/ext_tw_video/2064979559913803776/pu/vid/avc1/720x1280/BzUX9hu3IZmJonag.mp4?tag=25"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "bahlil",
+        "MertYazıcıoğlu",
+        "Irán"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064977612574011879",
+      "url": "https://x.com/VeYunanda/status/2064977612574011879",
+      "text": "Program Makan Bergizi Gratis (MBG) tidak hanya meningkatkan kualitas gizi masyarakat, tetapi juga menjadi penggerak ekonomi di daerah.\n\n#MBG #MakanBergiziGratis #EkonomiKerakyatan https://t.co/uNVt8sif8T",
+      "created_at": "Thu Jun 11 07:46:42 +0000 2026",
+      "created_at_epoch": 1781164002,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 18,
+      "user": {
+        "username": "VeYunanda",
+        "name": "Venita Yunanda",
+        "verified": false,
+        "followers_count": 9,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064977406444843008/img/3ioXU-fHJuxbeQul.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064977406444843008/vid/avc1/576x1024/IUSzRzSLOqHu9Yf6.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "EkonomiKerakyatan"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064976655630864676",
+      "url": "https://x.com/BatamClick/status/2064976655630864676",
+      "text": "5 Dapur SPPG di Tanjungpinang Berhenti Beroperasi INI PENYEBABNYA\n\n#sppg #mbg #dapurmbg #mbgberhenti #menyapanusantara #batamclick #batamhits https://t.co/dDdbBKojIa",
+      "created_at": "Thu Jun 11 07:42:54 +0000 2026",
+      "created_at_epoch": 1781163774,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 17,
+      "user": {
+        "username": "BatamClick",
+        "name": "BatamClick.com",
+        "verified": false,
+        "followers_count": 302,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064976061130219520/img/O1fvZv45mvMQNMUf.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064976061130219520/vid/avc1/720x900/_Pqgeaq87UIvHdLo.mp4?tag=14"
+        }
+      ],
+      "hashtags": [
+        "sppg",
+        "mbg",
+        "dapurmbg",
+        "mbgberhenti",
+        "menyapanusantara",
+        "batamclick",
+        "batamhits"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064976591529382296",
+      "url": "https://x.com/HernaWWWan/status/2064976591529382296",
+      "text": "Era SBY Rp300 T untuk subsidi BBM, era Jokowi untuk infrastruktur, kini masa Prabowo hanya untuk MBG. #mbg #prabowosubianto #jokowi #sby",
+      "created_at": "Thu Jun 11 07:42:39 +0000 2026",
+      "created_at_epoch": 1781163759,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 56,
+      "user": {
+        "username": "HernaWWWan",
+        "name": "Hernawan Nurhadi (SecondLife)",
+        "verified": false,
+        "followers_count": 143,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "mbg",
+        "prabowosubianto",
+        "jokowi",
+        "sby"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064974399690936431",
+      "url": "https://x.com/BangsaNara/status/2064974399690936431",
+      "text": "Program Makan Bergizi Gratis tidak hanya meningkatkan kualitas gizi, tetapi juga mendorong UMKM, membuka lapangan kerja, dan menggerakkan ekonomi daerah. Penguatan tata kelola akan memastikan manfaatnya semakin optimal bagi masyarakat\n\n#ProgramMBG #MakanBergiziGratis #MBG https://t.co/DRITx83yKO",
+      "created_at": "Thu Jun 11 07:33:56 +0000 2026",
+      "created_at_epoch": 1781163236,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 17,
+      "user": {
+        "username": "BangsaNara",
+        "name": "nara bangsa",
+        "verified": false,
+        "followers_count": 38,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064974265037008896/img/sKY2217IHPDwQn2T.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064974265037008896/vid/avc1/480x854/vMYdCscKYZNyfgcL.mp4?tag=14"
+        }
+      ],
+      "hashtags": [
+        "ProgramMBG",
+        "MakanBergiziGratis",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064974065216131340",
+      "url": "https://x.com/BangsaNara/status/2064974065216131340",
+      "text": "Program Makan Bergizi Gratis tidak hanya meningkatkan kualitas gizi, tetapi juga mendorong UMKM, membuka lapangan kerja, dan menggerakkan ekonomi daerah. Penguatan tata kelola akan memastikan manfaatnya semakin optimal bagi masyarakat\n\n#ProgramMBG #MakanBergiziGratis #MBG https://t.co/oSQuXZMuXP",
+      "created_at": "Thu Jun 11 07:32:37 +0000 2026",
+      "created_at_epoch": 1781163157,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 29,
+      "user": {
+        "username": "BangsaNara",
+        "name": "nara bangsa",
+        "verified": false,
+        "followers_count": 38,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhC4zwbIAAhi8j.jpg"
+        }
+      ],
+      "hashtags": [
+        "ProgramMBG",
+        "MakanBergiziGratis",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064973892847014266",
+      "url": "https://x.com/BangsaNara/status/2064973892847014266",
+      "text": "Program Makan Bergizi Gratis tidak hanya meningkatkan kualitas gizi, tetapi juga mendorong UMKM, membuka lapangan kerja, dan menggerakkan ekonomi daerah. Penguatan tata kelola akan memastikan manfaatnya semakin optimal bagi masyarakat\n\n#ProgramMBG #MakanBergiziGratis #MBG https://t.co/ab4f6QAezX",
+      "created_at": "Thu Jun 11 07:31:56 +0000 2026",
+      "created_at_epoch": 1781163116,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 29,
+      "user": {
+        "username": "BangsaNara",
+        "name": "nara bangsa",
+        "verified": false,
+        "followers_count": 38,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhCzucaYAA7HWB.jpg"
+        }
+      ],
+      "hashtags": [
+        "ProgramMBG",
+        "MakanBergiziGratis",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064963498917114076",
+      "url": "https://x.com/KurapOCCRP/status/2064963498917114076",
+      "text": "Yang pertama dukung terang2an Jokowi tiga periode di podium kan Mister Bahlil Ganteng #MBG",
+      "created_at": "Thu Jun 11 06:50:37 +0000 2026",
+      "created_at_epoch": 1781160637,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 11,
+      "user": {
+        "username": "KurapOCCRP",
+        "name": "#SK-Reborn",
+        "verified": false,
+        "followers_count": 372,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064960621721039153",
+      "url": "https://x.com/BenerBener_/status/2064960621721039153",
+      "text": "Komitmen Pemerintah menjaga optimalisasi Program MBG #MBG #MakanBergiziGratis #Pemerintah #Viral https://t.co/pHsD7MDpPI",
+      "created_at": "Thu Jun 11 06:39:11 +0000 2026",
+      "created_at_epoch": 1781159951,
+      "lang": "in",
+      "like_count": 192,
+      "retweet_count": 4,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 5272,
+      "user": {
+        "username": "BenerBener_",
+        "name": "BenerBener",
+        "verified": false,
+        "followers_count": 19,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064960596135817216/img/BtrfSoRDie8lq2mI.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064960596135817216/vid/avc1/478x850/xKjd3lOqnrwY3S5O.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "Pemerintah",
+        "Viral"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064960556474462710",
+      "url": "https://x.com/BenerBener_/status/2064960556474462710",
+      "text": "Komitmen Pemerintah menjaga optimalisasi Program MBG #MBG #MakanBergiziGratis #Pemerintah #Viral https://t.co/ZIT2KBatRI",
+      "created_at": "Thu Jun 11 06:38:56 +0000 2026",
+      "created_at_epoch": 1781159936,
+      "lang": "in",
+      "like_count": 109,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 4220,
+      "user": {
+        "username": "BenerBener_",
+        "name": "BenerBener",
+        "verified": false,
+        "followers_count": 19,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064960527529545728/img/kNRuZJIvjXCcDMrF.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064960527529545728/vid/avc1/478x850/WAB1C79pOXCNWBJA.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "Pemerintah",
+        "Viral"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064960378061332521",
+      "url": "https://x.com/BenerBener_/status/2064960378061332521",
+      "text": "Komitmen Pemerintah menjaga optimalisasi Program MBG #MBG #MakanBergiziGratis #Pemerintah #Viral https://t.co/iLgcoigA4J",
+      "created_at": "Thu Jun 11 06:38:13 +0000 2026",
+      "created_at_epoch": 1781159893,
+      "lang": "in",
+      "like_count": 104,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 3156,
+      "user": {
+        "username": "BenerBener_",
+        "name": "BenerBener",
+        "verified": false,
+        "followers_count": 19,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064960347455545344/img/A01RM_QpCNalfh5k.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064960347455545344/vid/avc1/480x854/jYU0JaCMaLZvz7ue.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "Pemerintah",
+        "Viral"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064960280552263886",
+      "url": "https://x.com/BenerBener_/status/2064960280552263886",
+      "text": "Komitmen Pemerintah menjaga optimalisasi Program MBG #MBG #MakanBergiziGratis #Pemerintah #Viral https://t.co/FKtVMIcgjG",
+      "created_at": "Thu Jun 11 06:37:50 +0000 2026",
+      "created_at_epoch": 1781159870,
+      "lang": "in",
+      "like_count": 104,
+      "retweet_count": 4,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 5259,
+      "user": {
+        "username": "BenerBener_",
+        "name": "BenerBener",
+        "verified": false,
+        "followers_count": 19,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064960250764283904/img/L51I9V4DSDdNQ4Yj.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064960250764283904/vid/avc1/480x854/xwMmNkT13ert02bW.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "Pemerintah",
+        "Viral"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064958193084883081",
+      "url": "https://x.com/Polixnews/status/2064958193084883081",
+      "text": "\"Koalisi Kasih Ultimatum 30 Hari ke BGN buat benerin program MBG! Artinya ini Jadi 'Vitamin' Buat Program MBG Semakin BAIK pengelolaan nya!\"\n\n---\n\n#MBG #GiziAnakIndonesia #prabowo #fyp #beritaviral https://t.co/8yjZ39zPxu",
+      "created_at": "Thu Jun 11 06:29:32 +0000 2026",
+      "created_at_epoch": 1781159372,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 18,
+      "user": {
+        "username": "Polixnews",
+        "name": "Generasi terdepan Politik2",
+        "verified": false,
+        "followers_count": 1,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKg0YpbaQAE-YmS.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "GiziAnakIndonesia",
+        "prabowo",
+        "fyp",
+        "beritaviral"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064955577621692748",
+      "url": "https://x.com/suhendra_toto/status/2064955577621692748",
+      "text": "Presiden @prabowo tanpa #MBG anak² tetap makan tapi tanpa #MBG aparat pemerintah tidak bisa Korupsi ..\nGemoy gemoy.... https://t.co/h39j1zE5xL",
+      "created_at": "Thu Jun 11 06:19:09 +0000 2026",
+      "created_at_epoch": 1781158749,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 16,
+      "user": {
+        "username": "suhendra_toto",
+        "name": "Toto Suhendra",
+        "verified": false,
+        "followers_count": 955,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgyJnVaEAAW6NE.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MBG"
+      ],
+      "mentions": [
+        "prabowo"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064952928528740594",
+      "url": "https://x.com/sweetsugardavid/status/2064952928528740594",
+      "text": "krisis perang irak dan minyak dunia itu lu pikirin... yg utama skrng perut selamat. bukan naikin pajak tolol... orng pada survive ngejaga fiskal bisnisnya... elu seenak jidat naikin pajak... justru diskon pea... #konoha #mbg #pekerja #mahasiswa #pelajar",
+      "created_at": "Thu Jun 11 06:08:37 +0000 2026",
+      "created_at_epoch": 1781158117,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 15,
+      "user": {
+        "username": "sweetsugardavid",
+        "name": "david",
+        "verified": false,
+        "followers_count": 10,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "konoha",
+        "mbg",
+        "pekerja",
+        "mahasiswa",
+        "pelajar"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064950763818992088",
+      "url": "https://x.com/tvOneNews/status/2064950763818992088",
+      "text": "Pemerintah menyiapkan perubahan skema program Makan Bergizi Gratis di wilayah tertinggal, terdepan, dan terluar (3T) dengan melibatkan perusahaan melalui program tanggung jawab sosial atau CSR.\n\n#MBG #BGN #DudungAbdurachman #3T #OneNewsUpdatetvOne #ONU02 #AZ03 https://t.co/otu5FfeNEJ",
+      "created_at": "Thu Jun 11 06:00:01 +0000 2026",
+      "created_at_epoch": 1781157601,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 601,
+      "user": {
+        "username": "tvOneNews",
+        "name": "tvOnenews",
+        "verified": false,
+        "followers_count": 7980768,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064941875015159808/img/nBYattCfeAGrAsa3.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064941875015159808/vid/avc1/1080x1920/E9gNGTuGCgWC7Brj.mp4?tag=16"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "BGN",
+        "DudungAbdurachman",
+        "3T",
+        "OneNewsUpdatetvOne",
+        "ONU02",
+        "AZ03"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064947368223797365",
+      "url": "https://x.com/Yuukirito52/status/2064947368223797365",
+      "text": "#bbm #mbg #dadancs https://t.co/xyBHSzfW5a",
+      "created_at": "Thu Jun 11 05:46:32 +0000 2026",
+      "created_at_epoch": 1781156792,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 87,
+      "user": {
+        "username": "Yuukirito52",
+        "name": "Yuuki Rito",
+        "verified": false,
+        "followers_count": 51,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgqr4PaAAAClQn.jpg"
+        }
+      ],
+      "hashtags": [
+        "bbm",
+        "mbg",
+        "dadancs"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064946473293283410",
+      "url": "https://x.com/TheUncleDee/status/2064946473293283410",
+      "text": "@regar_op0sisi Apa yg ada di kepala 'si Lay' udah ketebak\n\nJauh\" hari dia sudah total Anggaran #MBG \n\ndan sudah ada rincian berapa yg  Turun kebawah &amp; berapa yg di 'Keep'\n\nInget, MBG ini karya @jokowi\nrealisasinya wowo\n\nHIDEN DEBT tetap harus di bayar\n\nWalaupun udah di 'cicil' pake bandara IMIP",
+      "created_at": "Thu Jun 11 05:42:58 +0000 2026",
+      "created_at_epoch": 1781156578,
+      "lang": "in",
+      "like_count": 10,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 455,
+      "user": {
+        "username": "TheUncleDee",
+        "name": "#TuanⓂuda™",
+        "verified": false,
+        "followers_count": 924,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [
+        "regar_op0sisi",
+        "jokowi"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064935961025483191",
+      "url": "https://x.com/UnggulHP__01/status/2064935961025483191",
+      "text": "Investor Program MBG datangi knator BGN, Tuntut kejelasan oprasional dan pembayaran miliaran rupiah\n\n#MBG #Sppg #prabowo #pemerintah https://t.co/vjlDXQQ7GQ",
+      "created_at": "Thu Jun 11 05:01:12 +0000 2026",
+      "created_at_epoch": 1781154072,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 20,
+      "user": {
+        "username": "UnggulHP__01",
+        "name": "UnggulHP",
+        "verified": false,
+        "followers_count": 20,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064935707240779776/img/f3hGAgwNqFCFlP9f.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064935707240779776/vid/avc1/720x1280/vo6VPkka7sIJQFYD.mp4?tag=14"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "Sppg",
+        "prabowo",
+        "pemerintah"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064935464721944713",
+      "url": "https://x.com/derias007/status/2064935464721944713",
+      "text": "Salah Satu Mafia yang melakukan Scam melalui cara membuka lowongan pekerjaan di Bali. Waspada lah ‼️\n\n#lowongankerja #Bahlil #MBG #Gibran #Prabowo https://t.co/RXpsJw5XBr",
+      "created_at": "Thu Jun 11 04:59:14 +0000 2026",
+      "created_at_epoch": 1781153954,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 63,
+      "user": {
+        "username": "derias007",
+        "name": "T-Bone",
+        "verified": false,
+        "followers_count": 851,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064935167249330176/img/zvK7QuhU-4HyKH1u.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064935167249330176/vid/avc1/480x854/P_Y-9anWQdxId23V.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "lowongankerja",
+        "Bahlil",
+        "MBG",
+        "Gibran",
+        "Prabowo"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064932463991030231",
+      "url": "https://x.com/UnggulHP__01/status/2064932463991030231",
+      "text": "Mitra SPPG gruduk kantor BGN protes berbagai masalah\n\nMenurut kalian gimana gaes??\n_____________________________________________________\nPagii Pertalite TVRI\n\n#mbg #sppg #beritaindonesia https://t.co/Ov9PhiIbSk",
+      "created_at": "Thu Jun 11 04:47:18 +0000 2026",
+      "created_at_epoch": 1781153238,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 68,
+      "user": {
+        "username": "UnggulHP__01",
+        "name": "UnggulHP",
+        "verified": false,
+        "followers_count": 20,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064932038831226880/img/3o_fMx4tygE4EWTs.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064932038831226880/vid/avc1/720x1280/CONPVRo5A752u8iZ.mp4?tag=14"
+        }
+      ],
+      "hashtags": [
+        "mbg",
+        "sppg",
+        "beritaindonesia"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064930896705446188",
+      "url": "https://x.com/sweetsugardavid/status/2064930896705446188",
+      "text": "dari cara ngomong... sudah kelihatan pemikirannya... apalagi manifestasi tindakannya... engga perlu 2 tahun... #cukup #rakyatberkorban #mbg #konoha #rakyat #mahasiswa #pelajar #pekerja #genz #genmilenial",
+      "created_at": "Thu Jun 11 04:41:04 +0000 2026",
+      "created_at_epoch": 1781152864,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 6,
+      "user": {
+        "username": "sweetsugardavid",
+        "name": "david",
+        "verified": false,
+        "followers_count": 10,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "cukup",
+        "rakyatberkorban",
+        "mbg",
+        "konoha",
+        "rakyat",
+        "mahasiswa",
+        "pelajar",
+        "pekerja",
+        "genz",
+        "genmilenial"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064930015075324336",
+      "url": "https://x.com/Ririn_Rizky/status/2064930015075324336",
+      "text": "Ketika tata kelola makin kuat dan pelaksanaan makin efisien, Program MBG berpotensi menjadi salah satu program yang manfaatnya paling terasa langsung di tengah masyarakat. #MBG https://t.co/7WxuQinx1u",
+      "created_at": "Thu Jun 11 04:37:34 +0000 2026",
+      "created_at_epoch": 1781152654,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 10814,
+      "user": {
+        "username": "Ririn_Rizky",
+        "name": "Ririn apriyanti",
+        "verified": false,
+        "followers_count": 22,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064929926567141376/img/IhmCDDbonk4VB8aY.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064929926567141376/vid/avc1/720x1280/WpjE1g0C7VB-Tzyh.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064929841913512303",
+      "url": "https://x.com/Ririn_Rizky/status/2064929841913512303",
+      "text": "bukan sekadar perbaikan administrasi, melainkan upaya nyata pemerintah memastikan Program MBG semakin efektif dalam membantu masyarakat luas. #MBG https://t.co/DgsaXz4Kpz",
+      "created_at": "Thu Jun 11 04:36:53 +0000 2026",
+      "created_at_epoch": 1781152613,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 15308,
+      "user": {
+        "username": "Ririn_Rizky",
+        "name": "Ririn apriyanti",
+        "verified": false,
+        "followers_count": 22,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgavora0AAljiI.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064929744630730776",
+      "url": "https://x.com/Ririn_Rizky/status/2064929744630730776",
+      "text": "Banyak yang penasaran hasilnya, tapi satu yang pasti, penguatan tata kelola MBG menjadi langkah penting agar program berjalan lebih optimal dan berkelanjutan. #MBG #ProgramNasional https://t.co/qCWO4RKHBo",
+      "created_at": "Thu Jun 11 04:36:30 +0000 2026",
+      "created_at_epoch": 1781152590,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 12009,
+      "user": {
+        "username": "Ririn_Rizky",
+        "name": "Ririn apriyanti",
+        "verified": false,
+        "followers_count": 22,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgapuYa0AA-Aen.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "ProgramNasional"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064928935641796913",
+      "url": "https://x.com/RagaSukma_1/status/2064928935641796913",
+      "text": "@kompascom Maksudnya #bahlil makannya #MBG minumnya Pertamax, gitu  ? #BBM @bahlillahadalia @KemenESDM",
+      "created_at": "Thu Jun 11 04:33:17 +0000 2026",
+      "created_at_epoch": 1781152397,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 20,
+      "user": {
+        "username": "RagaSukma_1",
+        "name": "StopPanggilSayaGus",
+        "verified": false,
+        "followers_count": 87,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "bahlil",
+        "MBG",
+        "BBM"
+      ],
+      "mentions": [
+        "kompascom",
+        "bahlillahadalia",
+        "KemenESDM"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064924299736338697",
+      "url": "https://x.com/suci_putih19/status/2064924299736338697",
+      "text": "Pemkab Sampang membentuk tim pembinaan dan pengawasan MBG guna memastikan program berjalan optimal, tepat sasaran, dan memberi manfaat bagi masyarakat. 💪🍽️\n\n#MBG #MakanBergiziGratis #Sampang #BGN #GiziAnakBangsa #IndonesiaMaju https://t.co/KatN7ClXqI",
+      "created_at": "Thu Jun 11 04:14:52 +0000 2026",
+      "created_at_epoch": 1781151292,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 9,
+      "user": {
+        "username": "suci_putih19",
+        "name": "Putih Suci",
+        "verified": false,
+        "followers_count": 9,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgVGeeacAA5NoM.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "Sampang",
+        "BGN",
+        "GiziAnakBangsa",
+        "IndonesiaMaju"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064922964236423224",
+      "url": "https://x.com/IpaeninYus9835/status/2064922964236423224",
+      "text": "Komitmen menjaga kualitas terus dilakukan. Satgas MBG Kabupaten Probolinggo melaksanakan monitoring dan evaluasi di SPPG Maron Wetan dan Wonorejo guna memastikan setiap proses berjalan sesuai standar dan manfaat program benar-benar dirasakan masyarakat. \n\nDonat #MBG #Probolinggo https://t.co/opr5uRvEu1",
+      "created_at": "Thu Jun 11 04:09:33 +0000 2026",
+      "created_at_epoch": 1781150973,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 46,
+      "user": {
+        "username": "IpaeninYus9835",
+        "name": "Tirta Kamila 🖤",
+        "verified": false,
+        "followers_count": 288,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgUfTea4AAWZlz.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "Probolinggo"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064922819465712019",
+      "url": "https://x.com/ch4knun75621/status/2064922819465712019",
+      "text": "Hasil survei independen di 800 titik SPPG menunjukkan dampak konkret yang positif: rantai pasok MBG murni menggerakkan UMKM &amp; usaha lokal, bukan dikuasai supplier besar! 🇮🇩\n\n#MBG #UMKM #DewanEkonomiNasional #Prabowo #EkonomiLokal https://t.co/lrg5r8jr4H",
+      "created_at": "Thu Jun 11 04:08:59 +0000 2026",
+      "created_at_epoch": 1781150939,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 11,
+      "user": {
+        "username": "ch4knun75621",
+        "name": "Ch4knun",
+        "verified": false,
+        "followers_count": 1,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgUWwuaoAAM-T4.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "UMKM",
+        "DewanEkonomiNasional",
+        "Prabowo",
+        "EkonomiLokal"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064907669421638102",
+      "url": "https://x.com/rmbantencom/status/2064907669421638102",
+      "text": "🍽️ MBG tetap jalan!\n\nPemerintah menegaskan yang dihentikan sementara hanya pembangunan dapur baru (SPPG), bukan Program Makan Bergizi Gratis.\n\n#MBG #MakanBergiziGratis #RajaMedia\n\nhttps://t.co/aO8Kf9h13e",
+      "created_at": "Thu Jun 11 03:08:47 +0000 2026",
+      "created_at_epoch": 1781147327,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 17,
+      "user": {
+        "username": "rmbantencom",
+        "name": "RAJAMEDIA.CO",
+        "verified": false,
+        "followers_count": 1017,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "RajaMedia"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://rajamedia.co/berita/mbg-tetap-jalan-bakom-pemerintah-hanya-rem-pembangunan-dapur-baru"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064906415219822692",
+      "url": "https://x.com/kbr_priangancom/status/2064906415219822692",
+      "text": "Forkopincam Tarogong Kaler Garut Sinergi Lintas Sektor Kawal Pelaksanaan Program Makan Bergizi Gratis\n\nselengkapnya dengan link: https://t.co/rg0BXznknp\n\n#mbg #kabargarut #ingogarut https://t.co/m7jANDMoCr",
+      "created_at": "Thu Jun 11 03:03:48 +0000 2026",
+      "created_at_epoch": 1781147028,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 9,
+      "user": {
+        "username": "kbr_priangancom",
+        "name": "Kabar-Priangan.com",
+        "verified": false,
+        "followers_count": 32,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKf-H9KaAAEycmU.jpg"
+        }
+      ],
+      "hashtags": [
+        "mbg",
+        "kabargarut",
+        "ingogarut"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://kabargarut.pikiran-rakyat.com/kabar-garut/pr-32110263830/forkopincam-tarogong-kaler-garut-sinergi-lintas-sektor-kawal-pelaksanaan-program-makan-bergizi-gratis"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064900487934328888",
+      "url": "https://x.com/AnDyqk25/status/2064900487934328888",
+      "text": "Expresi lu Ketika Pertamax naik \n\n#pertamina #bahlil #MBG https://t.co/LwgVB8a2hs",
+      "created_at": "Thu Jun 11 02:40:14 +0000 2026",
+      "created_at_epoch": 1781145614,
+      "lang": "in",
+      "like_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 62,
+      "user": {
+        "username": "AnDyqk25",
+        "name": "Bg Uban",
+        "verified": true,
+        "followers_count": 612,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064900429801283584/img/GFZI2e50Aq1UCm5-.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064900429801283584/vid/avc1/576x1024/3kmYdCUBIf8G1WHD.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "pertamina",
+        "bahlil",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064895536034169272",
+      "url": "https://x.com/officialbitv/status/2064895536034169272",
+      "text": "Tuntutan Audit Program MBG Menguat, DPR Minta Publik Menunggu Hasil Pemeriksaan BPK\n\nhttps://t.co/1tcO4RAEJT\n\n#MakanBergiziGratis #MBG #BadanGiziNasional #BGN #DPRRI #KomisiIXDPR #YahyaZaini #AuditBPK #BPKRI #ProgramMBG #BeritaPolitik #AnggaranNegara #bitvonline https://t.co/obOfGKwLZd",
+      "created_at": "Thu Jun 11 02:20:34 +0000 2026",
+      "created_at_epoch": 1781144434,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 17,
+      "user": {
+        "username": "officialbitv",
+        "name": "bitvofficial",
+        "verified": false,
+        "followers_count": 46,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKf7hm_bcAAdSBR.jpg"
+        }
+      ],
+      "hashtags": [
+        "MakanBergiziGratis",
+        "MBG",
+        "BadanGiziNasional",
+        "BGN",
+        "DPRRI",
+        "KomisiIXDPR",
+        "YahyaZaini",
+        "AuditBPK",
+        "BPKRI",
+        "ProgramMBG",
+        "BeritaPolitik",
+        "AnggaranNegara",
+        "bitvonline"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://www.bitvonline.com/politik/69287/tuntutan-audit-program-mbg-menguat-dpr-minta-publik-menunggu-hasil-pemeriksaan-bpk/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064895376197665180",
+      "url": "https://x.com/jp_agoes/status/2064895376197665180",
+      "text": "Apakah dapur sppg masih beroperasi ? Atau berhenti sementara ? Atau.....\n#mbg",
+      "created_at": "Thu Jun 11 02:19:56 +0000 2026",
+      "created_at_epoch": 1781144396,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 8,
+      "user": {
+        "username": "jp_agoes",
+        "name": "goeslo",
+        "verified": false,
+        "followers_count": 478,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "mbg"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064887731428442310",
+      "url": "https://x.com/MTeam87218/status/2064887731428442310",
+      "text": "Lavio Sepatu Pria Safety Boots High Premium Quality lavio Exo High Booster Mood Hiking Proyek Outdoor Touring cod https://t.co/4Vsvi4P6uj\n\n#moodcewe #foodlover #mbg",
+      "created_at": "Thu Jun 11 01:49:33 +0000 2026",
+      "created_at_epoch": 1781142573,
+      "lang": "en",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 27,
+      "user": {
+        "username": "MTeam87218",
+        "name": "Estetik Disini",
+        "verified": false,
+        "followers_count": 216,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "moodcewe",
+        "foodlover",
+        "mbg"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://vt.tokopedia.com/t/ZS9j82muhcAp5-BpWJG/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064881927111533044",
+      "url": "https://x.com/TasyaFahira18/status/2064881927111533044",
+      "text": "Gizi baik untuk generasi sehat, pendidikan kuat untuk masa depan cerah, dan ekonomi lokal yang berdaya. Itulah tiga pilar utama yang ingin dicapai melalui senyum Jutaan penerima mbg. Mari kawal bersama program ini menuju Indonesia Maju\n#MakanBergiziGratis #MBG https://t.co/LbDHQl0dyu",
+      "created_at": "Thu Jun 11 01:26:29 +0000 2026",
+      "created_at_epoch": 1781141189,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 12,
+      "user": {
+        "username": "TasyaFahira18",
+        "name": "Tasya Fahira",
+        "verified": false,
+        "followers_count": 449,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKfvJ1MawAA0GLu.jpg"
+        }
+      ],
+      "hashtags": [
+        "MakanBergiziGratis",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064881878549836214",
+      "url": "https://x.com/TasyaFahira18/status/2064881878549836214",
+      "text": "Gizi baik untuk generasi sehat, pendidikan kuat untuk masa depan cerah, dan ekonomi lokal yang berdaya. Itulah tiga pilar utama yang ingin dicapai melalui senyum Jutaan penerima mbg. Mari kawal bersama program ini menuju Indonesia Maju\n#MakanBergiziGratis #MBG https://t.co/URikhxR6Yd",
+      "created_at": "Thu Jun 11 01:26:18 +0000 2026",
+      "created_at_epoch": 1781141178,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 14,
+      "user": {
+        "username": "TasyaFahira18",
+        "name": "Tasya Fahira",
+        "verified": false,
+        "followers_count": 449,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKfvHMPaEAASJm9.jpg"
+        }
+      ],
+      "hashtags": [
+        "MakanBergiziGratis",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064878482925244722",
+      "url": "https://x.com/mile_lea/status/2064878482925244722",
+      "text": "Anak-anak Merauke makin ceria berkat program makanan bergizi, yuk dukung terus biar mereka makin kuat #MBG #IndonesiaEmas2045 #IndonesiaSehat https://t.co/nhAhugsDhS",
+      "created_at": "Thu Jun 11 01:12:48 +0000 2026",
+      "created_at_epoch": 1781140368,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 8,
+      "user": {
+        "username": "mile_lea",
+        "name": "mile.lea",
+        "verified": false,
+        "followers_count": 7,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKfsCYDaAAArVLq.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "IndonesiaEmas2045",
+        "IndonesiaSehat"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064877547670929878",
+      "url": "https://x.com/mile_lea/status/2064877547670929878",
+      "text": "Susu lokal berkualitas siap dibagikan demi dukung tumbuh kembang anak sehat di seluruh pelosok negeri #MBG #IndonesiaEmas2045 #IndonesiaSehat https://t.co/S1AC2osbeC",
+      "created_at": "Thu Jun 11 01:09:05 +0000 2026",
+      "created_at_epoch": 1781140145,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 10,
+      "user": {
+        "username": "mile_lea",
+        "name": "mile.lea",
+        "verified": false,
+        "followers_count": 7,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKfrL8DacAEVa2E.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "IndonesiaEmas2045",
+        "IndonesiaSehat"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064876366911447531",
+      "url": "https://x.com/distriknewscom/status/2064876366911447531",
+      "text": "Niat hati menyantap hidangan program Makan Bergizi Gratis (MBG), para siswa justru dikejutkan dengan pemandangan tak terduga. \n\nTerlihat seekor ulat hijau masih hidup dan asyik menggeliat di atas porsi nasi putih yang siap santap.\n\n#mbg #viral #makanbergizigratis https://t.co/pAQKIaZwYv",
+      "created_at": "Thu Jun 11 01:04:24 +0000 2026",
+      "created_at_epoch": 1781139864,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 30,
+      "user": {
+        "username": "distriknewscom",
+        "name": "DISTRIK NEWS | PT DISTRIK MEDIA GROUP",
+        "verified": false,
+        "followers_count": 30,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064876300834316288/img/QASVsyv7g02QUBpL.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064876300834316288/vid/avc1/718x1280/G8YX3b3QOr7-rI_f.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "mbg",
+        "viral",
+        "makanbergizigratis"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064875379681280510",
+      "url": "https://x.com/yesaya_dimara/status/2064875379681280510",
+      "text": "@KangManto123 MBG Hadir untuk Anak Papua ❤️\n\n#mbg #mbgpapua #makanbergizigratis https://t.co/2vYSyscppO",
+      "created_at": "Thu Jun 11 01:00:28 +0000 2026",
+      "created_at_epoch": 1781139628,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 13,
+      "user": {
+        "username": "yesaya_dimara",
+        "name": "Yesaya Dimara #papuaindonesia",
+        "verified": false,
+        "followers_count": 80,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064875078752563200/img/OdOXCX9u4NRBgxmL.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064875078752563200/vid/avc1/464x832/hRVRd68NZSHBg48C.mp4?tag=14"
+        }
+      ],
+      "hashtags": [
+        "mbg",
+        "mbgpapua",
+        "makanbergizigratis"
+      ],
+      "mentions": [
+        "KangManto123"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064873659240718695",
+      "url": "https://x.com/JimanAndreas/status/2064873659240718695",
+      "text": "#MBG o MBG nasibmu baiknya k laut aja,dipastikan MBG hnya tuk2 anak2 d daerah terpencil,jd #anggaran hemat n bikin seger #APBN @prabowo @cnbcindonesia @abu_waras @CNNIndonesia @jokowi @gibran_tweet @MetroTVNewsRoom @xquitavee @KompasTV @ch_chotimah2 @officialinews_ @kaesangp",
+      "created_at": "Thu Jun 11 00:53:38 +0000 2026",
+      "created_at_epoch": 1781139218,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 7,
+      "user": {
+        "username": "JimanAndreas",
+        "name": "Andreas Jiman",
+        "verified": false,
+        "followers_count": 33,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG",
+        "anggaran",
+        "APBN"
+      ],
+      "mentions": [
+        "prabowo",
+        "cnbcindonesia",
+        "abu_waras",
+        "CNNIndonesia",
+        "jokowi",
+        "gibran_tweet",
+        "MetroTVNewsRoom",
+        "xquitavee",
+        "KompasTV",
+        "ch_chotimah2",
+        "officialinews_",
+        "kaesangp"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064873227885916494",
+      "url": "https://x.com/Mistar_id/status/2064873227885916494",
+      "text": "Demo di Kantor BGN, Massa Tuntut Audit Program MBG\n\n#Demo #MBG #BGN #MBGWatch #ProgramMBG https://t.co/2NtGs6wLls",
+      "created_at": "Thu Jun 11 00:51:55 +0000 2026",
+      "created_at_epoch": 1781139115,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 61,
+      "user": {
+        "username": "Mistar_id",
+        "name": "Harian Mistar",
+        "verified": false,
+        "followers_count": 23,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064872895512457216/img/DJpZsKxOnHUDk9ZE.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064872895512457216/vid/avc1/720x1280/mxT65saBq6P_8DWA.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "Demo",
+        "MBG",
+        "BGN",
+        "MBGWatch",
+        "ProgramMBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064871222920503393",
+      "url": "https://x.com/officialbitv/status/2064871222920503393",
+      "text": "Mentan Dorong Menu Telur dan Ayam Tiga Kali Sepekan di MBG, Serapan Peternak dan Harga Diharapkan Meningkat\n\nhttps://t.co/tQoDjWEZcD\n\n#MakanBergiziGratis #MBG #AndiAmranSulaiman #BadanGiziNasional #HargaTelur #HargaAyam #PeternakAyam #PeternakanIndonesia #bitvonline https://t.co/o2rr2sdBGR",
+      "created_at": "Thu Jun 11 00:43:57 +0000 2026",
+      "created_at_epoch": 1781138637,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 12,
+      "user": {
+        "username": "officialbitv",
+        "name": "bitvofficial",
+        "verified": false,
+        "followers_count": 46,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKflSYmaIAA_EeM.jpg"
+        }
+      ],
+      "hashtags": [
+        "MakanBergiziGratis",
+        "MBG",
+        "AndiAmranSulaiman",
+        "BadanGiziNasional",
+        "HargaTelur",
+        "HargaAyam",
+        "PeternakAyam",
+        "PeternakanIndonesia",
+        "bitvonline"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://www.bitvonline.com/pemerintahan/69274/mentan-dorong-menu-telur-dan-ayam-tiga-kali-sepekan-di-mbg-serapan-peternak-dan-harga-diharapkan-meningkat/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064869902989877363",
+      "url": "https://x.com/kepomaxx/status/2064869902989877363",
+      "text": "Kan sdh jelas the real kepanjangan  #MBG itu apa!!!",
+      "created_at": "Thu Jun 11 00:38:42 +0000 2026",
+      "created_at_epoch": 1781138322,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 25,
+      "user": {
+        "username": "kepomaxx",
+        "name": "#GenerasiPemuda",
+        "verified": false,
+        "followers_count": 29577,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064869423161516357",
+      "url": "https://x.com/2045Tv/status/2064869423161516357",
+      "text": "Presiden Prabowo tampak mulai kehilangan kendali ⁉️\n\nPembahasan lengkap: https://t.co/0JkxRmY1pl \n\n#HermawanSulistyo #Prabowo #MBG #KejaksaanAgung #GerakanMahasiswa https://t.co/EoN2HqG8JC",
+      "created_at": "Thu Jun 11 00:36:48 +0000 2026",
+      "created_at_epoch": 1781138208,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 55,
+      "user": {
+        "username": "2045Tv",
+        "name": "2045 TV",
+        "verified": false,
+        "followers_count": 4920,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2064869349668876288/pu/img/Ugf2SVeK3sURaElU.jpg",
+          "video_url": "https://video.twimg.com/ext_tw_video/2064869349668876288/pu/vid/avc1/720x1280/uOm6O8IU-ypn5uFE.mp4?tag=12"
+        }
+      ],
+      "hashtags": [
+        "HermawanSulistyo",
+        "Prabowo",
+        "MBG",
+        "KejaksaanAgung",
+        "GerakanMahasiswa"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://youtu.be/fAtNPmr6tdk"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064868105562832970",
+      "url": "https://x.com/nanang04381244/status/2064868105562832970",
+      "text": "Moratorium pembangunan SPPG baru menjadi momentum penting untuk memperkuat transformasi Program Makan Bergizi Gratis (MBG) berbasis dapur sekolah. \n#MBG #MakanBergiziGratis #DapurSekolah #TransformasiMBG #PendidikanBerkualitas #GiziAnakIndonesia #IndonesiaMaju #PrabowoSubianto https://t.co/2iczHWbNX7",
+      "created_at": "Thu Jun 11 00:31:34 +0000 2026",
+      "created_at_epoch": 1781137894,
+      "lang": "in",
+      "like_count": 3,
+      "retweet_count": 2,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 22,
+      "user": {
+        "username": "nanang04381244",
+        "name": "nanang",
+        "verified": false,
+        "followers_count": 57,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064867893511368704/img/fq2xRuBPsnDe4z9B.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064867893511368704/vid/avc1/480x854/ZIwQlQIqiMBhjas_.mp4?tag=14"
+        }
+      ],
+      "hashtags": [
+        "MBG",
+        "MakanBergiziGratis",
+        "DapurSekolah",
+        "TransformasiMBG",
+        "PendidikanBerkualitas",
+        "GiziAnakIndonesia",
+        "IndonesiaMaju",
+        "PrabowoSubianto"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064863364845842449",
+      "url": "https://x.com/fotographerbayu/status/2064863364845842449",
+      "text": "#mbg https://t.co/xntoSr5oD9",
+      "created_at": "Thu Jun 11 00:12:44 +0000 2026",
+      "created_at_epoch": 1781136764,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 5,
+      "user": {
+        "username": "fotographerbayu",
+        "name": "bayuFotographer📷",
+        "verified": false,
+        "followers_count": 57,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064863306792525824/img/gITda97hvYMgcgE6.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064863306792525824/vid/avc1/720x960/dFSgtMyvVziYUUgx.mp4?tag=27"
+        }
+      ],
+      "hashtags": [
+        "mbg"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064860244229099600",
+      "url": "https://x.com/InvestorID/status/2064860244229099600",
+      "text": "Pembenahan tata kelola menjadi fokus pemerintah seiring perubahan arah program serta kasus dugaan korupsi yang melibatkan pimpinan BGN.\n\nBaca terus https://t.co/dugVKIaua2 dengan unduh aplikasi Investor Daily di iOS dan App Store!⁣⁣\n\n#InvestorDaily #MBG #SOP #SaatnyaMajuBersama https://t.co/zKMkB2TYZO",
+      "created_at": "Thu Jun 11 00:00:20 +0000 2026",
+      "created_at_epoch": 1781136020,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 107,
+      "user": {
+        "username": "InvestorID",
+        "name": "Investor Daily",
+        "verified": false,
+        "followers_count": 51871,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKfbZAdb0AAY7iW.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKfbZAmakAA2kha.jpg"
+        }
+      ],
+      "hashtags": [
+        "InvestorDaily",
+        "MBG",
+        "SOP",
+        "SaatnyaMajuBersama"
+      ],
+      "mentions": [],
+      "urls": [
+        "http://investor.id"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064859928444248307",
+      "url": "https://x.com/aselisnack/status/2064859928444248307",
+      "text": "Penerima manfaat #mbg adalah para siswa\nKetika MBG dihentikan, yg protes justru bukan para siswa\nAneh 🤣🤣🤣",
+      "created_at": "Wed Jun 10 23:59:04 +0000 2026",
+      "created_at_epoch": 1781135944,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 17,
+      "user": {
+        "username": "aselisnack",
+        "name": "PutuRagil",
+        "verified": false,
+        "followers_count": 2360,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "mbg"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064851061035401290",
+      "url": "https://x.com/suaradotcom/status/2064851061035401290",
+      "text": "Sebanyak 21.801 unit motor listrik senilai Rp1,39 triliun untuk Program Makan Bergizi Gratis ditemukan mangkrak di Kabupaten Bogor.\n\nBaca selengkapnya: \nhttps://t.co/rgs1X7p222\n\n#motorlistrik #BGN #MBG RF",
+      "created_at": "Wed Jun 10 23:23:50 +0000 2026",
+      "created_at_epoch": 1781133830,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 65,
+      "user": {
+        "username": "suaradotcom",
+        "name": "suaradotcom",
+        "verified": true,
+        "followers_count": 30282,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "motorlistrik",
+        "BGN",
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://bogor.suara.com/read/2026/06/10/225250/triliunan-rupiah-mangkrak-21-ribu-motor-listrik-program-makan-gratis-menumpuk-di-gudang-sentul"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064845069044376057",
+      "url": "https://x.com/red_riauonline/status/2064845069044376057",
+      "text": "KPK Akui Sempat Selidiki Dugaan Korupsi Program MBG\n\n#riauonline #MBG #KPK #Korupsi https://t.co/JZ8rup78vj",
+      "created_at": "Wed Jun 10 23:00:02 +0000 2026",
+      "created_at_epoch": 1781132402,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 16,
+      "user": {
+        "username": "red_riauonline",
+        "name": "RiauOnline",
+        "verified": false,
+        "followers_count": 1164,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064602146163810305/img/OuKVvyQl2hkfgpqO.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064602146163810305/vid/avc1/720x1280/Wha1F1s-gQnKOBar.mp4?tag=14"
+        }
+      ],
+      "hashtags": [
+        "riauonline",
+        "MBG",
+        "KPK",
+        "Korupsi"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064780419539845546",
+      "url": "https://x.com/kalandrawina_/status/2064780419539845546",
+      "text": "BGN adaptif banget, pelaksanaan Program MBG didukung penuh dengan penyesuaian strategi #MBG https://t.co/x2sf0xjDWI",
+      "created_at": "Wed Jun 10 18:43:08 +0000 2026",
+      "created_at_epoch": 1781116988,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 17,
+      "user": {
+        "username": "kalandrawina_",
+        "name": "Kalandra Wina",
+        "verified": false,
+        "followers_count": 104,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKeS1RKaYAApqeG.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064775943185662288",
+      "url": "https://x.com/tina_fattaa/status/2064775943185662288",
+      "text": "BGN nggak berhenti inovasi, Program MBG dikuatin terus lewat strategi dan kebijakan keren #MBG https://t.co/mpc2YS6kDm",
+      "created_at": "Wed Jun 10 18:25:21 +0000 2026",
+      "created_at_epoch": 1781115921,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 12,
+      "user": {
+        "username": "tina_fattaa",
+        "name": "Tina Fatta",
+        "verified": false,
+        "followers_count": 22,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKeOxFSboAAaWlv.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064775179549716603",
+      "url": "https://x.com/andra_adyatama5/status/2064775179549716603",
+      "text": "BGN pastikan Program MBG jalan terus dengan strategi dan kebijakan yang selalu disesuaikan #MBG https://t.co/y44BRm93TB",
+      "created_at": "Wed Jun 10 18:22:19 +0000 2026",
+      "created_at_epoch": 1781115739,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 16,
+      "user": {
+        "username": "andra_adyatama5",
+        "name": "Andra Adyatama",
+        "verified": false,
+        "followers_count": 22,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKeOCepaoAAJl73.jpg"
+        }
+      ],
+      "hashtags": [
+        "MBG"
+      ],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064773588641874428",
+      "url": "https://x.com/bergeloralah/status/2064773588641874428",
+      "text": "BENERAN NIH..? #Wamendagri Bima Arya Bantah Terlibat Korupsi #MBG\n#prabowobersamaburuh https://t.co/s7ylDzkg5y lewat @BERGELORA.COM",
+      "created_at": "Wed Jun 10 18:15:59 +0000 2026",
+      "created_at_epoch": 1781115359,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 30,
+      "user": {
+        "username": "bergeloralah",
+        "name": "Bergelora.com",
+        "verified": false,
+        "followers_count": 1436,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "Wamendagri",
+        "MBG",
+        "prabowobersamaburuh"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://bergelora.com/beneran-nih-wamendagri-bima-arya-bantah-terlibat-korupsi-mbg/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064770778118402099",
+      "url": "https://x.com/bergeloralah/status/2064770778118402099",
+      "text": "GEMPAR DI #MEDSOS NIH..! Sony Ungkap 26 Nama Kasus #MBG di Eksekutif, Legislatif, Yudikatif #BGN \n#prabowobersamaburuh\nhttps://t.co/W6LPd4LUFo lewat @BERGELORA.COM",
+      "created_at": "Wed Jun 10 18:04:49 +0000 2026",
+      "created_at_epoch": 1781114689,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 18,
+      "user": {
+        "username": "bergeloralah",
+        "name": "Bergelora.com",
+        "verified": false,
+        "followers_count": 1436,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [
+        "MEDSOS",
+        "MBG",
+        "BGN",
+        "prabowobersamaburuh"
+      ],
+      "mentions": [],
+      "urls": [
+        "https://bergelora.com/siapa-aja-nih-sony-ungkap-26-nama-kasus-mbg-di-eksekutif-legislatif-yudikatif/"
+      ],
+      "is_reply": false,
+      "is_retweet": false
+    }
+  ],
+  "tweets_count": 100,
+  "summary": {
+    "total": 100,
+    "top_5_by_likes": [
+      {
+        "rank": 1,
+        "tweet_id": "2064960621721039153",
+        "url": "https://x.com/BenerBener_/status/2064960621721039153",
+        "text": "Komitmen Pemerintah menjaga optimalisasi Program MBG #MBG #MakanBergiziGratis #Pemerintah #Viral https://t.co/pHsD7MDpPI",
+        "like_count": 192,
+        "retweet_count": 4,
+        "reply_count": 0,
+        "view_count": 5272,
+        "created_at": "Thu Jun 11 06:39:11 +0000 2026",
+        "user": {
+          "username": "BenerBener_",
+          "name": "BenerBener",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 2,
+        "tweet_id": "2064960556474462710",
+        "url": "https://x.com/BenerBener_/status/2064960556474462710",
+        "text": "Komitmen Pemerintah menjaga optimalisasi Program MBG #MBG #MakanBergiziGratis #Pemerintah #Viral https://t.co/ZIT2KBatRI",
+        "like_count": 109,
+        "retweet_count": 2,
+        "reply_count": 0,
+        "view_count": 4220,
+        "created_at": "Thu Jun 11 06:38:56 +0000 2026",
+        "user": {
+          "username": "BenerBener_",
+          "name": "BenerBener",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 3,
+        "tweet_id": "2064960378061332521",
+        "url": "https://x.com/BenerBener_/status/2064960378061332521",
+        "text": "Komitmen Pemerintah menjaga optimalisasi Program MBG #MBG #MakanBergiziGratis #Pemerintah #Viral https://t.co/iLgcoigA4J",
+        "like_count": 104,
+        "retweet_count": 2,
+        "reply_count": 0,
+        "view_count": 3156,
+        "created_at": "Thu Jun 11 06:38:13 +0000 2026",
+        "user": {
+          "username": "BenerBener_",
+          "name": "BenerBener",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 4,
+        "tweet_id": "2064960280552263886",
+        "url": "https://x.com/BenerBener_/status/2064960280552263886",
+        "text": "Komitmen Pemerintah menjaga optimalisasi Program MBG #MBG #MakanBergiziGratis #Pemerintah #Viral https://t.co/FKtVMIcgjG",
+        "like_count": 104,
+        "retweet_count": 4,
+        "reply_count": 0,
+        "view_count": 5259,
+        "created_at": "Thu Jun 11 06:37:50 +0000 2026",
+        "user": {
+          "username": "BenerBener_",
+          "name": "BenerBener",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 5,
+        "tweet_id": "2065007197231464739",
+        "url": "https://x.com/kompascom/status/2065007197231464739",
+        "text": "Baca selengkapnya: https://t.co/tdqUJnbeQJ\n\nKepala Badan Gizi Nasional Nanik S Deyang melaporkan kepada Presiden Prabowo Subianto bahwa anak dari keluarga mampu tidak lagi menjadi penerima program Makan Bergizi Gratis.\n\n~RK #BGN #MBG https://t.co/4eW8OKzMas",
+        "like_count": 78,
+        "retweet_count": 13,
+        "reply_count": 78,
+        "view_count": 11019,
+        "created_at": "Thu Jun 11 09:44:16 +0000 2026",
+        "user": {
+          "username": "kompascom",
+          "name": "Kompas.com",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      }
+    ],
+    "engagement_total": {
+      "likes": 729,
+      "retweets": 58,
+      "replies": 109,
+      "views": 92427
+    },
+    "engagement_avg": {
+      "likes": 7.3,
+      "retweets": 0.6,
+      "views": 924.3
+    },
+    "top_hashtags": [
+      [
+        "mbg",
+        102
+      ],
+      [
+        "makanbergizigratis",
+        27
+      ],
+      [
+        "bgn",
+        19
+      ],
+      [
+        "sppg",
+        8
+      ],
+      [
+        "prabowo",
+        7
+      ],
+      [
+        "korupsi",
+        6
+      ],
+      [
+        "bahlil",
+        6
+      ],
+      [
+        "viral",
+        6
+      ],
+      [
+        "programmbg",
+        5
+      ],
+      [
+        "pemerintah",
+        5
+      ]
+    ]
+  }
+}

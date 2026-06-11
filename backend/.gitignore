@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+
+# Session cookies (sensitive!)
+session/*.json
+
+# Logs
+logs/*.log
+
+# Scraper output & browser profile
+output_profiles/*.json
+output_profiles/*.csv
+twitter_profile/
+data/
+
+# Playwright
+.cache/

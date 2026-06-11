@@ -1,0 +1,1357 @@
+{
+  "success": true,
+  "mode": "user_tweets",
+  "username": "ardisatriawan",
+  "scraped_at": "2026-06-11T20:00:07.352077",
+  "user_info": {
+    "user_id": "170542374",
+    "username": "ardisatriawan",
+    "name": "Ardianto Satriawan",
+    "followers_count": 94231,
+    "following_count": 14115,
+    "tweet_count": 30657
+  },
+  "tweets": [
+    {
+      "tweet_id": "2065052532095988077",
+      "url": "https://x.com/ardisatriawan/status/2065052532095988077",
+      "text": "Jangan lupa saling like juga gais. Ingat like itu juga termasuk engagement!",
+      "created_at": "Thu Jun 11 12:44:25 +0000 2026",
+      "created_at_epoch": 1781181865,
+      "lang": "in",
+      "like_count": 18,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 330,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065050533396918315",
+      "url": "https://x.com/ardisatriawan/status/2065050533396918315",
+      "text": "LAPAK MUTUALAN CENBLU!\n\nYuk saling support dengan mutualan.\n\n1. Saling follow akun yang reply di bawah!\n2. Sabar nunggu folbek,ada limit, jadi sabar dulu tunggu sehari/dua hari.\n3. Repost biar makin banyak yang join saling follow.\n4. No drama drama! Jangan nambah kepusingan. https://t.co/nyhjNfXKJo",
+      "created_at": "Thu Jun 11 12:36:28 +0000 2026",
+      "created_at_epoch": 1781181388,
+      "lang": "in",
+      "like_count": 112,
+      "retweet_count": 64,
+      "reply_count": 212,
+      "quote_count": 2,
+      "bookmark_count": 9,
+      "view_count": 3183,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiIg5yakAAvtwI.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065046971791163743",
+      "url": "https://x.com/ardisatriawan/status/2065046971791163743",
+      "text": "RT @ardisatriawan: AKU TURUN, AKU CARI KAUUUU!!!\n\nKalau dipanggil Yang Maha Kuasa,\n\nTetap saya monitor kalian.\n\nKalau kalian kurang ajar, m…",
+      "created_at": "Thu Jun 11 12:22:19 +0000 2026",
+      "created_at_epoch": 1781180539,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1003,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "ardisatriawan"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065046183652040888",
+      "url": "https://x.com/ardisatriawan/status/2065046183652040888",
+      "text": "RT @ardisatriawan: Tahun 2005.\n\nHarga minyak dunia sedang naik, subsidi BBM dari APBN membengkak.\n\nKeadaan fiskal sempit, mau ini susah, ma…",
+      "created_at": "Thu Jun 11 12:19:11 +0000 2026",
+      "created_at_epoch": 1781180351,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 2704,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "ardisatriawan"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065044180867686569",
+      "url": "https://x.com/ardisatriawan/status/2065044180867686569",
+      "text": "Situasi Bandung tadi sore, depan DPRD. https://t.co/oTlXEdjL5Y",
+      "created_at": "Thu Jun 11 12:11:14 +0000 2026",
+      "created_at_epoch": 1781179874,
+      "lang": "in",
+      "like_count": 207,
+      "retweet_count": 34,
+      "reply_count": 40,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "view_count": 2704,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiCb5-bMAAehzD.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065035663783940297",
+      "url": "https://x.com/ardisatriawan/status/2065035663783940297",
+      "text": "Kaya, bahkan Pidato Presiden yang kaya gini aja langka sekarang.\n\nTreat your people with respect and dignity?\n\nBukannya ini bare minimum ya? https://t.co/FMw8eDgRVp",
+      "created_at": "Thu Jun 11 11:37:23 +0000 2026",
+      "created_at_epoch": 1781177843,
+      "lang": "in",
+      "like_count": 586,
+      "retweet_count": 120,
+      "reply_count": 125,
+      "quote_count": 9,
+      "bookmark_count": 51,
+      "view_count": 14759,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2065035197821997057/img/KPvaUndPzKEvyuAR.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2065035197821997057/vid/avc1/1920x1080/9prH8-xRNkW-4P0o.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065024429156163915",
+      "url": "https://x.com/ardisatriawan/status/2065024429156163915",
+      "text": "See?\n\nGak ada angin gak ada hujan.\n\nGak ngomong apa-apa.\n\nBOOM!\n\nNAIKKKK!!!",
+      "created_at": "Thu Jun 11 10:52:44 +0000 2026",
+      "created_at_epoch": 1781175164,
+      "lang": "in",
+      "like_count": 976,
+      "retweet_count": 255,
+      "reply_count": 95,
+      "quote_count": 12,
+      "bookmark_count": 17,
+      "view_count": 19200,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhwn0oaUAABcLu.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065018684499014100",
+      "url": "https://x.com/ardisatriawan/status/2065018684499014100",
+      "text": "KENAPA. NGGAK. DARI. AWAL. CUKKK???? https://t.co/pH5cOaY1Mg",
+      "created_at": "Thu Jun 11 10:29:55 +0000 2026",
+      "created_at_epoch": 1781173795,
+      "lang": "in",
+      "like_count": 1099,
+      "retweet_count": 134,
+      "reply_count": 270,
+      "quote_count": 37,
+      "bookmark_count": 15,
+      "view_count": 30362,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhrbN8bMAAqSXr.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065005739471733067",
+      "url": "https://x.com/ardisatriawan/status/2065005739471733067",
+      "text": "IN THIS ECONOMY..\nGais, coba dong spill spill kalian yang bisa kerja dari rumah tuh kerja apa? Range incomenya kalo boleh dikasi tau juga boleh.\nKalo jualan, jualan apa? Atau kalo jasa, ngapain?\n\nBarangkali ini bisa menginspirasi kita kita yang lagi butuh tambahan penghasilan. 🙏🏼",
+      "created_at": "Thu Jun 11 09:38:28 +0000 2026",
+      "created_at_epoch": 1781170708,
+      "lang": "in",
+      "like_count": 78,
+      "retweet_count": 12,
+      "reply_count": 45,
+      "quote_count": 1,
+      "bookmark_count": 26,
+      "view_count": 4240,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064988111793201426",
+      "url": "https://x.com/ardisatriawan/status/2064988111793201426",
+      "text": "Tips langsung MAXWIN dari bos besar Kamboja.\n\nMinggu depan Rupiah menguat.",
+      "created_at": "Thu Jun 11 08:28:26 +0000 2026",
+      "created_at_epoch": 1781166506,
+      "lang": "in",
+      "like_count": 442,
+      "retweet_count": 67,
+      "reply_count": 106,
+      "quote_count": 5,
+      "bookmark_count": 18,
+      "view_count": 18348,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhPeaLakAA_AGl.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064974479831494656",
+      "url": "https://x.com/ardisatriawan/status/2064974479831494656",
+      "text": "Punya.\n\nTapi dipake MBG.",
+      "created_at": "Thu Jun 11 07:34:16 +0000 2026",
+      "created_at_epoch": 1781163256,
+      "lang": "in",
+      "like_count": 114,
+      "retweet_count": 38,
+      "reply_count": 24,
+      "quote_count": 1,
+      "bookmark_count": 5,
+      "view_count": 2959,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064957102192558277",
+      "url": "https://x.com/ardisatriawan/status/2064957102192558277",
+      "text": "Video.\n\nKalau dipanggil Yang Maha Kuasa,\n\nTetap saya monitor kalian.\n\nKalau kalian kurang ajar, malam-malam aku turun nyari kau.\n\nJangan main-main kau!\n\nKau melanggar, berkhianat kepada Merah Putih,\n\nAKU TURUN, AKU CARI KAU. https://t.co/A8ZzhbD3Hz",
+      "created_at": "Thu Jun 11 06:25:12 +0000 2026",
+      "created_at_epoch": 1781159112,
+      "lang": "in",
+      "like_count": 133,
+      "retweet_count": 40,
+      "reply_count": 50,
+      "quote_count": 52,
+      "bookmark_count": 28,
+      "view_count": 11654,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064957000233238528/img/LF7hUMFOeA6qxx02.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064957000233238528/vid/avc1/1920x1080/qYk9RgVMBZpX6BgB.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064956741977260063",
+      "url": "https://x.com/ardisatriawan/status/2064956741977260063",
+      "text": "AKU TURUN, AKU CARI KAUUUU!!!\n\nKalau dipanggil Yang Maha Kuasa,\n\nTetap saya monitor kalian.\n\nKalau kalian kurang ajar, malam-malam aku turun nyari kau.\n\nJangan main-main kau!\n\nKau melanggar, berkhianat kepada Merah Putih,\n\nAKU TURUN, AKU CARI KAU.",
+      "created_at": "Thu Jun 11 06:23:46 +0000 2026",
+      "created_at_epoch": 1781159026,
+      "lang": "in",
+      "like_count": 4003,
+      "retweet_count": 1003,
+      "reply_count": 741,
+      "quote_count": 725,
+      "bookmark_count": 465,
+      "view_count": 272860,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064956644463931392/img/WtYQ6sHWs-m-DigT.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064956644463931392/vid/avc1/1920x1080/HOw4gAts_tkze8SK.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064943175215776150",
+      "url": "https://x.com/ardisatriawan/status/2064943175215776150",
+      "text": "RT @titoari__: \"marobbuka\"\n\"nyenyenyenye\"\nJDYAAAAAARRRRRRRR",
+      "created_at": "Thu Jun 11 05:29:52 +0000 2026",
+      "created_at_epoch": 1781155792,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 12,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "titoari__"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064936844870242500",
+      "url": "https://x.com/ardisatriawan/status/2064936844870242500",
+      "text": "Busettttttt...\n\"Jika dipanggil Tuhan, saya akan tetap awasi Indonesia\" https://t.co/wA5N6ej2Yr",
+      "created_at": "Thu Jun 11 05:04:43 +0000 2026",
+      "created_at_epoch": 1781154283,
+      "lang": "in",
+      "like_count": 1805,
+      "retweet_count": 378,
+      "reply_count": 1127,
+      "quote_count": 620,
+      "bookmark_count": 112,
+      "view_count": 461002,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKghAVRagAAyOTk.png"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064935979992166574",
+      "url": "https://x.com/ardisatriawan/status/2064935979992166574",
+      "text": "RT @ardisatriawan: Kita masih upacara\nKita masih menyanyikan lagu kebangsaan\nKita masih pakai lambang-lambang negara\nGambar-gambar pendiri…",
+      "created_at": "Thu Jun 11 05:01:16 +0000 2026",
+      "created_at_epoch": 1781154076,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 163,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "ardisatriawan"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064934330951242116",
+      "url": "https://x.com/ardisatriawan/status/2064934330951242116",
+      "text": "Bacok orang berani, pas ditangkep nangis. https://t.co/Hn2VQSmcy4",
+      "created_at": "Thu Jun 11 04:54:43 +0000 2026",
+      "created_at_epoch": 1781153683,
+      "lang": "in",
+      "like_count": 4890,
+      "retweet_count": 895,
+      "reply_count": 436,
+      "quote_count": 75,
+      "bookmark_count": 204,
+      "view_count": 292519,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgev1lbEAA_k1i.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064925185468445184",
+      "url": "https://x.com/ardisatriawan/status/2064925185468445184",
+      "text": "Motor Listrik 1 Triliun mangkrak.\n\nKatanya disetujui Kemenkeu... https://t.co/62EzaGf6Bx",
+      "created_at": "Thu Jun 11 04:18:23 +0000 2026",
+      "created_at_epoch": 1781151503,
+      "lang": "in",
+      "like_count": 591,
+      "retweet_count": 206,
+      "reply_count": 124,
+      "quote_count": 10,
+      "bookmark_count": 18,
+      "view_count": 25183,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgWaJqaoAAnv5Q.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064920703598805281",
+      "url": "https://x.com/ardisatriawan/status/2064920703598805281",
+      "text": "Bikin sawah yang tumbuh sawit. 😂 https://t.co/T8T1TVUlzY",
+      "created_at": "Thu Jun 11 04:00:34 +0000 2026",
+      "created_at_epoch": 1781150434,
+      "lang": "in",
+      "like_count": 142,
+      "retweet_count": 35,
+      "reply_count": 82,
+      "quote_count": 2,
+      "bookmark_count": 7,
+      "view_count": 5199,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgSRCuawAAhzH9.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064894586456359073",
+      "url": "https://x.com/ardisatriawan/status/2064894586456359073",
+      "text": "Tahun 2005.\n\nHarga minyak dunia sedang naik, subsidi BBM dari APBN membengkak.\n\nKeadaan fiskal sempit, mau ini susah, mau itu susah. Mesti ada anggaran yang dilonggarkan.\n\nPresiden SBY berkoordinasi dengan DPR dan MPR untuk meminta persetujuan.\n\nAgar tidak makin membengkak, pemerintah memutuskan untuk menaikkan harga BBM dan mengurangi subsidi.\n\nSetelah disetujui, SBY, mengumumkan sendiri di TV nasional keadaan apa yang terjadi.\n\nApa yang sudah dia lakukan.\n\nDan keterpaksaan menaikkan harga BBM.\n\nDan sebagai kompensasi, masyarakat diberikan bantuan langsung tunai, sebagai pengganti subsidi BBM.\n\nTahun 2026\n\nMalam hari, tiba-tiba Pertamax naik.\n\nGak ada angin gak ada hujan.\n\nDari 12 ribu jadi 16 ribu.\n\nTiga puluh persen lebih.\n\nSiangnya Presiden Prabowo pidato di Lampung.\n\n\"Yang nyinyir, nyinyir, nyinyir.\"\n\n\"Nyenyenye\"",
+      "created_at": "Thu Jun 11 02:16:47 +0000 2026",
+      "created_at_epoch": 1781144207,
+      "lang": "in",
+      "like_count": 6205,
+      "retweet_count": 2704,
+      "reply_count": 272,
+      "quote_count": 113,
+      "bookmark_count": 320,
+      "view_count": 195229,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKf6NMkbAAAk803.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064890218294227372",
+      "url": "https://x.com/ardisatriawan/status/2064890218294227372",
+      "text": "Gue bingung mau komentar apa njirrr https://t.co/I0XQADQgaP",
+      "created_at": "Thu Jun 11 01:59:26 +0000 2026",
+      "created_at_epoch": 1781143166,
+      "lang": "in",
+      "like_count": 5374,
+      "retweet_count": 682,
+      "reply_count": 543,
+      "quote_count": 201,
+      "bookmark_count": 91,
+      "view_count": 129104,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKf2oIBa0AAvZW2.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064888277627486363",
+      "url": "https://x.com/ardisatriawan/status/2064888277627486363",
+      "text": "Pidato Presiden = curhat semua... https://t.co/BGMMgl3A6i",
+      "created_at": "Thu Jun 11 01:51:43 +0000 2026",
+      "created_at_epoch": 1781142703,
+      "lang": "in",
+      "like_count": 183,
+      "retweet_count": 33,
+      "reply_count": 96,
+      "quote_count": 5,
+      "bookmark_count": 5,
+      "view_count": 7282,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKf0yfsbkAA3Ouv.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064886950734201269",
+      "url": "https://x.com/ardisatriawan/status/2064886950734201269",
+      "text": "RT @ardisatriawan: 1) Pertamax naik\n2) Yang biasanya pake Pertamax jadi pakai Pertalite\n3) Pertalite makin langka karena banyak yang pake\n4…",
+      "created_at": "Thu Jun 11 01:46:27 +0000 2026",
+      "created_at_epoch": 1781142387,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 971,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 2,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "ardisatriawan"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064867148787576936",
+      "url": "https://x.com/ardisatriawan/status/2064867148787576936",
+      "text": "Kalo ada stok masakan istri, saya bantu nyiapin ke piring. Kalo lagi abis stok masakan, saya beli atau masakin yang simple2 buat anak.😁",
+      "created_at": "Thu Jun 11 00:27:46 +0000 2026",
+      "created_at_epoch": 1781137666,
+      "lang": "in",
+      "like_count": 6,
+      "retweet_count": 1,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 895,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064866841441538430",
+      "url": "https://x.com/ardisatriawan/status/2064866841441538430",
+      "text": "Pagii semua!!\n\nPagi pagi flexing dulu tapi bukan flexing harta!\nAyo tunjukkan flexing kalian apapun itu. Apa yang kalian banggakan? Dari hal tersimple atau pencapaian apapun.\n\nSaya dulu, saya bangga bisa nyiapin atau masakin sarapan buat anak anak setiap hari! 😎 https://t.co/L7Pf8NsUyu",
+      "created_at": "Thu Jun 11 00:26:33 +0000 2026",
+      "created_at_epoch": 1781137593,
+      "lang": "in",
+      "like_count": 149,
+      "retweet_count": 17,
+      "reply_count": 185,
+      "quote_count": 11,
+      "bookmark_count": 2,
+      "view_count": 7001,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKfhcZka8AAVeCa.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064849455917187248",
+      "url": "https://x.com/ardisatriawan/status/2064849455917187248",
+      "text": "Tahun 1960an:\n\n1) Dunia lagi gonjang-ganjing. Perang dingin. Kubu Amerika sama Kubu Rusia. Perang di sana-sini\n\n2) Rupiah melemah parah terhadap USD. BBM naik. Harga-harga kebutuhan naik.\n\n3) Presiden Sukarno banyak kunjungan ke luar negeri: Moskow, Beijing, Kairo, Belgrade, Washington. Dan banyak lagi.\n\n4) Tapi tetap pidato berapi-api setiap kali ada kesempatan. Sejak tahun kemerdekaan. Di radio siaran pidatonya selalu ada.\n\n5) Tapi tetep bikin proyek mercusuar: Bangun Monas, Bikin event kaya Olimpiade: Ganefo, bangun GBK. Semua hamburin anggaran APBN padahal lagi krisis.\n\nEhhhh...\n\nKOK KAYAK FAMILIARRRR? 🤔",
+      "created_at": "Wed Jun 10 23:17:27 +0000 2026",
+      "created_at_epoch": 1781133447,
+      "lang": "in",
+      "like_count": 681,
+      "retweet_count": 135,
+      "reply_count": 118,
+      "quote_count": 9,
+      "bookmark_count": 73,
+      "view_count": 37173,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064824153287651512",
+      "url": "https://x.com/ardisatriawan/status/2064824153287651512",
+      "text": "Kita masih upacara\nKita masih menyanyikan lagu kebangsaan\nKita masih pakai lambang-lambang negara\nGambar-gambar pendiri bangsa masih ada di sini\n\nTetapi di negara lain, mereka sudah bikin kajian-kajian di mana\n\nREPUBLIK INDONESIA SUDAH DINYATAKAN TIDAK ADA LAGI TAHUN 2030.\n\nBUNG!\n\nMereka ramalkan KITA INI BUBAR.\n\nElite kita ini menganggap bahwa 80% tanah seluruh negara dikuasai 1% rakyat kita, nggak apa-apa.\n\nBahwa hampir seluruh aset dikuasai 1%, nggak apa-apa.\n\nBahwa sebagian besar kekayaan kita diambil ke luar negeri, tidak tinggal di Indonesia, tidak apa-apa.\n\nIni yang merusak bangsa kita, Saudara-saudara sekalian.\n\n- Prabowo Subianto, 2018",
+      "created_at": "Wed Jun 10 21:36:55 +0000 2026",
+      "created_at_epoch": 1781127415,
+      "lang": "in",
+      "like_count": 430,
+      "retweet_count": 163,
+      "reply_count": 89,
+      "quote_count": 9,
+      "bookmark_count": 55,
+      "view_count": 22442,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064824000405192704/img/TNlMcboEpxA3uFQ5.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064824000405192704/vid/avc1/720x720/mSGq3MU7cK6wk2N6.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064810145067291044",
+      "url": "https://x.com/ardisatriawan/status/2064810145067291044",
+      "text": "EFISIENSI APANYA YANG DILANJUTKAN???\n\nITU MBG, KOPDES, SAMA JALAN-JALAN KE LUAR NEGERI EFISIENSI???",
+      "created_at": "Wed Jun 10 20:41:15 +0000 2026",
+      "created_at_epoch": 1781124075,
+      "lang": "in",
+      "like_count": 191,
+      "retweet_count": 59,
+      "reply_count": 45,
+      "quote_count": 1,
+      "bookmark_count": 8,
+      "view_count": 6712,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064801097882251332",
+      "url": "https://x.com/ardisatriawan/status/2064801097882251332",
+      "text": "RT @ardisatriawan: Login https://t.co/VqncUyoerZ",
+      "created_at": "Wed Jun 10 20:05:18 +0000 2026",
+      "created_at_epoch": 1781121918,
+      "lang": "en",
+      "like_count": 0,
+      "retweet_count": 1664,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKYV5uRacAAeZB1.png"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "ardisatriawan"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064702153252622649",
+      "url": "https://x.com/ardisatriawan/status/2064702153252622649",
+      "text": "Jadi ada presiden kaya Pak Jokowi,\n\nyang jarang keluar negeri, DISALAHKAN.\n\nJokowi, nggak pernah keluar negeri.\n\nJokowi, tidak peduli politik keluar negeri.\n\nSaya, sering keluar negeri, \"PRABOWO SERING KE LUAR NEGERI\"!!! https://t.co/6ZhshzO2dy",
+      "created_at": "Wed Jun 10 13:32:08 +0000 2026",
+      "created_at_epoch": 1781098328,
+      "lang": "in",
+      "like_count": 1383,
+      "retweet_count": 210,
+      "reply_count": 117,
+      "quote_count": 42,
+      "bookmark_count": 120,
+      "view_count": 174694,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064702069471416320/img/wltuwIlKAQZz5DAn.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064702069471416320/vid/avc1/1920x1080/3YDx-Udhd2kt-nKa.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064699704274038835",
+      "url": "https://x.com/ardisatriawan/status/2064699704274038835",
+      "text": "MARAHNYA KERASA SAMPAI SINI, IBUKKK",
+      "created_at": "Wed Jun 10 13:22:24 +0000 2026",
+      "created_at_epoch": 1781097744,
+      "lang": "in",
+      "like_count": 1921,
+      "retweet_count": 378,
+      "reply_count": 32,
+      "quote_count": 1,
+      "bookmark_count": 48,
+      "view_count": 21593,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064696512425427388",
+      "url": "https://x.com/ardisatriawan/status/2064696512425427388",
+      "text": "Kubu Solo mulai bergerak loh.\n\n1) Jokowi mau mulai safari keliling Indonesia buat menemui basis pendukungnya.\n\n2) Jangan lupa Kaesang adalah ketua partai. PSI. \n\n3) Kabarnya banyak kader partai lain yang \"bedol desa\" ke PSI. Nasdem muncul di berita, kadernya pindah ke PSI. Loyalis Jokowi di PDIP juga banyak pindah ke sana.\n\n4) Meskipun di pusat mereka gak punya kursi DPR, di daerah, mereka banyak punya kursi DPRD. Banyak kadernya punya posisi.\n\n5) Jokowi di salah satu pidatonya pas acara PSI bilang, akan mengorganisir sampai tingkat RT/RW.\n\n6) Kapolri, jelas kubu mereka, baru dikasih perpanjangan usia pensiun, tujuannya apa hayo? Jangan lupa istilah \"parcok\" datang dari mana.\n\n7) Gibran sepanjang jadi Wapres udah mengunjungi hampir semua provinsi. Tinggal dikit lagi.\n\n8) Acaranya Gibran juga yang relate ke grassroot: bakti sosial, kerja bakti, bagi sembako, bantuan sosial.\n\n9) Program unggulan Presiden mulai goyah: MBG kena kasus korupsi. KDMP pemborosan anggaran. BBM tiba-tiba naik. Lawatan ke luar negeri terus. Bisa dimainin isu-isu itu.\n\n10) Pendengung alias buzzernya juga udah mulai pecah kongsi. Ada loyalis sini dan loyalis sana.\n\n2029?",
+      "created_at": "Wed Jun 10 13:09:43 +0000 2026",
+      "created_at_epoch": 1781096983,
+      "lang": "in",
+      "like_count": 10203,
+      "retweet_count": 3171,
+      "reply_count": 435,
+      "quote_count": 306,
+      "bookmark_count": 1286,
+      "view_count": 507665,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064691642125451264/img/5WZT_uGtU2V6WdYq.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064691642125451264/vid/avc1/2000x1022/1oOdmV3GJwcmGw1t.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064686072794149287",
+      "url": "https://x.com/ardisatriawan/status/2064686072794149287",
+      "text": "EMPAT KALI KALAH\n\nSaudara-saudara, saya tadi dikatakan\n\nBerapa kali maju jadi presiden untuk jadi presiden?\nTadi disebut 3 kali kalah.\n\nSALAH, EMPAT kali kalah, ya.\n\nSaya usaha jadi presiden dari 2004, konvensi Golkar, ya kan: 2004, 2009, 2014, 2019, 2024.\n\nLIMA kali, EMPAT kali kalah.\n\nEMPAT kali kalah, orang bingung: sudah EMPAT kali kalah, masih mau maju lagi.\n\nSudah benar-benar ada analis-analis, podcast-podcast, Prabowo pingin banget jadi presiden sampai sekian kali.\n\nSaudara-saudara, kenapa saya ingin jadi presiden?",
+      "created_at": "Wed Jun 10 12:28:14 +0000 2026",
+      "created_at_epoch": 1781094494,
+      "lang": "in",
+      "like_count": 2387,
+      "retweet_count": 445,
+      "reply_count": 202,
+      "quote_count": 67,
+      "bookmark_count": 247,
+      "view_count": 187681,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064685991122886656/img/WeW0y2sdpBfyuhKO.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2064685991122886656/vid/avc1/1920x1080/E3-O9Hc-Q1jVpY6L.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064661432722239710",
+      "url": "https://x.com/ardisatriawan/status/2064661432722239710",
+      "text": "RT @ardisatriawan: = 2 hari MBG.",
+      "created_at": "Wed Jun 10 10:50:19 +0000 2026",
+      "created_at_epoch": 1781088619,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 4771,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "ardisatriawan"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064660424201805869",
+      "url": "https://x.com/ardisatriawan/status/2064660424201805869",
+      "text": "Ini negara tuh banyak yang belum beres buat standar hidup sehari hari.. listrik, air, sekolah, jalanan.. tapi pejabat2nya malah entah ngapain..",
+      "created_at": "Wed Jun 10 10:46:19 +0000 2026",
+      "created_at_epoch": 1781088379,
+      "lang": "in",
+      "like_count": 157,
+      "retweet_count": 23,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 2469,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064659272173244473",
+      "url": "https://x.com/ardisatriawan/status/2064659272173244473",
+      "text": "Ada anak sedang ujian Olimpiade Sains Nasional (OSN), tapi MATI LAMPU!\nPadahal persiapannya berbulan bulan buat lomba ini, dengan harapan ingin memberikan yang MAKSIMAL! \nTapi harapan ini HANCUR akibat mati lampu dan internet.\n\nDi videonya sang anak nangis.\nGINI AMAT JADI WNI. https://t.co/IOp9VhlNRF",
+      "created_at": "Wed Jun 10 10:41:44 +0000 2026",
+      "created_at_epoch": 1781088104,
+      "lang": "in",
+      "like_count": 1052,
+      "retweet_count": 369,
+      "reply_count": 112,
+      "quote_count": 15,
+      "bookmark_count": 41,
+      "view_count": 17747,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKckqORbEAA6ios.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064656550803939518",
+      "url": "https://x.com/ardisatriawan/status/2064656550803939518",
+      "text": "Ini yang demo beda apa sama sama SPPG? https://t.co/vZqF8npt3J",
+      "created_at": "Wed Jun 10 10:30:55 +0000 2026",
+      "created_at_epoch": 1781087455,
+      "lang": "in",
+      "like_count": 9,
+      "retweet_count": 2,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 1985,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKciHAMa8AArSYF.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064654480390672641",
+      "url": "https://x.com/ardisatriawan/status/2064654480390672641",
+      "text": "RT @tempedotc0: Belajar menghitung ala logika WOWONOMICS ✨✨\n\nSaking 'mind-blowing'nya, audiens memberi tepuk tangan dengan cara berpikir be…",
+      "created_at": "Wed Jun 10 10:22:42 +0000 2026",
+      "created_at_epoch": 1781086962,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 451,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempedotc0"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064646737114059238",
+      "url": "https://x.com/ardisatriawan/status/2064646737114059238",
+      "text": "Lah, ada pidato hari ini? https://t.co/avxqym4zKr",
+      "created_at": "Wed Jun 10 09:51:56 +0000 2026",
+      "created_at_epoch": 1781085116,
+      "lang": "in",
+      "like_count": 347,
+      "retweet_count": 18,
+      "reply_count": 167,
+      "quote_count": 13,
+      "bookmark_count": 9,
+      "view_count": 19526,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKcZOJ5aMAE4OaG.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064641580972315080",
+      "url": "https://x.com/ardisatriawan/status/2064641580972315080",
+      "text": "Ada lagi nih dokter sedang koas atau internship submit puluhan abstrak??\n\nTernyata kasus Rifaldy cs itu hanya gunung es.\nMasi banyak oknum atau kelompok kelompok lain yang diduga melakukan praktik sejenis.\n\nYang main threads bisa cek langsung ke TKP ya, banyak temuan baru disana! https://t.co/tDFx8GeIxu",
+      "created_at": "Wed Jun 10 09:31:26 +0000 2026",
+      "created_at_epoch": 1781083886,
+      "lang": "in",
+      "like_count": 209,
+      "retweet_count": 70,
+      "reply_count": 18,
+      "quote_count": 2,
+      "bookmark_count": 29,
+      "view_count": 7627,
+      "user": {
+        "username": "ardisatriawan",
+        "name": "Ardianto Satriawan",
+        "verified": true,
+        "followers_count": 94231,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKcUkv_agAA6MVe.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    }
+  ],
+  "tweets_count": 40,
+  "summary": {
+    "total": 40,
+    "top_5_by_likes": [
+      {
+        "rank": 1,
+        "tweet_id": "2064696512425427388",
+        "url": "https://x.com/ardisatriawan/status/2064696512425427388",
+        "text": "Kubu Solo mulai bergerak loh.\n\n1) Jokowi mau mulai safari keliling Indonesia buat menemui basis pendukungnya.\n\n2) Jangan lupa Kaesang adalah ketua partai. PSI. \n\n3) Kabarnya banyak kader partai lain yang \"bedol desa\" ke PSI. Nasdem muncul di berita, kadernya pindah ke PSI. Loyalis Jokowi di PDIP juga banyak pindah ke sana.\n\n4) Meskipun di pusat mereka gak punya kursi DPR, di daerah, mereka banyak punya kursi DPRD. Banyak kadernya punya posisi.\n\n5) Jokowi di salah satu pidatonya pas acara PSI bilang, akan mengorganisir sampai tingkat RT/RW.\n\n6) Kapolri, jelas kubu mereka, baru dikasih perpanjangan usia pensiun, tujuannya apa hayo? Jangan lupa istilah \"parcok\" datang dari mana.\n\n7) Gibran sepanjang jadi Wapres udah mengunjungi hampir semua provinsi. Tinggal dikit lagi.\n\n8) Acaranya Gibran juga yang relate ke grassroot: bakti sosial, kerja bakti, bagi sembako, bantuan sosial.\n\n9) Program unggulan Presiden mulai goyah: MBG kena kasus korupsi. KDMP pemborosan anggaran. BBM tiba-tiba naik. Lawatan ke luar negeri terus. Bisa dimainin isu-isu itu.\n\n10) Pendengung alias buzzernya juga udah mulai pecah kongsi. Ada loyalis sini dan loyalis sana.\n\n2029?",
+        "like_count": 10203,
+        "retweet_count": 3171,
+        "reply_count": 435,
+        "view_count": 507665,
+        "created_at": "Wed Jun 10 13:09:43 +0000 2026",
+        "user": {
+          "username": "ardisatriawan",
+          "name": "Ardianto Satriawan",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 2,
+        "tweet_id": "2064894586456359073",
+        "url": "https://x.com/ardisatriawan/status/2064894586456359073",
+        "text": "Tahun 2005.\n\nHarga minyak dunia sedang naik, subsidi BBM dari APBN membengkak.\n\nKeadaan fiskal sempit, mau ini susah, mau itu susah. Mesti ada anggaran yang dilonggarkan.\n\nPresiden SBY berkoordinasi dengan DPR dan MPR untuk meminta persetujuan.\n\nAgar tidak makin membengkak, pemerintah memutuskan untuk menaikkan harga BBM dan mengurangi subsidi.\n\nSetelah disetujui, SBY, mengumumkan sendiri di TV nasional keadaan apa yang terjadi.\n\nApa yang sudah dia lakukan.\n\nDan keterpaksaan menaikkan harga BBM.\n\nDan sebagai kompensasi, masyarakat diberikan bantuan langsung tunai, sebagai pengganti subsidi BBM.\n\nTahun 2026\n\nMalam hari, tiba-tiba Pertamax naik.\n\nGak ada angin gak ada hujan.\n\nDari 12 ribu jadi 16 ribu.\n\nTiga puluh persen lebih.\n\nSiangnya Presiden Prabowo pidato di Lampung.\n\n\"Yang nyinyir, nyinyir, nyinyir.\"\n\n\"Nyenyenye\"",
+        "like_count": 6205,
+        "retweet_count": 2704,
+        "reply_count": 272,
+        "view_count": 195229,
+        "created_at": "Thu Jun 11 02:16:47 +0000 2026",
+        "user": {
+          "username": "ardisatriawan",
+          "name": "Ardianto Satriawan",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 3,
+        "tweet_id": "2064890218294227372",
+        "url": "https://x.com/ardisatriawan/status/2064890218294227372",
+        "text": "Gue bingung mau komentar apa njirrr https://t.co/I0XQADQgaP",
+        "like_count": 5374,
+        "retweet_count": 682,
+        "reply_count": 543,
+        "view_count": 129104,
+        "created_at": "Thu Jun 11 01:59:26 +0000 2026",
+        "user": {
+          "username": "ardisatriawan",
+          "name": "Ardianto Satriawan",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 4,
+        "tweet_id": "2064934330951242116",
+        "url": "https://x.com/ardisatriawan/status/2064934330951242116",
+        "text": "Bacok orang berani, pas ditangkep nangis. https://t.co/Hn2VQSmcy4",
+        "like_count": 4890,
+        "retweet_count": 895,
+        "reply_count": 436,
+        "view_count": 292519,
+        "created_at": "Thu Jun 11 04:54:43 +0000 2026",
+        "user": {
+          "username": "ardisatriawan",
+          "name": "Ardianto Satriawan",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 5,
+        "tweet_id": "2064956741977260063",
+        "url": "https://x.com/ardisatriawan/status/2064956741977260063",
+        "text": "AKU TURUN, AKU CARI KAUUUU!!!\n\nKalau dipanggil Yang Maha Kuasa,\n\nTetap saya monitor kalian.\n\nKalau kalian kurang ajar, malam-malam aku turun nyari kau.\n\nJangan main-main kau!\n\nKau melanggar, berkhianat kepada Merah Putih,\n\nAKU TURUN, AKU CARI KAU.",
+        "like_count": 4003,
+        "retweet_count": 1003,
+        "reply_count": 741,
+        "view_count": 272860,
+        "created_at": "Thu Jun 11 06:23:46 +0000 2026",
+        "user": {
+          "username": "ardisatriawan",
+          "name": "Ardianto Satriawan",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      }
+    ],
+    "engagement_total": {
+      "likes": 46083,
+      "retweets": 23500,
+      "replies": 5921,
+      "views": 2511329
+    },
+    "engagement_avg": {
+      "likes": 1152.1,
+      "retweets": 587.5,
+      "views": 62783.2
+    },
+    "top_hashtags": []
+  }
+}

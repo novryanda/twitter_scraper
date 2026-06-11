@@ -1,0 +1,1337 @@
+{
+  "success": true,
+  "mode": "tweet_replies",
+  "url": "https://x.com/bakuldimsum_/status/2064705780750975151?s=20",
+  "scraped_at": "2026-06-11T20:20:53.313058",
+  "sort_by": "newest",
+  "method": "browser_capture",
+  "focal_tweet": {
+    "tweet_id": "2064705780750975151",
+    "url": "https://x.com/bakuldimsum_/status/2064705780750975151",
+    "text": "Ngingetin lagi ini mah debat waktu pilpres 😹 https://t.co/KJQ9f2yYOV",
+    "created_at": "Wed Jun 10 13:46:33 +0000 2026",
+    "created_at_epoch": 1781099193,
+    "lang": "in",
+    "like_count": 11011,
+    "retweet_count": 2868,
+    "reply_count": 137,
+    "quote_count": 256,
+    "bookmark_count": 669,
+    "view_count": 276736,
+    "user": {
+      "username": "bakuldimsum_",
+      "name": "vi🍒",
+      "verified": true,
+      "followers_count": 16358,
+      "profile_image": ""
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/ext_tw_video_thumb/2064705617122754561/pu/img/zrzEDBUbbhwI2jbC.jpg",
+        "video_url": "https://video.twimg.com/ext_tw_video/2064705617122754561/pu/vid/avc1/1280x700/EClwzkfwNBFnHTdg.mp4?tag=25"
+      }
+    ],
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "is_reply": false,
+    "is_retweet": false
+  },
+  "replies": [
+    {
+      "tweet_id": "2065060612250784000",
+      "url": "https://x.com/setyaakamu/status/2065060612250784000",
+      "text": "@bakuldimsum_ kata temenku pilih prabowo karena \"KASIHAN DIEJEK ANIES\"\nGBLK",
+      "created_at": "Thu Jun 11 13:16:31 +0000 2026",
+      "created_at_epoch": 1781183791,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 6,
+      "user": {
+        "username": "setyaakamu",
+        "name": "tyaa",
+        "verified": false,
+        "followers_count": 7,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065056912220238043",
+      "url": "https://x.com/SakuraUzu295507/status/2065056912220238043",
+      "text": "@bakuldimsum_ https://t.co/pGOVfqTwKP",
+      "created_at": "Thu Jun 11 13:01:49 +0000 2026",
+      "created_at_epoch": 1781182909,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 10,
+      "user": {
+        "username": "SakuraUzu295507",
+        "name": "Sakura Uzu",
+        "verified": false,
+        "followers_count": 43,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2065056866263248896/pu/img/zHpwVdspqd1vhrgg.jpg",
+          "video_url": "https://video.twimg.com/ext_tw_video/2065056866263248896/pu/vid/avc1/720x1280/N7mYpIRjuyPy_HUH.mp4?tag=12"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065056789125890380",
+      "url": "https://x.com/peonypixylin/status/2065056789125890380",
+      "text": "@bakuldimsum_ Sebel banget liat gayanya kek merendahkan anjir 😭",
+      "created_at": "Thu Jun 11 13:01:20 +0000 2026",
+      "created_at_epoch": 1781182880,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 4,
+      "user": {
+        "username": "peonypixylin",
+        "name": "me and my",
+        "verified": false,
+        "followers_count": 10,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065029510035091720",
+      "url": "https://x.com/mamanxgarok/status/2065029510035091720",
+      "text": "@bakuldimsum_ nunggu strokenya aja begini",
+      "created_at": "Thu Jun 11 11:12:56 +0000 2026",
+      "created_at_epoch": 1781176376,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 3,
+      "user": {
+        "username": "mamanxgarok",
+        "name": "mamank..garix",
+        "verified": false,
+        "followers_count": 12,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065021021518991446",
+      "url": "https://x.com/asteruellia_/status/2065021021518991446",
+      "text": "@bakuldimsum_ modal joget joget doang jirrr",
+      "created_at": "Thu Jun 11 10:39:12 +0000 2026",
+      "created_at_epoch": 1781174352,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 4,
+      "user": {
+        "username": "asteruellia_",
+        "name": "naaa☘️",
+        "verified": false,
+        "followers_count": 4,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065018188975476877",
+      "url": "https://x.com/silentzsea/status/2065018188975476877",
+      "text": "@bakuldimsum_ @kalsmeee kok bisa anjir kelakuan pas debat dah bgitu malah dipilih, ga masuk akal",
+      "created_at": "Thu Jun 11 10:27:57 +0000 2026",
+      "created_at_epoch": 1781173677,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 25,
+      "user": {
+        "username": "silentzsea",
+        "name": "d 🧌",
+        "verified": false,
+        "followers_count": 711,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_",
+        "kalsmeee"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065007144571961845",
+      "url": "https://x.com/cupcake_elll/status/2065007144571961845",
+      "text": "@bakuldimsum_ Muak banget liatnya, gak ada yang mau santet dia apa yak",
+      "created_at": "Thu Jun 11 09:44:03 +0000 2026",
+      "created_at_epoch": 1781171043,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 28,
+      "user": {
+        "username": "cupcake_elll",
+        "name": "cupcake_el",
+        "verified": false,
+        "followers_count": 51,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065005362642895276",
+      "url": "https://x.com/areumdowoonie/status/2065005362642895276",
+      "text": "@bakuldimsum_ Kita udah dikasih opsi berupa seorang Anies Baswedan buat jadi presiden, tapi kenapa yg kepilih malah spek buntelan kentut sihhhhh what a shameeeeee",
+      "created_at": "Thu Jun 11 09:36:59 +0000 2026",
+      "created_at_epoch": 1781170619,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 40,
+      "user": {
+        "username": "areumdowoonie",
+        "name": "Areum🌹",
+        "verified": true,
+        "followers_count": 1887,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065002977400967372",
+      "url": "https://x.com/dyastt/status/2065002977400967372",
+      "text": "@bakuldimsum_ https://t.co/HXYYnkt1Mt",
+      "created_at": "Thu Jun 11 09:27:30 +0000 2026",
+      "created_at_epoch": 1781170050,
+      "lang": "qme",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 5,
+      "user": {
+        "username": "dyastt",
+        "name": "Dharma Kusuma",
+        "verified": false,
+        "followers_count": 440,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhdPyjbEAAhpkk.png"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064983548432617704",
+      "url": "https://x.com/anindypie/status/2064983548432617704",
+      "text": "@bakuldimsum_ padahal dari jaman debat pilpres pun attitudenya udah 0 banget, ni orang orang pada mikir apa sih yg milih dia?",
+      "created_at": "Thu Jun 11 08:10:18 +0000 2026",
+      "created_at_epoch": 1781165418,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 46,
+      "user": {
+        "username": "anindypie",
+        "name": "aninduy",
+        "verified": false,
+        "followers_count": 21,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064980002035404854",
+      "url": "https://x.com/deangdra/status/2064980002035404854",
+      "text": "@bakuldimsum_ https://t.co/C027hkZeat",
+      "created_at": "Thu Jun 11 07:56:12 +0000 2026",
+      "created_at_epoch": 1781164572,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 6,
+      "user": {
+        "username": "deangdra",
+        "name": "MULYONO",
+        "verified": true,
+        "followers_count": 898,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HKhIXhSbIAAjGig.jpg",
+          "video_url": "https://video.twimg.com/tweet_video/HKhIXhSbIAAjGig.mp4"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064974096979624026",
+      "url": "https://x.com/pxscxssfish__/status/2064974096979624026",
+      "text": "@bakuldimsum_ Kesel bgt gw ngeliat ekspresi belio😭😭😭",
+      "created_at": "Thu Jun 11 07:32:44 +0000 2026",
+      "created_at_epoch": 1781163164,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 42,
+      "user": {
+        "username": "pxscxssfish__",
+        "name": "🌒☄️",
+        "verified": false,
+        "followers_count": 53,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064973031886164340",
+      "url": "https://x.com/lsaaaaevr/status/2064973031886164340",
+      "text": "@bakuldimsum_ Debat capres kagak ada mannernya, debat antar anak SMA aja kita diajarkan manner debat yg benar, ini kayak anak SD, kayak gini kok dipilih jadi presiden",
+      "created_at": "Thu Jun 11 07:28:30 +0000 2026",
+      "created_at_epoch": 1781162910,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 88,
+      "user": {
+        "username": "lsaaaaevr",
+        "name": "Blue Bell Lily Everose",
+        "verified": false,
+        "followers_count": 459,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064970398601744445",
+      "url": "https://x.com/isakahapsari/status/2064970398601744445",
+      "text": "@bakuldimsum_ anjirlah malu-maluin batsss TAMAK MAKSIMAL kok kepilih sih............ HERAN",
+      "created_at": "Thu Jun 11 07:18:02 +0000 2026",
+      "created_at_epoch": 1781162282,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 42,
+      "user": {
+        "username": "isakahapsari",
+        "name": "isaka/ica",
+        "verified": false,
+        "followers_count": 318,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064956682195943824",
+      "url": "https://x.com/tatayo_1/status/2064956682195943824",
+      "text": "@bakuldimsum_ lupada nyesel gak sih yang udah milih prabowo gibran ? (bertanya dengan lemah lembut)",
+      "created_at": "Thu Jun 11 06:23:32 +0000 2026",
+      "created_at_epoch": 1781159012,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 141,
+      "user": {
+        "username": "tatayo_1",
+        "name": "makhluk bumi",
+        "verified": false,
+        "followers_count": 7,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064951016303514074",
+      "url": "https://x.com/Flexrexxx/status/2064951016303514074",
+      "text": "@bakuldimsum_ Padahal ini jejak digital yang bisa dicari ya",
+      "created_at": "Thu Jun 11 06:01:01 +0000 2026",
+      "created_at_epoch": 1781157661,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 12,
+      "user": {
+        "username": "Flexrexxx",
+        "name": "Flex Rex",
+        "verified": true,
+        "followers_count": 185,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064943640070553956",
+      "url": "https://x.com/pegasusjelly/status/2064943640070553956",
+      "text": "@bakuldimsum_ Najis bgt ih diliatin lagi ke masa lalu kayak mimpi buruk pas demam anying ni orang jadi presiden baperan",
+      "created_at": "Thu Jun 11 05:31:43 +0000 2026",
+      "created_at_epoch": 1781155903,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 61,
+      "user": {
+        "username": "pegasusjelly",
+        "name": "Kira",
+        "verified": false,
+        "followers_count": 27,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064937808880640261",
+      "url": "https://x.com/G4C0AN/status/2064937808880640261",
+      "text": "@bakuldimsum_ no wonder blud 4x gagal jadi presiden mulu\nsekalinya dapet chance jadi presiden (dicarry pria solo lho ya n omke gams) masih gagal",
+      "created_at": "Thu Jun 11 05:08:32 +0000 2026",
+      "created_at_epoch": 1781154512,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 67,
+      "user": {
+        "username": "G4C0AN",
+        "name": "jamie ⁷ ⊙⊖⊝彡✧ 🇵🇸",
+        "verified": false,
+        "followers_count": 426,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064934866010112337",
+      "url": "https://x.com/_nurulkho/status/2064934866010112337",
+      "text": "@bakuldimsum_ Gak pernah kaget tiap liat pidato dia hari ini karena dari debat pun udah keliatan. Tapi masih kaget sama orang yg milih dan bela sampe detik ini. Apasih yg kalian pertimbangkan? Apa yg diharapkan???? YaAllahhhhh 😩😩😩",
+      "created_at": "Thu Jun 11 04:56:51 +0000 2026",
+      "created_at_epoch": 1781153811,
+      "lang": "in",
+      "like_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 156,
+      "user": {
+        "username": "_nurulkho",
+        "name": "♌",
+        "verified": false,
+        "followers_count": 231,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064926244731490395",
+      "url": "https://x.com/zalnabrannnn/status/2064926244731490395",
+      "text": "@bakuldimsum_ mencla mencle koyo cah smp nembe puber",
+      "created_at": "Thu Jun 11 04:22:35 +0000 2026",
+      "created_at_epoch": 1781151755,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 73,
+      "user": {
+        "username": "zalnabrannnn",
+        "name": "ooooo",
+        "verified": false,
+        "followers_count": 16,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064922672149180813",
+      "url": "https://x.com/7why_/status/2064922672149180813",
+      "text": "@bakuldimsum_ pas debat padahal udah di spoiler langsung ya tapi masih aja",
+      "created_at": "Thu Jun 11 04:08:24 +0000 2026",
+      "created_at_epoch": 1781150904,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 156,
+      "user": {
+        "username": "7why_",
+        "name": "ryzraa_",
+        "verified": true,
+        "followers_count": 2043,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064914243779199192",
+      "url": "https://x.com/epldailyupdate/status/2064914243779199192",
+      "text": "@bakuldimsum_ dari debat kemaren harus nya kita smua udah bisa liat kalau kompetensi nya nggak ada ni orang, tapi ya karna duit nya banyak bisa bayar buzzer ampe yang top tier, dan mengandalkan muka kasian sama gemoy, jadi nya kepilih, hasil nya kita semua kek sekarnag",
+      "created_at": "Thu Jun 11 03:34:54 +0000 2026",
+      "created_at_epoch": 1781148894,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 30,
+      "user": {
+        "username": "epldailyupdate",
+        "name": "EPL Daily | Arsenal",
+        "verified": true,
+        "followers_count": 1444,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064911278574010841",
+      "url": "https://x.com/aanwar_sanusi/status/2064911278574010841",
+      "text": "@bakuldimsum_ Bapak ini kan jadi presiden cuma ingin berkuasa, cuma ingin memenuhi egonya. Tak lebih. Mungkin lebihnya buat mengembalikan modal dia yang hilang akibat 20 tahun tidak berkuasa, dan 4 kali mencoba jadi presiden tapi gagal. Itu bukan uang yang sedikit lho.",
+      "created_at": "Thu Jun 11 03:23:07 +0000 2026",
+      "created_at_epoch": 1781148187,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 37,
+      "user": {
+        "username": "aanwar_sanusi",
+        "name": "Achmad Anwar Sanusi",
+        "verified": true,
+        "followers_count": 960,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064904519167995984",
+      "url": "https://x.com/andrianputra28/status/2064904519167995984",
+      "text": "@bakuldimsum_ Prabowo ini efek hidup di gen z emang jad balik lagi jadi anak2\n\nPakar branding di belakang dia kaga mau apa buat dia sosok yang tegas\n\nDari dulu ampe sekarang cuma lucu2an aja kerjaya ya allah 😩",
+      "created_at": "Thu Jun 11 02:56:16 +0000 2026",
+      "created_at_epoch": 1781146576,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 39,
+      "user": {
+        "username": "andrianputra28",
+        "name": "BangPut - Digital Ads",
+        "verified": true,
+        "followers_count": 1747,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064902862019437052",
+      "url": "https://x.com/anualllas/status/2064902862019437052",
+      "text": "@bakuldimsum_ najis najis punya presiden kaya gini??? kalo dia lg debat ama bocah umur 7 tahun gapapa dah nyenyenye",
+      "created_at": "Thu Jun 11 02:49:41 +0000 2026",
+      "created_at_epoch": 1781146181,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 247,
+      "user": {
+        "username": "anualllas",
+        "name": "kale",
+        "verified": false,
+        "followers_count": 10,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064901206313701411",
+      "url": "https://x.com/himatchajau/status/2064901206313701411",
+      "text": "@bakuldimsum_ Masa orang orang yg milih dia ga kebuka sih mata hatinya? Ketutup sama  uang kah? Aku inget bgt lg ada orang ngaku jadi buzzer dpt 200k milih dia 😭 pdhl keluarga agamis lho org yg ngomong gitu mana termasuk kaya lagi, punya kos kosan semenjak itu aku jaga jarak. Seneng dpt uang?",
+      "created_at": "Thu Jun 11 02:43:06 +0000 2026",
+      "created_at_epoch": 1781145786,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 347,
+      "user": {
+        "username": "himatchajau",
+        "name": "Emerald ☘️🍀🌱🐢🍵🌴🌿🍃💚🍏🟢🟩♻️",
+        "verified": false,
+        "followers_count": 104,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064899751750013098",
+      "url": "https://x.com/RedRallyR/status/2064899751750013098",
+      "text": "@bakuldimsum_ Baru nyadar banyak contradiction nya pale",
+      "created_at": "Thu Jun 11 02:37:19 +0000 2026",
+      "created_at_epoch": 1781145439,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 51,
+      "user": {
+        "username": "RedRallyR",
+        "name": "Red",
+        "verified": false,
+        "followers_count": 98,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064899381623701935",
+      "url": "https://x.com/SangK80106/status/2064899381623701935",
+      "text": "@bakuldimsum_ gak punya apa2, tapi punya harta segitu.\nkan, bngzt.",
+      "created_at": "Thu Jun 11 02:35:51 +0000 2026",
+      "created_at_epoch": 1781145351,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 107,
+      "user": {
+        "username": "SangK80106",
+        "name": "SangKelana",
+        "verified": false,
+        "followers_count": 11,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064897601267466720",
+      "url": "https://x.com/caandyrushh/status/2064897601267466720",
+      "text": "@bakuldimsum_ udah sejelas ini, masih aja dipilih",
+      "created_at": "Thu Jun 11 02:28:46 +0000 2026",
+      "created_at_epoch": 1781144926,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 133,
+      "user": {
+        "username": "caandyrushh",
+        "name": "🍳",
+        "verified": false,
+        "followers_count": 91,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064889722099650724",
+      "url": "https://x.com/bakuldimsum_/status/2064889722099650724",
+      "text": "@immernochdu 2T buat dia mah kecil",
+      "created_at": "Thu Jun 11 01:57:28 +0000 2026",
+      "created_at_epoch": 1781143048,
+      "lang": "in",
+      "like_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 2878,
+      "user": {
+        "username": "bakuldimsum_",
+        "name": "vi🍒",
+        "verified": true,
+        "followers_count": 16358,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "immernochdu"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064889092782080069",
+      "url": "https://x.com/immernochdu/status/2064889092782080069",
+      "text": "@bakuldimsum_ \"Saya tidak punya apa apa!!\"\nDUARR 2T\n\nTamak, tamak maksimal.",
+      "created_at": "Thu Jun 11 01:54:58 +0000 2026",
+      "created_at_epoch": 1781142898,
+      "lang": "in",
+      "like_count": 31,
+      "retweet_count": 3,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 6589,
+      "user": {
+        "username": "immernochdu",
+        "name": "humanoid",
+        "verified": true,
+        "followers_count": 826,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064887884344369264",
+      "url": "https://x.com/bakuldimsum_/status/2064887884344369264",
+      "text": "@Hokben03 Yg ngjilat banyak",
+      "created_at": "Thu Jun 11 01:50:10 +0000 2026",
+      "created_at_epoch": 1781142610,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 2381,
+      "user": {
+        "username": "bakuldimsum_",
+        "name": "vi🍒",
+        "verified": true,
+        "followers_count": 16358,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "Hokben03"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064886906417291453",
+      "url": "https://x.com/hotmailfrance2/status/2064886906417291453",
+      "text": "@bakuldimsum_ Setolol itu rakyat indon nilai beginian dari debat aja gabisa, dah jelas keliatan intensi si biji ini dari awal",
+      "created_at": "Thu Jun 11 01:46:16 +0000 2026",
+      "created_at_epoch": 1781142376,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 160,
+      "user": {
+        "username": "hotmailfrance2",
+        "name": "Bang Bung",
+        "verified": false,
+        "followers_count": 34,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064880216984748338",
+      "url": "https://x.com/Hokben03/status/2064880216984748338",
+      "text": "@bakuldimsum_ Pas debat ga ada yang nempeleng kepalanya aja udah hebat",
+      "created_at": "Thu Jun 11 01:19:42 +0000 2026",
+      "created_at_epoch": 1781140782,
+      "lang": "in",
+      "like_count": 44,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 2841,
+      "user": {
+        "username": "Hokben03",
+        "name": "Bento",
+        "verified": true,
+        "followers_count": 10001,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064878027469963712",
+      "url": "https://x.com/every1hatescel/status/2064878027469963712",
+      "text": "@bakuldimsum_ @kepinsmitty padahal udah dikasih spoiler sifat aslinya pas debat capres🤣🤣🤣 masih aja pd denial",
+      "created_at": "Thu Jun 11 01:10:59 +0000 2026",
+      "created_at_epoch": 1781140259,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 110,
+      "user": {
+        "username": "every1hatescel",
+        "name": "cel",
+        "verified": false,
+        "followers_count": 2241,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_",
+        "kepinsmitty"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064873619638133223",
+      "url": "https://x.com/CaptainWilly26/status/2064873619638133223",
+      "text": "@bakuldimsum_ Padahal sudah kelihatan sejak awal tabiatnya si Wowok eh malah kepilih 🤦‍♂️",
+      "created_at": "Thu Jun 11 00:53:29 +0000 2026",
+      "created_at_epoch": 1781139209,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 100,
+      "user": {
+        "username": "CaptainWilly26",
+        "name": "Captain Willy",
+        "verified": false,
+        "followers_count": 111,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064872980354920788",
+      "url": "https://x.com/magp118/status/2064872980354920788",
+      "text": "@bakuldimsum_ Banyak bener nya yang di bilang fufufafa salah satu produk gagal ciptaan tuhan menjadi manusia rakus kekuasaan ini barang",
+      "created_at": "Thu Jun 11 00:50:56 +0000 2026",
+      "created_at_epoch": 1781139056,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 213,
+      "user": {
+        "username": "magp118",
+        "name": "Pasir Putih",
+        "verified": false,
+        "followers_count": 20,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064871857300635978",
+      "url": "https://x.com/suj__takupla/status/2064871857300635978",
+      "text": "@bakuldimsum_ sumpa pingin tau deh yg bukan buzzer tapi sampe sekarang dukung dia apa sih alasannya? aku berusaha husnudzon",
+      "created_at": "Thu Jun 11 00:46:28 +0000 2026",
+      "created_at_epoch": 1781138788,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 182,
+      "user": {
+        "username": "suj__takupla",
+        "name": "uciiin 🇵🇸",
+        "verified": false,
+        "followers_count": 3,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064871008318980373",
+      "url": "https://x.com/Kliwon289964/status/2064871008318980373",
+      "text": "@bakuldimsum_ Tidak takut gak punya jabatan?? Nyapres berapa kali luu wo?? @prabowo",
+      "created_at": "Thu Jun 11 00:43:06 +0000 2026",
+      "created_at_epoch": 1781138586,
+      "lang": "in",
+      "like_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 215,
+      "user": {
+        "username": "Kliwon289964",
+        "name": "Kliwon",
+        "verified": false,
+        "followers_count": 0,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_",
+        "prabowo"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064867688082731034",
+      "url": "https://x.com/americxnoee/status/2064867688082731034",
+      "text": "@bakuldimsum_ gabisa disamain otak udang haus kuasa sama yang mau bikin negaranya setidaknya maju ☺️",
+      "created_at": "Thu Jun 11 00:29:54 +0000 2026",
+      "created_at_epoch": 1781137794,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 237,
+      "user": {
+        "username": "americxnoee",
+        "name": "CoffeeAddict!",
+        "verified": false,
+        "followers_count": 165,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "bakuldimsum_"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    }
+  ],
+  "replies_count": 40,
+  "summary": {
+    "total": 40,
+    "top_5_by_likes": [
+      {
+        "rank": 1,
+        "tweet_id": "2064880216984748338",
+        "url": "https://x.com/Hokben03/status/2064880216984748338",
+        "text": "@bakuldimsum_ Pas debat ga ada yang nempeleng kepalanya aja udah hebat",
+        "like_count": 44,
+        "retweet_count": 0,
+        "reply_count": 1,
+        "view_count": 2841,
+        "created_at": "Thu Jun 11 01:19:42 +0000 2026",
+        "user": {
+          "username": "Hokben03",
+          "name": "Bento",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 2,
+        "tweet_id": "2064889092782080069",
+        "url": "https://x.com/immernochdu/status/2064889092782080069",
+        "text": "@bakuldimsum_ \"Saya tidak punya apa apa!!\"\nDUARR 2T\n\nTamak, tamak maksimal.",
+        "like_count": 31,
+        "retweet_count": 3,
+        "reply_count": 1,
+        "view_count": 6589,
+        "created_at": "Thu Jun 11 01:54:58 +0000 2026",
+        "user": {
+          "username": "immernochdu",
+          "name": "humanoid",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 3,
+        "tweet_id": "2064934866010112337",
+        "url": "https://x.com/_nurulkho/status/2064934866010112337",
+        "text": "@bakuldimsum_ Gak pernah kaget tiap liat pidato dia hari ini karena dari debat pun udah keliatan. Tapi masih kaget sama orang yg milih dan bela sampe detik ini. Apasih yg kalian pertimbangkan? Apa yg diharapkan???? YaAllahhhhh 😩😩😩",
+        "like_count": 2,
+        "retweet_count": 0,
+        "reply_count": 0,
+        "view_count": 156,
+        "created_at": "Thu Jun 11 04:56:51 +0000 2026",
+        "user": {
+          "username": "_nurulkho",
+          "name": "♌",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 4,
+        "tweet_id": "2064889722099650724",
+        "url": "https://x.com/bakuldimsum_/status/2064889722099650724",
+        "text": "@immernochdu 2T buat dia mah kecil",
+        "like_count": 2,
+        "retweet_count": 0,
+        "reply_count": 1,
+        "view_count": 2878,
+        "created_at": "Thu Jun 11 01:57:28 +0000 2026",
+        "user": {
+          "username": "bakuldimsum_",
+          "name": "vi🍒",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 5,
+        "tweet_id": "2064871008318980373",
+        "url": "https://x.com/Kliwon289964/status/2064871008318980373",
+        "text": "@bakuldimsum_ Tidak takut gak punya jabatan?? Nyapres berapa kali luu wo?? @prabowo",
+        "like_count": 2,
+        "retweet_count": 0,
+        "reply_count": 0,
+        "view_count": 215,
+        "created_at": "Thu Jun 11 00:43:06 +0000 2026",
+        "user": {
+          "username": "Kliwon289964",
+          "name": "Kliwon",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      }
+    ],
+    "engagement_total": {
+      "likes": 87,
+      "retweets": 3,
+      "replies": 3,
+      "views": 17912
+    },
+    "engagement_avg": {
+      "likes": 2.2,
+      "retweets": 0.1,
+      "views": 447.8
+    },
+    "top_hashtags": []
+  },
+  "tweet_id": "2064705780750975151"
+}

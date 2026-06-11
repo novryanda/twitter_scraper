@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "mode": "search",
+  "query": "mbg",
+  "search_type": "Latest",
+  "scraped_at": "2026-06-11T22:55:48.601414",
+  "method": "",
+  "tweets": [],
+  "tweets_count": 0,
+  "summary": {
+    "total": 0,
+    "top_5_by_likes": []
+  }
+}

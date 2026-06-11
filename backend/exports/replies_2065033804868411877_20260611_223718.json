@@ -1,0 +1,1386 @@
+{
+  "success": true,
+  "mode": "tweet_replies",
+  "url": "https://x.com/tempodotco/status/2065033804868411877?s=20",
+  "scraped_at": "2026-06-11T22:36:30.083425",
+  "sort_by": "newest",
+  "method": "browser_capture",
+  "focal_tweet": {
+    "tweet_id": "2065033804868411877",
+    "url": "https://x.com/tempodotco/status/2065033804868411877",
+    "text": "Prabowo: Saya Ingin Jadi Presiden karena RI Salah Arah sejak 1990-an https://t.co/UT7POjnoHf",
+    "created_at": "Thu Jun 11 11:30:00 +0000 2026",
+    "created_at_epoch": 1781177400,
+    "lang": "in",
+    "like_count": 1566,
+    "retweet_count": 167,
+    "reply_count": 670,
+    "quote_count": 802,
+    "bookmark_count": 108,
+    "view_count": 145583,
+    "user": {
+      "username": "tempodotco",
+      "name": "tempo.co",
+      "verified": true,
+      "followers_count": 2409358,
+      "profile_image": ""
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh0dJSbQAAsuLl.jpg"
+      }
+    ],
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "is_reply": false,
+    "is_retweet": false
+  },
+  "replies": [
+    {
+      "tweet_id": "2065094414134120708",
+      "url": "https://x.com/temennyaijat/status/2065094414134120708",
+      "text": "@tempodotco terus 2026 bukan salah arah lagi tapi hilang arah gegara lu",
+      "created_at": "Thu Jun 11 15:30:50 +0000 2026",
+      "created_at_epoch": 1781191850,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 39,
+      "user": {
+        "username": "temennyaijat",
+        "name": "pingin mam mie",
+        "verified": false,
+        "followers_count": 1,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065093345186333041",
+      "url": "https://x.com/zizisukasendiri/status/2065093345186333041",
+      "text": "@tempodotco HIDUP AJA LU SNDIRI DIJAMAN SEGITUUUU SKRG UDAH 2026",
+      "created_at": "Thu Jun 11 15:26:35 +0000 2026",
+      "created_at_epoch": 1781191595,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 40,
+      "user": {
+        "username": "zizisukasendiri",
+        "name": "zizi",
+        "verified": false,
+        "followers_count": 3,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065093060334391641",
+      "url": "https://x.com/untung7450972/status/2065093060334391641",
+      "text": "@tempodotco @msaid_didu segera buktikan @prabowo jika anda negarawan sejati jauhkan indonesia dari koroptor dan penipu dengan hukuman mati",
+      "created_at": "Thu Jun 11 15:25:27 +0000 2026",
+      "created_at_epoch": 1781191527,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 10,
+      "user": {
+        "username": "untung7450972",
+        "name": "untung",
+        "verified": false,
+        "followers_count": 18,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco",
+        "msaid_didu",
+        "prabowo"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065092518744883600",
+      "url": "https://x.com/LUTHF17127/status/2065092518744883600",
+      "text": "@tempodotco Bro sepertinya dendam ama pak habibie 😹",
+      "created_at": "Thu Jun 11 15:23:18 +0000 2026",
+      "created_at_epoch": 1781191398,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 74,
+      "user": {
+        "username": "LUTHF17127",
+        "name": "deinonerd",
+        "verified": false,
+        "followers_count": 14,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065092476491403366",
+      "url": "https://x.com/Esmecourt90/status/2065092476491403366",
+      "text": "@tempodotco Mbah jare mantan mantumu sampeyan salah arah https://t.co/muy9GTQ1Tk",
+      "created_at": "Thu Jun 11 15:23:08 +0000 2026",
+      "created_at_epoch": 1781191388,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 63,
+      "user": {
+        "username": "Esmecourt90",
+        "name": "Damar Galuh",
+        "verified": false,
+        "followers_count": 1792,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2065092462058799106/img/5-tp6TtSXDfEYh_n.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2065092462058799106/vid/avc1/550x320/FLdS40jpm8Iv8RqI.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065092229493117003",
+      "url": "https://x.com/BieberFirefox/status/2065092229493117003",
+      "text": "@tempodotco https://t.co/dSVJe4MGlu",
+      "created_at": "Thu Jun 11 15:22:09 +0000 2026",
+      "created_at_epoch": 1781191329,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 52,
+      "user": {
+        "username": "BieberFirefox",
+        "name": "Ayyyyy",
+        "verified": false,
+        "followers_count": 4202,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiubjMaEAAqNx8.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065091790999609467",
+      "url": "https://x.com/sundaydunk/status/2065091790999609467",
+      "text": "@tempodotco NPD bangett. Orang kalo makin tua, pilihannya cuma dua. ada yang makin wise ada juga yang makin stress.",
+      "created_at": "Thu Jun 11 15:20:25 +0000 2026",
+      "created_at_epoch": 1781191225,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 205,
+      "user": {
+        "username": "sundaydunk",
+        "name": "chaesa _ya",
+        "verified": false,
+        "followers_count": 0,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065089856435593241",
+      "url": "https://x.com/Dvito2523/status/2065089856435593241",
+      "text": "@tempodotco Tinggal bilang Indonesia salah arah karna mertua saya apa susahnya sih wokk 🗿🗿",
+      "created_at": "Thu Jun 11 15:12:43 +0000 2026",
+      "created_at_epoch": 1781190763,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 343,
+      "user": {
+        "username": "Dvito2523",
+        "name": "Don Vito",
+        "verified": false,
+        "followers_count": 3,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065088970074312935",
+      "url": "https://x.com/sastromoeni09/status/2065088970074312935",
+      "text": "@tempodotco MBG sbg Program Flagship nya prabowo saja diisi orang2 seperti itu,apalagi untuk program sampingan? Pasti isinya Bangsat semua.🙄",
+      "created_at": "Thu Jun 11 15:09:12 +0000 2026",
+      "created_at_epoch": 1781190552,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 14,
+      "user": {
+        "username": "sastromoeni09",
+        "name": "bugs",
+        "verified": false,
+        "followers_count": 36,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065088418884047044",
+      "url": "https://x.com/Liezagie/status/2065088418884047044",
+      "text": "@tempodotco Emang mau diarahin kemana sih?\nLu aja linglung kek gini elah",
+      "created_at": "Thu Jun 11 15:07:01 +0000 2026",
+      "created_at_epoch": 1781190421,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 38,
+      "user": {
+        "username": "Liezagie",
+        "name": "Liez",
+        "verified": false,
+        "followers_count": 0,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065087156725731488",
+      "url": "https://x.com/romanticanxiety/status/2065087156725731488",
+      "text": "@tempodotco Ini salah arah jg pack? https://t.co/mIlaagLd9l",
+      "created_at": "Thu Jun 11 15:02:00 +0000 2026",
+      "created_at_epoch": 1781190120,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 119,
+      "user": {
+        "username": "romanticanxiety",
+        "name": "sweetlikeurpromise",
+        "verified": false,
+        "followers_count": 292,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2065087051952013312/img/EkQMkGoPtBF3-DSZ.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2065087051952013312/vid/avc1/768x576/DA13e6JghJBrW3qv.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065084617976394202",
+      "url": "https://x.com/beritadakwahku/status/2065084617976394202",
+      "text": "@tempodotco Justru Bapak menikmati salah arahnya negeri ini sejak dulu. Boro-boro mengubah, sistem zalim demokrasi kapitalisme dipelihara untuk melahirkan koruptor yg merampok uang rakyat n mengeksploitasi SDA-SDM\nhttps://t.co/FIGLpBzhyP",
+      "created_at": "Thu Jun 11 14:51:54 +0000 2026",
+      "created_at_epoch": 1781189514,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 376,
+      "user": {
+        "username": "beritadakwahku",
+        "name": "Ika Mawar in heart🍉",
+        "verified": false,
+        "followers_count": 2193,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [
+        "https://x.com/i/status/2065033804868411877"
+      ],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065084357640130697",
+      "url": "https://x.com/SuhartoTony/status/2065084357640130697",
+      "text": "@tempodotco @msaid_didu Si bajingan korup nyuruh Rakyat patuh bayar pajak terus di korup oleh mereka... karena pejabat n aparat tau, Rakyat negeri ini paling mudah DITIPU, DIBODOHIN, DIPERAS, DISIRAM AIR KERAS, DIHILANGKAN,..pada akhirnya Rakyat dipaksa angkat senjata, bergerilya.\n#IndonesiaGelap https://t.co/TsTSwB3nE0",
+      "created_at": "Thu Jun 11 14:50:52 +0000 2026",
+      "created_at_epoch": 1781189452,
+      "lang": "in",
+      "like_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 181,
+      "user": {
+        "username": "SuhartoTony",
+        "name": "Independent",
+        "verified": false,
+        "followers_count": 319,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKinRmNbIAAK4eG.jpg"
+        }
+      ],
+      "hashtags": [
+        "IndonesiaGelap"
+      ],
+      "mentions": [
+        "tempodotco",
+        "msaid_didu"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065083904147767645",
+      "url": "https://x.com/Utha_san/status/2065083904147767645",
+      "text": "@tempodotco Wok seenggaknya kehancuran yg dibikin mantan mertua lu itu butuh waktu berpuluh2 tahun dan mentri dan wapresnya gak bodoh ya gak kayak lu punya. Belom 2 tahun udah kacau aja nih negara sama lu",
+      "created_at": "Thu Jun 11 14:49:04 +0000 2026",
+      "created_at_epoch": 1781189344,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 169,
+      "user": {
+        "username": "Utha_san",
+        "name": "RinduRTdanbacot",
+        "verified": true,
+        "followers_count": 724,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065083679962169393",
+      "url": "https://x.com/captainrangerss/status/2065083679962169393",
+      "text": "@tempodotco Brrti bpknya gibran salah ya ?",
+      "created_at": "Thu Jun 11 14:48:11 +0000 2026",
+      "created_at_epoch": 1781189291,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 36,
+      "user": {
+        "username": "captainrangerss",
+        "name": "Hanya Manusia Biasa",
+        "verified": true,
+        "followers_count": 609,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065083455747375598",
+      "url": "https://x.com/Arukasu17/status/2065083455747375598",
+      "text": "@tempodotco Sekarang juga udah jadi presiden malah lebih parah, jadi hilang ar https://t.co/E2rdMMNZpF",
+      "created_at": "Thu Jun 11 14:47:17 +0000 2026",
+      "created_at_epoch": 1781189237,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 100,
+      "user": {
+        "username": "Arukasu17",
+        "name": "Arukasu",
+        "verified": true,
+        "followers_count": 248,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKimdHSbUAAjD6g.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065082365865820452",
+      "url": "https://x.com/mililky_06/status/2065082365865820452",
+      "text": "@tempodotco Makin hilang arah kocak\nKirain akun tempe jir, omongannya udah ngalor ngidul",
+      "created_at": "Thu Jun 11 14:42:58 +0000 2026",
+      "created_at_epoch": 1781188978,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 21,
+      "user": {
+        "username": "mililky_06",
+        "name": "lil k/ia",
+        "verified": false,
+        "followers_count": 577,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065082110269137143",
+      "url": "https://x.com/14Mufid/status/2065082110269137143",
+      "text": "@tempodotco Salah arah sejak 1990\npas menjabat malah jadi hilang arah",
+      "created_at": "Thu Jun 11 14:41:57 +0000 2026",
+      "created_at_epoch": 1781188917,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 16,
+      "user": {
+        "username": "14Mufid",
+        "name": "F MUFID 14",
+        "verified": false,
+        "followers_count": 2839,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065079854760878551",
+      "url": "https://x.com/wakabagasi/status/2065079854760878551",
+      "text": "@tempodotco Sekalian ae gue gas masukin jurang yekan awokwokwokwok",
+      "created_at": "Thu Jun 11 14:32:59 +0000 2026",
+      "created_at_epoch": 1781188379,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 62,
+      "user": {
+        "username": "wakabagasi",
+        "name": "scrolling.judging.repeat",
+        "verified": true,
+        "followers_count": 148,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065076179196121451",
+      "url": "https://x.com/fermano_hars/status/2065076179196121451",
+      "text": "@tempodotco Setelah SALAH ARAH di thn 1990 ... rakyat SALAH PILIH di 2024 ... dengan memilih seseorang yg SALAH ASUHAN",
+      "created_at": "Thu Jun 11 14:18:23 +0000 2026",
+      "created_at_epoch": 1781187503,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 29,
+      "user": {
+        "username": "fermano_hars",
+        "name": "Harsman",
+        "verified": false,
+        "followers_count": 74,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065075750907310433",
+      "url": "https://x.com/ozozozyesoioioi/status/2065075750907310433",
+      "text": "@tempodotco Salah arah? Yang ada sekarang Indonesia makin parah habis economy nya. Makin mundur dan rakyat makin sengsara. Sok tahu tapi gak ada kemampuan. 10+6=17. Belajar menghitung lagi lah.",
+      "created_at": "Thu Jun 11 14:16:40 +0000 2026",
+      "created_at_epoch": 1781187400,
+      "lang": "in",
+      "like_count": 8,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 698,
+      "user": {
+        "username": "ozozozyesoioioi",
+        "name": "Ed Cunningham",
+        "verified": false,
+        "followers_count": 10,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065074475134079391",
+      "url": "https://x.com/ganz__7o/status/2065074475134079391",
+      "text": "@tempodotco Lo nyalahin mertua lo dong wo. Kocak banget si benga. https://t.co/MkJjNNsni1",
+      "created_at": "Thu Jun 11 14:11:36 +0000 2026",
+      "created_at_epoch": 1781187096,
+      "lang": "in",
+      "like_count": 6,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 1123,
+      "user": {
+        "username": "ganz__7o",
+        "name": "Ganz70",
+        "verified": true,
+        "followers_count": 1216,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKieSPdaoAAHdPx.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065072515261886550",
+      "url": "https://x.com/jldarmosby/status/2065072515261886550",
+      "text": "@tempodotco 1990 sampe skrg salah arah karena masih ada kroni2 orba korup, coba dimusnahkan setelah reformasi dan ganti generasi pasti lebih baik",
+      "created_at": "Thu Jun 11 14:03:49 +0000 2026",
+      "created_at_epoch": 1781186629,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 292,
+      "user": {
+        "username": "jldarmosby",
+        "name": "Hayes",
+        "verified": false,
+        "followers_count": 28,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065071064196292939",
+      "url": "https://x.com/pseudoseraph/status/2065071064196292939",
+      "text": "@tempodotco Kek skrg udh bener aj semenjak dia jd presiden https://t.co/SeKJbD5RmI",
+      "created_at": "Thu Jun 11 13:58:03 +0000 2026",
+      "created_at_epoch": 1781186283,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 204,
+      "user": {
+        "username": "pseudoseraph",
+        "name": "🄵🅁🅸🅲🄺",
+        "verified": true,
+        "followers_count": 1022,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKibL1vbsAAhuSO.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065069979888996549",
+      "url": "https://x.com/jedhot5/status/2065069979888996549",
+      "text": "@tempodotco https://t.co/SVoZHecUOX",
+      "created_at": "Thu Jun 11 13:53:45 +0000 2026",
+      "created_at_epoch": 1781186025,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 123,
+      "user": {
+        "username": "jedhot5",
+        "name": "jedhot",
+        "verified": false,
+        "followers_count": 46,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiaMD4asAALqQj.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065069207746912619",
+      "url": "https://x.com/RinieSetiawan26/status/2065069207746912619",
+      "text": "@tempodotco Bagaimana tanggapan Mbak Titiek Soeharto atas pernyataan Beliau ini? 🤭",
+      "created_at": "Thu Jun 11 13:50:40 +0000 2026",
+      "created_at_epoch": 1781185840,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 202,
+      "user": {
+        "username": "RinieSetiawan26",
+        "name": "Rini Setiawan",
+        "verified": false,
+        "followers_count": 2,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065069166558917075",
+      "url": "https://x.com/TheFesnuk/status/2065069166558917075",
+      "text": "@tempodotco Wow, nuduh mertua nya plenger berarti\nPantes didepak dari Cendana 🤣🤣",
+      "created_at": "Thu Jun 11 13:50:31 +0000 2026",
+      "created_at_epoch": 1781185831,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 343,
+      "user": {
+        "username": "TheFesnuk",
+        "name": "Fesnuk",
+        "verified": false,
+        "followers_count": 131,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065069141841830165",
+      "url": "https://x.com/_cetaimhazelnut/status/2065069141841830165",
+      "text": "@tempodotco https://t.co/Op6rGo4wzk",
+      "created_at": "Thu Jun 11 13:50:25 +0000 2026",
+      "created_at_epoch": 1781185825,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 236,
+      "user": {
+        "username": "_cetaimhazelnut",
+        "name": "Cha 🦋",
+        "verified": true,
+        "followers_count": 2147,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HKiZcIgbEAA7OGV.jpg",
+          "video_url": "https://video.twimg.com/tweet_video/HKiZcIgbEAA7OGV.mp4"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065069102725771714",
+      "url": "https://x.com/SiiDl_/status/2065069102725771714",
+      "text": "@tempodotco Si bambang ngomong apa sih? Lu mau Indonesia kembali kejaman gelap. Udah gak beres berarti nih orang.",
+      "created_at": "Thu Jun 11 13:50:15 +0000 2026",
+      "created_at_epoch": 1781185815,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 298,
+      "user": {
+        "username": "SiiDl_",
+        "name": "SiiD",
+        "verified": false,
+        "followers_count": 3,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065069037366001958",
+      "url": "https://x.com/maknaegenz_/status/2065069037366001958",
+      "text": "@tempodotco pas dia yg pimpin makin salah arah",
+      "created_at": "Thu Jun 11 13:50:00 +0000 2026",
+      "created_at_epoch": 1781185800,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 74,
+      "user": {
+        "username": "maknaegenz_",
+        "name": "nay📚",
+        "verified": false,
+        "followers_count": 612,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065067692063936818",
+      "url": "https://x.com/BukanInspirasi_/status/2065067692063936818",
+      "text": "@tempodotco Lah, memangnya skarang arahnya udah bner gitu? Kayaknya makin salah deh. \n\ngimana pendapat kalian guys?",
+      "created_at": "Thu Jun 11 13:44:39 +0000 2026",
+      "created_at_epoch": 1781185479,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 157,
+      "user": {
+        "username": "BukanInspirasi_",
+        "name": "Bukan Inspirator",
+        "verified": true,
+        "followers_count": 4879,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065067027052798377",
+      "url": "https://x.com/Edden_DeKing/status/2065067027052798377",
+      "text": "@tempodotco Salah arah seharusnya soeharto turun 1990 tp dia takut sama mertuanya, soeharto yiapin mbak turut buat jd penerus makanya dia kesana kemari dukung Reformasi eh 98 berhasil di pilih habibie yg ganti jd teori ku kata2 soeharto terbukti dia mmg berbahaya dan harus dicopot.",
+      "created_at": "Thu Jun 11 13:42:00 +0000 2026",
+      "created_at_epoch": 1781185320,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 2683,
+      "user": {
+        "username": "Edden_DeKing",
+        "name": "Naisa yutuj",
+        "verified": false,
+        "followers_count": 1,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065066332249563503",
+      "url": "https://x.com/Lazuardi2601/status/2065066332249563503",
+      "text": "@tempodotco https://t.co/4LVJ9WbC8e",
+      "created_at": "Thu Jun 11 13:39:15 +0000 2026",
+      "created_at_epoch": 1781185155,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 711,
+      "user": {
+        "username": "Lazuardi2601",
+        "name": "Ardi",
+        "verified": false,
+        "followers_count": 19,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiW4KtbgAACV_G.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065065515295670416",
+      "url": "https://x.com/_cing/status/2065065515295670416",
+      "text": "@tempodotco Udh tau salah arah, ko malah makin dibikin hilang arah",
+      "created_at": "Thu Jun 11 13:36:00 +0000 2026",
+      "created_at_epoch": 1781184960,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 14,
+      "user": {
+        "username": "_cing",
+        "name": "you found me?! sssst",
+        "verified": false,
+        "followers_count": 512,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065064732361724270",
+      "url": "https://x.com/herman1702/status/2065064732361724270",
+      "text": "@tempodotco Tahun segitu presiden nya kan Bapak mertua kauuu \nGmna kali",
+      "created_at": "Thu Jun 11 13:32:53 +0000 2026",
+      "created_at_epoch": 1781184773,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 12,
+      "user": {
+        "username": "herman1702",
+        "name": "Oplosan",
+        "verified": false,
+        "followers_count": 321,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065063817521099229",
+      "url": "https://x.com/jianshen1309/status/2065063817521099229",
+      "text": "@tempodotco nga jelas ... Kebanyakan halu atau memang ada kelainan",
+      "created_at": "Thu Jun 11 13:29:15 +0000 2026",
+      "created_at_epoch": 1781184555,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 176,
+      "user": {
+        "username": "jianshen1309",
+        "name": "jian shen",
+        "verified": false,
+        "followers_count": 2,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065063549345677316",
+      "url": "https://x.com/foxdreinz/status/2065063549345677316",
+      "text": "@tempodotco Niatnya bagus benerin arah kejalan yag lurus, tapi beloknya kejauhan pak. Jadi makin jauh kejaan yag lurus wkwk",
+      "created_at": "Thu Jun 11 13:28:11 +0000 2026",
+      "created_at_epoch": 1781184491,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 125,
+      "user": {
+        "username": "foxdreinz",
+        "name": "Mas Ar",
+        "verified": true,
+        "followers_count": 3271,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065063136865186000",
+      "url": "https://x.com/JoniStrak01/status/2065063136865186000",
+      "text": "@tempodotco https://t.co/E9VeprOo5g",
+      "created_at": "Thu Jun 11 13:26:33 +0000 2026",
+      "created_at_epoch": 1781184393,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 43,
+      "user": {
+        "username": "JoniStrak01",
+        "name": "Joni Strak01",
+        "verified": false,
+        "followers_count": 166,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiT-P0aEAAKADG.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065062957168693389",
+      "url": "https://x.com/inibukananuya/status/2065062957168693389",
+      "text": "@tempodotco Oh jadi gitu... Pantes sejak jadi presiden RI jadi hilang arah gini",
+      "created_at": "Thu Jun 11 13:25:50 +0000 2026",
+      "created_at_epoch": 1781184350,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 136,
+      "user": {
+        "username": "inibukananuya",
+        "name": "cwoku lucu bgt³ᴰ",
+        "verified": false,
+        "followers_count": 6,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065061397395034546",
+      "url": "https://x.com/siapmaju/status/2065061397395034546",
+      "text": "@tempodotco Salah arah dari 1990?  Parah semua presiden yang sudah menjabat gak ada 1 pun yang arahnya bener?, cuma Pak Soekarno doank?",
+      "created_at": "Thu Jun 11 13:19:38 +0000 2026",
+      "created_at_epoch": 1781183978,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 1477,
+      "user": {
+        "username": "siapmaju",
+        "name": "Penikmatkopisususachetan",
+        "verified": true,
+        "followers_count": 4878,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "tempodotco"
+      ],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    }
+  ],
+  "replies_count": 40,
+  "summary": {
+    "total": 40,
+    "top_5_by_likes": [
+      {
+        "rank": 1,
+        "tweet_id": "2065075750907310433",
+        "url": "https://x.com/ozozozyesoioioi/status/2065075750907310433",
+        "text": "@tempodotco Salah arah? Yang ada sekarang Indonesia makin parah habis economy nya. Makin mundur dan rakyat makin sengsara. Sok tahu tapi gak ada kemampuan. 10+6=17. Belajar menghitung lagi lah.",
+        "like_count": 8,
+        "retweet_count": 0,
+        "reply_count": 0,
+        "view_count": 698,
+        "created_at": "Thu Jun 11 14:16:40 +0000 2026",
+        "user": {
+          "username": "ozozozyesoioioi",
+          "name": "Ed Cunningham",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 2,
+        "tweet_id": "2065074475134079391",
+        "url": "https://x.com/ganz__7o/status/2065074475134079391",
+        "text": "@tempodotco Lo nyalahin mertua lo dong wo. Kocak banget si benga. https://t.co/MkJjNNsni1",
+        "like_count": 6,
+        "retweet_count": 1,
+        "reply_count": 0,
+        "view_count": 1123,
+        "created_at": "Thu Jun 11 14:11:36 +0000 2026",
+        "user": {
+          "username": "ganz__7o",
+          "name": "Ganz70",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 3,
+        "tweet_id": "2065084357640130697",
+        "url": "https://x.com/SuhartoTony/status/2065084357640130697",
+        "text": "@tempodotco @msaid_didu Si bajingan korup nyuruh Rakyat patuh bayar pajak terus di korup oleh mereka... karena pejabat n aparat tau, Rakyat negeri ini paling mudah DITIPU, DIBODOHIN, DIPERAS, DISIRAM AIR KERAS, DIHILANGKAN,..pada akhirnya Rakyat dipaksa angkat senjata, bergerilya.\n#IndonesiaGelap https://t.co/TsTSwB3nE0",
+        "like_count": 3,
+        "retweet_count": 0,
+        "reply_count": 0,
+        "view_count": 181,
+        "created_at": "Thu Jun 11 14:50:52 +0000 2026",
+        "user": {
+          "username": "SuhartoTony",
+          "name": "Independent",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 4,
+        "tweet_id": "2065084617976394202",
+        "url": "https://x.com/beritadakwahku/status/2065084617976394202",
+        "text": "@tempodotco Justru Bapak menikmati salah arahnya negeri ini sejak dulu. Boro-boro mengubah, sistem zalim demokrasi kapitalisme dipelihara untuk melahirkan koruptor yg merampok uang rakyat n mengeksploitasi SDA-SDM\nhttps://t.co/FIGLpBzhyP",
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0,
+        "view_count": 376,
+        "created_at": "Thu Jun 11 14:51:54 +0000 2026",
+        "user": {
+          "username": "beritadakwahku",
+          "name": "Ika Mawar in heart🍉",
+          "verified": false,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 5,
+        "tweet_id": "2065083679962169393",
+        "url": "https://x.com/captainrangerss/status/2065083679962169393",
+        "text": "@tempodotco Brrti bpknya gibran salah ya ?",
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0,
+        "view_count": 36,
+        "created_at": "Thu Jun 11 14:48:11 +0000 2026",
+        "user": {
+          "username": "captainrangerss",
+          "name": "Hanya Manusia Biasa",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      }
+    ],
+    "engagement_total": {
+      "likes": 21,
+      "retweets": 1,
+      "replies": 0,
+      "views": 11114
+    },
+    "engagement_avg": {
+      "likes": 0.5,
+      "retweets": 0.0,
+      "views": 277.9
+    },
+    "top_hashtags": [
+      [
+        "indonesiagelap",
+        1
+      ]
+    ]
+  },
+  "tweet_id": "2065033804868411877"
+}

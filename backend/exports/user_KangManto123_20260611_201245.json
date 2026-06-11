@@ -1,0 +1,1411 @@
+{
+  "success": true,
+  "mode": "user_tweets",
+  "username": "KangManto123",
+  "scraped_at": "2026-06-11T20:12:31.157701",
+  "user_info": {
+    "user_id": "947632364003368961",
+    "username": "KangManto123",
+    "name": "MANTO",
+    "followers_count": 43790,
+    "following_count": 14549,
+    "tweet_count": 205602
+  },
+  "tweets": [
+    {
+      "tweet_id": "2065056057840583081",
+      "url": "https://x.com/KangManto123/status/2065056057840583081",
+      "text": "RT @New_Termul: Kalian itu sedang demo sampaikan aspirasi atau ingin pertegas bahwa gosip tentang hubungan mereka adalah benar? 🤪\n\nKarya te…",
+      "created_at": "Thu Jun 11 12:58:25 +0000 2026",
+      "created_at_epoch": 1781182705,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "New_Termul"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065055982493798520",
+      "url": "https://x.com/KangManto123/status/2065055982493798520",
+      "text": "RT @Naandaa27: Semenjak SPPG banyak yg tdk beroperasi, kasus keracunan juga menurun.\nDan anak2 sekolah juga tdk ada yg demo Krn sebelum ada…",
+      "created_at": "Thu Jun 11 12:58:07 +0000 2026",
+      "created_at_epoch": 1781182687,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "Naandaa27"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065055445790949656",
+      "url": "https://x.com/KangManto123/status/2065055445790949656",
+      "text": "RT @KangManto123: Breaking news : Bos kartel narkoba  hell angels australia ditangkap di bali 🚨🚨 https://t.co/NkSRA6NHg4",
+      "created_at": "Thu Jun 11 12:55:59 +0000 2026",
+      "created_at_epoch": 1781182559,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 4,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiM7d2a8AAL0cO.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "KangManto123"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065055420767723613",
+      "url": "https://x.com/KangManto123/status/2065055420767723613",
+      "text": "https://t.co/cL5YPHYJB7",
+      "created_at": "Thu Jun 11 12:55:53 +0000 2026",
+      "created_at_epoch": 1781182553,
+      "lang": "zxx",
+      "like_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 36,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiM8OkbgAAWt1e.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiM8tZa0AA7u6B.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiM9Fya4AAWARh.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiM9albIAAc8yu.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065055387758584117",
+      "url": "https://x.com/KangManto123/status/2065055387758584117",
+      "text": "Breaking news : Bos kartel narkoba  hell angels australia ditangkap di bali 🚨🚨 https://t.co/NkSRA6NHg4",
+      "created_at": "Thu Jun 11 12:55:45 +0000 2026",
+      "created_at_epoch": 1781182545,
+      "lang": "in",
+      "like_count": 7,
+      "retweet_count": 4,
+      "reply_count": 7,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "view_count": 136,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKiM7d2a8AAL0cO.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065051130967843005",
+      "url": "https://x.com/KangManto123/status/2065051130967843005",
+      "text": "RT @KangManto123: https://t.co/KmEMNn2P5U",
+      "created_at": "Thu Jun 11 12:38:51 +0000 2026",
+      "created_at_epoch": 1781181531,
+      "lang": "zxx",
+      "like_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKh0M_PbkAAtYpz.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "KangManto123"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065044721224024092",
+      "url": "https://x.com/KangManto123/status/2065044721224024092",
+      "text": "RT @uniquebend: @KangManto123 @jojodahom jangan kayak yg lagi gaada banget gitu lah bang 😂",
+      "created_at": "Thu Jun 11 12:13:22 +0000 2026",
+      "created_at_epoch": 1781180002,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "uniquebend",
+        "KangManto123",
+        "jojodahom"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065030377056632998",
+      "url": "https://x.com/KangManto123/status/2065030377056632998",
+      "text": "Purbaya + kursi Alfamart + kopi Golda 😭😭😭",
+      "created_at": "Thu Jun 11 11:16:22 +0000 2026",
+      "created_at_epoch": 1781176582,
+      "lang": "in",
+      "like_count": 8,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 252,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065028207372357704",
+      "url": "https://x.com/KangManto123/status/2065028207372357704",
+      "text": "https://t.co/KmEMNn2P5U",
+      "created_at": "Thu Jun 11 11:07:45 +0000 2026",
+      "created_at_epoch": 1781176065,
+      "lang": "zxx",
+      "like_count": 22,
+      "retweet_count": 2,
+      "reply_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "view_count": 503,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKh0M_PbkAAtYpz.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065025370018209967",
+      "url": "https://x.com/KangManto123/status/2065025370018209967",
+      "text": "RT @Roebanie: Bang ! Sadar Bang ... biaya dapur melonjak! https://t.co/TLpeBu5uz0",
+      "created_at": "Thu Jun 11 10:56:29 +0000 2026",
+      "created_at_epoch": 1781175389,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 6,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2065006429254324224/img/8i8AD2mBXRIpUe9G.jpg",
+          "video_url": "https://video.twimg.com/amplify_video/2065006429254324224/vid/avc1/576x1024/8YvMVkz1tsh8FU_S.mp4?tag=27"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "Roebanie"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065025241097867527",
+      "url": "https://x.com/KangManto123/status/2065025241097867527",
+      "text": "RT @julehaku: Tumben banget ini tanjakan maut jam segini masih buka. \nUdah lama banget ga lewat sini dan ternyata kaki manjaku skrg udah ku…",
+      "created_at": "Thu Jun 11 10:55:58 +0000 2026",
+      "created_at_epoch": 1781175358,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "julehaku"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065025210399735879",
+      "url": "https://x.com/KangManto123/status/2065025210399735879",
+      "text": "RT @tanyakanfes: Kacauu mania https://t.co/NBtqP9zaFS",
+      "created_at": "Thu Jun 11 10:55:51 +0000 2026",
+      "created_at_epoch": 1781175351,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 9,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhbcsJa8AAIjyE.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "tanyakanfes"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065023452617253222",
+      "url": "https://x.com/KangManto123/status/2065023452617253222",
+      "text": "RT @KangManto123: Coba dipikirkan secara logika : https://t.co/nhbP8ckQzg",
+      "created_at": "Thu Jun 11 10:48:52 +0000 2026",
+      "created_at_epoch": 1781174932,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 7,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKg6-7ZbAAAkSDh.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "KangManto123"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065022338685714457",
+      "url": "https://x.com/KangManto123/status/2065022338685714457",
+      "text": "RT @KangManto123: Gasken, jangan anarkis yaa..\n &amp; hati hati ada penyusup 🔥🔥 https://t.co/776ZuwiPGD",
+      "created_at": "Thu Jun 11 10:44:26 +0000 2026",
+      "created_at_epoch": 1781174666,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 54,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhtuZDa4AA3qx8.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "KangManto123"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065022222960660597",
+      "url": "https://x.com/KangManto123/status/2065022222960660597",
+      "text": "Sumber : https://t.co/crk3CWHTsO",
+      "created_at": "Thu Jun 11 10:43:58 +0000 2026",
+      "created_at_epoch": 1781174638,
+      "lang": "en",
+      "like_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 196,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhuwsaakAAnz9p.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhuw_cboAAJzM1.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": true,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065021078456709205",
+      "url": "https://x.com/KangManto123/status/2065021078456709205",
+      "text": "Gasken, jangan anarkis yaa..\n &amp; hati hati ada penyusup 🔥🔥 https://t.co/776ZuwiPGD",
+      "created_at": "Thu Jun 11 10:39:25 +0000 2026",
+      "created_at_epoch": 1781174365,
+      "lang": "in",
+      "like_count": 179,
+      "retweet_count": 54,
+      "reply_count": 48,
+      "quote_count": 5,
+      "bookmark_count": 2,
+      "view_count": 2419,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhtuZDa4AA3qx8.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065007441268658223",
+      "url": "https://x.com/KangManto123/status/2065007441268658223",
+      "text": "RT @urscorpi0: tutor biar punya anak ga mager dong, badannya gendut bgt disuruh diet malah tidur dijalan 🙏🏻 https://t.co/sidQRvL9yV",
+      "created_at": "Thu Jun 11 09:45:14 +0000 2026",
+      "created_at_epoch": 1781171114,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 76,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgXStQa8AA8Rqz.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgXStXaUAAFOIa.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "urscorpi0"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065007317712883987",
+      "url": "https://x.com/KangManto123/status/2065007317712883987",
+      "text": "RT @urscorpi0: suatu hari\n\n👧🏻keponakan ku\n👩🏻‍🦰aku\n\n👧🏻tante aku mau jajan\n👩🏻‍🦰 boleh tp jangan manggil aku tante ya\n👧🏻 emg knp tante\n👩🏻‍🦰 om…",
+      "created_at": "Thu Jun 11 09:44:45 +0000 2026",
+      "created_at_epoch": 1781171085,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "urscorpi0"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065007276365353450",
+      "url": "https://x.com/KangManto123/status/2065007276365353450",
+      "text": "RT @nonaku121393: AKHIRNYAAAA 😭😭\n\nMakasih buat semua yang udah jbjb aku balik, kedepannya aku bakalan makin rajin jbjb 🫶🏻\nKita usahakan gaj…",
+      "created_at": "Thu Jun 11 09:44:35 +0000 2026",
+      "created_at_epoch": 1781171075,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "nonaku121393"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065007208266715598",
+      "url": "https://x.com/KangManto123/status/2065007208266715598",
+      "text": "RT @nonaku121393: Keliatannya emang akunku aja deh yg sepi, ngetweet pun viewsnya cuma 9 wkwk",
+      "created_at": "Thu Jun 11 09:44:19 +0000 2026",
+      "created_at_epoch": 1781171059,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "nonaku121393"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065006989424615701",
+      "url": "https://x.com/KangManto123/status/2065006989424615701",
+      "text": "RT @coldbrewmatcha_: kangen ayam gorengnya resto mantan\ntapi gue takut ketemu dia kalo kesana😩",
+      "created_at": "Thu Jun 11 09:43:26 +0000 2026",
+      "created_at_epoch": 1781171006,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "coldbrewmatcha_"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065006840837251188",
+      "url": "https://x.com/KangManto123/status/2065006840837251188",
+      "text": "RT @jojodahom: ada yg tau kepanjangan TOKMA? https://t.co/08bs42BTvc",
+      "created_at": "Thu Jun 11 09:42:51 +0000 2026",
+      "created_at_epoch": 1781170971,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKfnPRTaYAA7QJ0.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "jojodahom"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065006775380955431",
+      "url": "https://x.com/KangManto123/status/2065006775380955431",
+      "text": "RT @jojodahom: kalian tim bakso apa mie ayam? \nmet makan semuanyaa... https://t.co/ABNrv6DeEV",
+      "created_at": "Thu Jun 11 09:42:35 +0000 2026",
+      "created_at_epoch": 1781170955,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhQLAPasAAPwVJ.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "jojodahom"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065006494672921067",
+      "url": "https://x.com/KangManto123/status/2065006494672921067",
+      "text": "RT @KangManto123: Kontrakan gw hasil dari payout x udah mau jadi gesss... https://t.co/vFTKuj69v3",
+      "created_at": "Thu Jun 11 09:41:28 +0000 2026",
+      "created_at_epoch": 1781170888,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 6,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhgIiSaoAASV1B.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "KangManto123"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065006135548187012",
+      "url": "https://x.com/KangManto123/status/2065006135548187012",
+      "text": "Kontrakan gw hasil dari payout x udah mau jadi gesss... https://t.co/vFTKuj69v3",
+      "created_at": "Thu Jun 11 09:40:03 +0000 2026",
+      "created_at_epoch": 1781170803,
+      "lang": "in",
+      "like_count": 44,
+      "retweet_count": 6,
+      "reply_count": 51,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 1557,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhgIiSaoAASV1B.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2065005779829297452",
+      "url": "https://x.com/KangManto123/status/2065005779829297452",
+      "text": "RT @jenostalker: 😭😭 https://t.co/HyQVZyaQaW",
+      "created_at": "Thu Jun 11 09:38:38 +0000 2026",
+      "created_at_epoch": 1781170718,
+      "lang": "qme",
+      "like_count": 0,
+      "retweet_count": 22,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhXV04bAAANCTt.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "jenostalker"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064986111404032425",
+      "url": "https://x.com/KangManto123/status/2064986111404032425",
+      "text": "RT @LimaWaluSara: Pertalite langkah, Pacaran lama malah dia nikah sama yang lain, maka dukun bergerak.\n\nKehilangan emang sakit, tapi jangan…",
+      "created_at": "Thu Jun 11 08:20:29 +0000 2026",
+      "created_at_epoch": 1781166029,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 8,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "LimaWaluSara"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064986076280930598",
+      "url": "https://x.com/KangManto123/status/2064986076280930598",
+      "text": "RT @Urrangawak: Definisi pensiun yang sehat : ninggalin kursi kekuasaan, langsung masuk kampus buat cerdasin bangsa. Harusnya semua mantan…",
+      "created_at": "Thu Jun 11 08:20:20 +0000 2026",
+      "created_at_epoch": 1781166020,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 23,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "Urrangawak"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064985931669721555",
+      "url": "https://x.com/KangManto123/status/2064985931669721555",
+      "text": "RT @Qu3en_Bakery: Seperti biasa, es kopi bikinan sendiri \nSusunya pake oatside\nCoba kasih tau Kopi favorit kalian https://t.co/gMQZv4DiaL",
+      "created_at": "Thu Jun 11 08:19:46 +0000 2026",
+      "created_at_epoch": 1781165986,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKg81ajawAA8x4N.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "Qu3en_Bakery"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064980236434116967",
+      "url": "https://x.com/KangManto123/status/2064980236434116967",
+      "text": "RT @daryono_eq_talk: Tsunami bkn satu gelombang, tapi rangkaian kejutan.\n Yg terlihat tenang sekarang, bisa berubah mematikan dalam beberap…",
+      "created_at": "Thu Jun 11 07:57:08 +0000 2026",
+      "created_at_epoch": 1781164628,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 14,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "daryono_eq_talk"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064980221837947098",
+      "url": "https://x.com/KangManto123/status/2064980221837947098",
+      "text": "RT @daryono_eq_talk: Anak tdk tiba-tiba jd kejam. Mrk belajar; dari rumah, dari lingkungan, dari apa yg kita anggap biasa. Kalau hari ini k…",
+      "created_at": "Thu Jun 11 07:57:05 +0000 2026",
+      "created_at_epoch": 1781164625,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 10,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "daryono_eq_talk"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064978604249985238",
+      "url": "https://x.com/KangManto123/status/2064978604249985238",
+      "text": "RT @CozyGreenVibes: Ini nama nya klarap. Salah satu penghuni pohon belakang rumah. https://t.co/QFKzhrXwhG",
+      "created_at": "Thu Jun 11 07:50:39 +0000 2026",
+      "created_at_epoch": 1781164239,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKg7-BAb0AAOGDW.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "CozyGreenVibes"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064978440768643398",
+      "url": "https://x.com/KangManto123/status/2064978440768643398",
+      "text": "RT @reftif_: Kalau aku terpacu dengan omongan Ibu, kebetulan diri ini adalah anak tunggal, belum menikah, dan sedang di masa produktif.\n\nIb…",
+      "created_at": "Thu Jun 11 07:50:00 +0000 2026",
+      "created_at_epoch": 1781164200,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "reftif_"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064978385781354512",
+      "url": "https://x.com/KangManto123/status/2064978385781354512",
+      "text": "RT @reftif_: Pegangan lagi teman-teman.\n\nTerkait Polisi dan TNI yang diberi keleluasaan ke ranah sipil, yang menjadi korban siapa? Lagi-lag…",
+      "created_at": "Thu Jun 11 07:49:47 +0000 2026",
+      "created_at_epoch": 1781164187,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 188,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "reftif_"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064978238091477502",
+      "url": "https://x.com/KangManto123/status/2064978238091477502",
+      "text": "RT @kluuxxx: selamat siangg guuyss, udah gedebag gedebug belum hari ini? saran makan siang guyss untuk menemani hari yang gedebag gedebug 😁",
+      "created_at": "Thu Jun 11 07:49:12 +0000 2026",
+      "created_at_epoch": 1781164152,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "kluuxxx"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064978042213326983",
+      "url": "https://x.com/KangManto123/status/2064978042213326983",
+      "text": "RT @YolightP: Selalu sedia kopi sachet biar gak stres😅 https://t.co/c9cpdUIMv2",
+      "created_at": "Thu Jun 11 07:48:25 +0000 2026",
+      "created_at_epoch": 1781164105,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKgls04aQAAD0_B.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "YolightP"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064977813728620847",
+      "url": "https://x.com/KangManto123/status/2064977813728620847",
+      "text": "RT @jenostalker: ayo mam siang dulu sama gacoan 😋😋 https://t.co/3jByDpT7IV",
+      "created_at": "Thu Jun 11 07:47:30 +0000 2026",
+      "created_at_epoch": 1781164050,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKg7ijBaYAAIr3A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKg7ijGbQAAN5Sm.jpg"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "jenostalker"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064966921158844823",
+      "url": "https://x.com/KangManto123/status/2064966921158844823",
+      "text": "RT @denni_sauya: Ucapan &amp; statement Permadi Arya memicu gelombang kecaman dan serangkaian laporan resmi ke pihak berwajib di berbagai daera…",
+      "created_at": "Thu Jun 11 07:04:13 +0000 2026",
+      "created_at_epoch": 1781161453,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 34,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [
+        "denni_sauya"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064966881178759609",
+      "url": "https://x.com/KangManto123/status/2064966881178759609",
+      "text": "RT @Naandaa27: Respon rakyat ketika tau harga Pertamax tiba-tiba naik !\n\n***************\nPagiii Pertalite Donut https://t.co/HJRS23z1uf",
+      "created_at": "Thu Jun 11 07:04:04 +0000 2026",
+      "created_at_epoch": 1781161444,
+      "lang": "in",
+      "like_count": 0,
+      "retweet_count": 86,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 0,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2064927257056133120/pu/img/w8UeoOES_HQfpazZ.jpg",
+          "video_url": "https://video.twimg.com/ext_tw_video/2064927257056133120/pu/vid/avc1/1276x720/8U7Q3YmGpt2aVmIn.mp4?tag=25"
+        }
+      ],
+      "hashtags": [],
+      "mentions": [
+        "Naandaa27"
+      ],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    },
+    {
+      "tweet_id": "2064966860324696314",
+      "url": "https://x.com/KangManto123/status/2064966860324696314",
+      "text": "MIE AYAM",
+      "created_at": "Thu Jun 11 07:03:59 +0000 2026",
+      "created_at_epoch": 1781161439,
+      "lang": "in",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "view_count": 200,
+      "user": {
+        "username": "KangManto123",
+        "name": "MANTO",
+        "verified": true,
+        "followers_count": 43790,
+        "profile_image": ""
+      },
+      "media": [],
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "is_reply": false,
+      "is_retweet": false
+    }
+  ],
+  "tweets_count": 40,
+  "summary": {
+    "total": 40,
+    "top_5_by_likes": [
+      {
+        "rank": 1,
+        "tweet_id": "2065021078456709205",
+        "url": "https://x.com/KangManto123/status/2065021078456709205",
+        "text": "Gasken, jangan anarkis yaa..\n &amp; hati hati ada penyusup 🔥🔥 https://t.co/776ZuwiPGD",
+        "like_count": 179,
+        "retweet_count": 54,
+        "reply_count": 48,
+        "view_count": 2419,
+        "created_at": "Thu Jun 11 10:39:25 +0000 2026",
+        "user": {
+          "username": "KangManto123",
+          "name": "MANTO",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 2,
+        "tweet_id": "2065006135548187012",
+        "url": "https://x.com/KangManto123/status/2065006135548187012",
+        "text": "Kontrakan gw hasil dari payout x udah mau jadi gesss... https://t.co/vFTKuj69v3",
+        "like_count": 44,
+        "retweet_count": 6,
+        "reply_count": 51,
+        "view_count": 1557,
+        "created_at": "Thu Jun 11 09:40:03 +0000 2026",
+        "user": {
+          "username": "KangManto123",
+          "name": "MANTO",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 3,
+        "tweet_id": "2065028207372357704",
+        "url": "https://x.com/KangManto123/status/2065028207372357704",
+        "text": "https://t.co/KmEMNn2P5U",
+        "like_count": 22,
+        "retweet_count": 2,
+        "reply_count": 15,
+        "view_count": 503,
+        "created_at": "Thu Jun 11 11:07:45 +0000 2026",
+        "user": {
+          "username": "KangManto123",
+          "name": "MANTO",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 4,
+        "tweet_id": "2065030377056632998",
+        "url": "https://x.com/KangManto123/status/2065030377056632998",
+        "text": "Purbaya + kursi Alfamart + kopi Golda 😭😭😭",
+        "like_count": 8,
+        "retweet_count": 0,
+        "reply_count": 5,
+        "view_count": 252,
+        "created_at": "Thu Jun 11 11:16:22 +0000 2026",
+        "user": {
+          "username": "KangManto123",
+          "name": "MANTO",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      },
+      {
+        "rank": 5,
+        "tweet_id": "2065055387758584117",
+        "url": "https://x.com/KangManto123/status/2065055387758584117",
+        "text": "Breaking news : Bos kartel narkoba  hell angels australia ditangkap di bali 🚨🚨 https://t.co/NkSRA6NHg4",
+        "like_count": 7,
+        "retweet_count": 4,
+        "reply_count": 7,
+        "view_count": 136,
+        "created_at": "Thu Jun 11 12:55:45 +0000 2026",
+        "user": {
+          "username": "KangManto123",
+          "name": "MANTO",
+          "verified": true,
+          "profile_image": ""
+        },
+        "category": "",
+        "sentiment": ""
+      }
+    ],
+    "engagement_total": {
+      "likes": 267,
+      "retweets": 638,
+      "replies": 128,
+      "views": 5299
+    },
+    "engagement_avg": {
+      "likes": 6.7,
+      "retweets": 15.9,
+      "views": 132.5
+    },
+    "top_hashtags": []
+  }
+}
