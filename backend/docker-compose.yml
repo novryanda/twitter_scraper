@@ -1,0 +1,40 @@
+# Dokploy: set semua variabel di panel Environment (bukan file .env di server).
+# Salin nilai dari .env.example, lalu sesuaikan IP/domain VPS kamu.
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: twitter-scraper-backend
+    environment:
+      API_HOST: ${API_HOST:-0.0.0.0}
+      API_PORT: ${API_PORT:-8002}
+      DEBUG: ${DEBUG:-False}
+      CORS_ORIGINS: ${CORS_ORIGINS}
+      TWITTER_HEADLESS: ${TWITTER_HEADLESS:-True}
+      TWITTER_PROXY: ${TWITTER_PROXY:-}
+      TWITTER_DELAY_BETWEEN_PROFILES: ${TWITTER_DELAY_BETWEEN_PROFILES:-12}
+      TWITTER_MIN_GAP_SECONDS: ${TWITTER_MIN_GAP_SECONDS:-10}
+    ports:
+      - "${API_PORT:-8002}:${API_PORT:-8002}"
+    volumes:
+      - backend_data:/app/data
+      - backend_session:/app/session
+      - backend_output:/app/output_profiles
+      - backend_logs:/app/logs
+      - backend_profile:/app/twitter_profile
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:${API_PORT:-8002}/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  backend_data:
+  backend_session:
+  backend_output:
+  backend_logs:
+  backend_profile:
